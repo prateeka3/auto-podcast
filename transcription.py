@@ -1,5 +1,4 @@
 from pydub import AudioSegment
-from api_helpers import init_aai_api_key
 import pandas as pd
 import os
 from elevenlabs.client import ElevenLabs
@@ -215,7 +214,7 @@ def clone_voice(clone_name: str, sample_paths: list[str], description: str = Non
     )
     
     # Print clone info
-    print(f"\nVoice clone created successfully!")
+    print("\nVoice clone created successfully!")
     print(f"Name: {voice.name}")
     print(f"Voice ID: {voice.voice_id}")
     print(f"Created: {voice.created_at}")
