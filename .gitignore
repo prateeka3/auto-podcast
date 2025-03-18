@@ -172,3 +172,5 @@ cython_debug/
 
 .envrc
 .DS_Store
+./audio/*.mp3
+./audio/voices/*.mp3

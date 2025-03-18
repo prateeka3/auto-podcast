@@ -1,5 +1,3 @@
-
-import assemblyai as aai
 from pydub import AudioSegment
 from api_helpers import init_aai_api_key
 import pandas as pd
@@ -8,14 +6,11 @@ from elevenlabs.client import ElevenLabs
 import re
 
 def transcribe_audio(
+    client: ElevenLabs,
     audio_path: str,
     speakers_expected: int = 4,
-    custom_spellings: dict = None,
-    filter_profanity: bool = False,
-    disfluencies: bool = False,
-    auto_chapters: bool = False,
     force: bool = False
-) -> aai.Transcript:
+):
     """
     Transcribe audio with speaker diarization and custom spellings.
     Prompts for confirmation before consuming API credits.
@@ -23,37 +18,21 @@ def transcribe_audio(
     Args:
         audio_path: Path to audio file
         speakers_expected: Number of expected speakers
-        custom_spellings: Dict of {transcribed: [actual]} spellings
         filter_profanity: Whether to filter out profanity
-        disfluencies: Whether to include filler words and false starts
-        auto_chapters: Whether to auto-generate chapters
         force: Skip confirmation prompt if True
         
     Returns:
         AssemblyAI Transcript object
     """
-    init_aai_api_key()
-    
-    # Configure transcription
-    config = aai.TranscriptionConfig(
-        speaker_labels=True,
-        speakers_expected=speakers_expected,
-        filter_profanity=filter_profanity,
-        disfluencies=disfluencies,
-        auto_chapters=auto_chapters
-    )
-    
-    if custom_spellings:
-        config.set_custom_spelling(custom_spellings)
-        
-    # Calculate estimated cost
+    # Calculate estimated cost. ElevenLabs charges ~$0.40 per hour
+    # https://elevenlabs.io/docs/capabilities/speech-to-text#pricing
     audio = AudioSegment.from_file(audio_path)
-    minutes = len(audio) / 1000 / 60
-    estimated_credits = minutes * 0.5  # AssemblyAI charges ~$0.50 per minute
+    hours = len(audio) / 1000 / 60 / 60
+    estimated_credits = hours * 0.4
     
     if not force:
-        print(f"\nEstimated length: {minutes:.1f} minutes")
-        print(f"Estimated credit cost: ${estimated_credits:.2f}")
+        print(f"\nEstimated length: {hours*60:.1f} minutes")
+        print(f"Estimated cost: ${estimated_credits:.2f}")
         confirm = input("\nProceed with transcription? [y/N]: ")
         
         if confirm.lower() != 'y':
@@ -61,8 +40,13 @@ def transcribe_audio(
             return None
             
     # Perform transcription
-    transcriber = aai.Transcriber(config=config)
-    transcript = transcriber.transcribe(audio_path)
+    transcription = client.speech_to_text.convert(
+        model_id="scribe_v1",
+        file=audio_path,
+        num_speakers=speakers_expected,
+        tag_audio_events=True,
+        diarize=True,
+    )
     
     if transcript.status == aai.TranscriptStatus.error:
         print(f"Transcription failed: {transcript.error}")
