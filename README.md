@@ -5,6 +5,8 @@ Create a short podcast from a conversation.
 1. Load cleaned audio file
 2. Transcribe audio with diarization (speaker labels)
 3. Use an LLM to shorten this into a 15 minute podcast script (offline)
+4. clone voices with longest voice clips for each speaker from original audio
+5. generate shortened podcast audio using script and cloned speaker voices
 
 See autopodcast.ipynb for a walkthrough of the code with an example conversation between 4 friends about AI Therapy.
 
