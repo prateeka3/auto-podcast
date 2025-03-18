@@ -1,0 +1,4 @@
+source .venv/bin/activate
+
+export ASSEMBLYAI_API_KEY=
+export ELEVENLABS_API_KEY=

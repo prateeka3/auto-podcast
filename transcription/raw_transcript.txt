@@ -1,0 +1,880 @@
+Speaker A: And so to each. To move this to a remote meeting for the sake of. We're not doing that.
+Speaker B: We can sit in different rooms.
+Speaker C: Absolutely not.
+Speaker D: So I found a solution to that. Even if you're in the same room, you can split the. You can split who said what? Based on the voices and. Okay, I'll go down that thread a lot later.
+Speaker A: But you want me to record pretty.
+Speaker D: Yeah, I started recording on my end. Just. Just in case Sonia said something else already.
+Speaker A: No, you already started.
+Speaker C: There's a catch. Every time you speak, you have to scream your name. Great.
+Speaker A: Now we're being recorded.
+Speaker C: Wait, so how are we doing it?
+Speaker D: So basically, I'll just get this one recording. I think your recording will be better than mine, but I just want to see the options. But there's another AI tool called speaker diarization that you can just throw it. Throw the recording through, and it'll split the voices, and then we can do all sorts of things with it. Right? Like summaries and.
+Speaker C: Yeah.
+Speaker A: Cool. I actually wanted to start with a question that's not quite AI yet, but I do think it's a good foundation, because every time I've talked to somebody about AI in therapy, just sums up. What do you guys think is the point of therapy?
+Speaker C: Arielle, you think that's the place to start?
+Speaker A: Yeah.
+Speaker D: Arielle's mom should be here.
+Speaker C: Fair enough.
+Speaker A: You think about it. I'm gonna go get some more food. One sec.
+Speaker D: Wait. You know how we were talking about having experts come in? I feel like your mom should hop in.
+Speaker C: I know.
+Speaker D: Did you talk to her about it?
+Speaker C: Should I cold call her low key?
+Speaker D: Like, maybe. Maybe in half an hour or so after we've warmed up a little bit. That could be kind of interesting.
+Speaker C: Yeah, that would be funny.
+Speaker B: Doesn't seem that selective for new members.
+Speaker C: About my mother.
+Speaker A: Okay, who wants to start?
+Speaker D: What is the point of therapy? Wait, yeah, all of you guys do therapy or have been doing it for a while.
+Speaker B: Yeah.
+Speaker D: Yes, yes, yes, yes. I have not started yet. So two different, like, perspectives. You guys want to see them?
+Speaker A: You're starting?
+Speaker D: Yeah, I'm starting next week. I'm excited about it.
+Speaker A: And what was the precipitating of or precipitating I was like.
+Speaker D: I guess I was, like, really extra sad, and I decided to do something about it.
+Speaker C: Oh, yeah. Hell yes.
+Speaker D: Honestly, since AI Club, I'm way less sad. And I'm gonna cancel therapies.
+Speaker A: Yes, since.
+Speaker D: Since talking to Notebook. Lm my best friend.
+Speaker A: Okay, so people go. Yeah, people go to therapy when they're really sad to try to fix, like being sad. But I guess maybe that's so. I guess in that case it would be about a combination of figuring out why you're sad and figuring out what you can do. I feel like you're the most qualified to answer this.
+Speaker C: I feel like there are a lot of reasons to go to therapy. If I had to like, put it in a bucket. It's something about like, it's. Well, here's what I think. It's like, it's a unique relationship in the way that like, you know, a parent child relationship is very particular and has like, norms and things we think are like, appropriate and like ways that you want the dynamic to be. The way you have a friend, a family member, a parent, whatever. I think of like a therapist patient relationship to have kind of its own category. And I think the purpose, it's like so like, it's like a specific type of relationship that's been developed through science and this like, school of thought of like, we can form these relationships between a therapist and a patient so that through the relationship the patient can understand themselves better or like work through a problem. I think it's like the broadest way. Or like. Yeah, it's like a relationship that helps you work through something about yourself or like resolve an inner conflict type of thing. Yes, agree with that.
+Speaker B: I agree with that. I think one like distinction that is like therapy when you have a really like, much more severe mental health issue that needs like more direct, immediate intervention as opposed to like, more generally. Like, we all have, you know, like, general problems that we're working through. So I feel like it's. Those would be the two umbrella categories.
+Speaker A: I guess also, like, how do you feel about to that distinction? Like, how do you feel about steady state therapy versus, like, do you feel like there's always a thing? There should always be a thing you're working on?
+Speaker C: Not necessarily.
+Speaker B: I think it's probably most effective if there is something on your mind. But I don't think it has to be so purposeful, like going into it. Like, sometimes you don't know what like that day's session is going to be about or something like that. And that's when like, you might realize that there is something that you thought of.
+Speaker D: How do you start a session in steady state?
+Speaker A: Interesting. Honestly, I was pretty banal. Like, somebody just says, like, so how are you doing? How's your week going?
+Speaker C: How have you been?
+Speaker A: But then you're supposed to answer honestly as opposed to how you answer every other time somebody asks you that.
+Speaker D: Right. Okay. And that leads me to my second question, which is, like, before this new relationship that you said, Arielle, like, before this, like, role existed of a therapist in your life, like, how is that role fulfilled by other people and other relationships in your life or in a life not yours specifically?
+Speaker C: I think, I think it's a good question. I think it depends what you go to therapy for. Like, to Meryl's point, like, there is a conception of therapy of like, you have, so you have like a, you know, an acute, like severe mental health crisis that you need addressed. And maybe so like the best parallel, like, you go to a therapist the way you go to like a cardiologist or whatever. And so, like, you know, maybe there isn't a clear other relationship that can resolve that. Also, you can go to therapy for being generally lonely. And so, like a rich social life in theory could, like, resolve that. But you're going to therapy to, to get to that or to like, I think to get to something like that. In that case, I don't know.
+Speaker B: I think. Wait, the question was, like, how is it a distinct relationship, right?
+Speaker D: Or like, prior to this, this relationship existing in your life, like, was that role fulfilled by like slices of like a little bit of friend stuff, a little bit family stuff, a little bit other whatever, like random people on the street? Like, like, how is that? Or was it just literally a hole that was immediately plugged by therapy?
+Speaker B: I think, like, kind of, to Arielle's point, I think, like, it's sort of like one slice of the pie. But I think one distinct thing that it's filled for me that I didn't have before is it's a completely one sided relationship. I don't have to worry about, like, when you're talking to a friend and just monologue forever about problems, but with your therapist you can, because you're paying them and that's their job. And so I think that, like, I think it's kind of freeing to be like, I don't care if I sound silly or conceited or narcissistic. Like, it is their job to listen to me at the moment.
+Speaker D: Great. That leads me into another question about the AI side of things. Right? Like, isn't that every conversation with AI?
+Speaker A: Yeah. It reminds me of like, one of the things that came up most often in these articles which surprised me, was this idea of, like, people using it because the reason it's valuable is because it allowed people to avoid stigma and allowed people to avoid that. Like, having to get over that with Another person or having to, like, say that they need help, which I actually don't think is the main value of it. But what do I know? Because I don't feel any stigma around that.
+Speaker B: Yeah, that also really struck me because I think, for me, similarly to you, I don't feel stigma around it, but I can see that being huge for someone else.
+Speaker A: Totally.
+Speaker B: Like, you don't have to tell anyone. You don't have to. It's a lot easier to admit to, like, yeah, a fake thing, vulnerabilities, or something like that.
+Speaker A: I don't know that I've ever had a relationship with a therapist where I feel comfortable telling them stuff that I wouldn't tell someone else. Does that feel abnormal? Like, no.
+Speaker C: Right.
+Speaker A: Like, maybe not. Like, maybe I wouldn't monologue for weeks on end, 45 minutes about whatever, but, like, I don't think I've ever felt things that were. That felt embarrassing or narcissistic or whatnot, that I wouldn't tell a really close friend also.
+Speaker D: But did you? Like, you wouldn't, would you? And did you? Is different, right?
+Speaker A: I definitely. I definitely do.
+Speaker D: Oh, okay.
+Speaker A: I think I generally developed the stance that, like, not any feeling where you feel like you should, like, ashamed of it is, like, a good feeling to figure out how to tell someone in your life because it's a really bad place to be. And I feel like I don't know that having my therapist knowing scratches that itch at all.
+Speaker D: So what's the function of the therapist for you?
+Speaker A: So for me, I, like. I feel like I'm in therapy to, like, put together puzzle pieces. And I think that's, like. I don't think I'm in it for the relationship as much or it's like, I wanna. It's like, you know when you're with somebody and they make a comment and, like, it's like a close friend of yours and they make a comment and you're like, that's so interesting. I didn't realize that that's how you. That it's like. It's always, like, very jarring and sometimes very positive. But, like, I think I'm in it for that to be able to come to those things on my own. Which is part of the reason why I like ket so much. But that's not the direction we're doing this conversation.
+Speaker D: We got our weekly ket reference out of the way nice and early, and now we're not gonna hear about ket anymore.
+Speaker C: I'm staring at a sticky note that says kettle behind the computer.
+Speaker D: Oh, true. Okay. Yeah. Just a reminder. Wait, so what was. Yeah.
+Speaker C: Sonia's point, quickly. I. I haven't. I have not told a therapist anything that I haven't told anyone else. But I do think that, for me, it's easier. Sometimes there are things that I'm, like, it's, like, hard for me to share with people or that it's, like, a little pain. Like, I feel the stigma and the, like, fear of sharing it in a social setting. And even though I do. But, like, it's hard to get to that. And in therapy, it comes out much more easily because of the nature of the relationship. And so, like, sharing it. I don't even know necessarily if it's, like, I share it first in therapy and then it lets me share with people. Like, I think the order kind of varies, but, like, sharing it in therapy in a place where it comes out more easily, like, facilitates working through those feelings of why I feel stuck sharing it in a real setting sometimes.
+Speaker D: And how long have each of you guys done therapy?
+Speaker A: Since I was, like, 18.
+Speaker D: Okay.
+Speaker B: I think for, like, three years for.
+Speaker D: Me.
+Speaker C: Like, a year and a half.
+Speaker D: What? I thought it was zero for you, dude. Like, since you were born.
+Speaker A: You're.
+Speaker D: I'm saying, like, since.
+Speaker C: I was born into a pseudo therapy relationship, I'm so trying to get out of that.
+Speaker A: Okay. So.
+Speaker C: But I think it's great. I think it is important to ask what you get out of therapy and what the point of it is. And I have some thoughts about the. We can keep going, but. But I do have a thought about the. It also struck me that people expressed that it wasn't stigmatizing, and I think that's revealing. I don't think it's a coincidence that people said that. Like, it makes sense to me that people feel that with their time.
+Speaker B: Oh.
+Speaker A: Oh, that we were saying. We were just surprised.
+Speaker B: It is interesting because I actually think there's more stigma for myself around. Around, like. Like, I kind of felt embarrassed when I was, like, experimenting, like, telling my feelings to the spot. I was like, this. This is so much more embarrassing to me. Well, I have zero embarrassment about telling things to my therapy, like, about going to therapy, but I had some shame or stigma around using the chatbot for that.
+Speaker C: Well, okay, but that's. That's actually something that I. I don't know how you guys interpreted it, but did you understand the stigma to be about going to therapy or about what you were sharing in therapy being stigmatized by the person?
+Speaker B: Oh, I think both.
+Speaker A: Oh, interesting.
+Speaker C: I Understood it. Maybe I misunderstood it, but I understood it as you weren't worried about being stigmatized in the conversation.
+Speaker A: You were worried about being stigmatized by the fact of going to therapy.
+Speaker C: No, no, no. I'm saying the people were saying it felt great because I wasn't worried because of that conversation. Not the stigma of going to therapy.
+Speaker B: Yeah.
+Speaker A: But I also do wonder if there's more people with. I guess, I mean, I have really mean and, like, not nice thoughts all the time, but I don't think I have, like, I think there are probably. If I was having thoughts of, like, wanting to kill people or want, like, really extreme thoughts that, like, I felt like, were not extreme. Acceptable to share. And part of the reason I can tell my friends whatever is it's like, I feel like they're gonna get it, even if it's like, whatever. And so that I could see being like, I just can't tell a person this. I'm imagining somebody who had, like. Like, imagine if you had, like, were sexually attracting to children. Like, how do you even say that to a person so scared to say it? Yeah, like, those are the kind of situations where I could totally see that.
+Speaker B: And that's like, the most dangerous to me because, like, using that example, like, you should have shame, probably. I don't know, like, it's so delicate. How I would handle that versus therapist. A good. There. I mean, I'm probably also a good therapist too. Could help you work through that. But, like, one end of it could be the AI making you feel like it's normal and not helping you work through it in the best way. Versus, like, probably that shame is helpful because you know it's wrong.
+Speaker D: Right. I wonder how the AI would deal with that, because my experience with chatbots in general is all like, they're always affirming. They always make you feel good about your decisions and, like, maybe slightly nudge you in a different direction, but nothing drives drastic.
+Speaker A: You know, I feel like there's some flags where they're like, oh, you're talking about murder or you're talking about pedophilia. Like, no, cannot affirm. But I feel like you could get to a place where you're talking to it and it didn't set off the flag. And then I've actually started telling Claude every time I talk to it. I'm like, you are way too prone to affirming me. Please contradict me. And, like, that helps a lot. But, like, people are going to do that. I'm telling you. But I think, you know I think part of the reason you wouldn't say, okay, you want therapy, go talk to Claude. You'd say, you want therapy, go to this, like this, like very well tested, like therapy bot that, you know, has all this prompting in place and has been trained on certain data sets and also like, you know, has, you've given it like a user profile. Like, this is who you are, this is how you react to all these different things.
+Speaker C: Well, here is the first regulatory tidbit here. When a patient tells my mother that they're suicidal, she has a legal responsibility to act on them, right. If she hears that in a session, doesn't do anything, and a week later the patient turns out dead, like, that's like illegal. She would lose her license. Like, you know, that's not allowed. So there's a whole set of protocols she has to follow. When someone is like expressing self harm or harm talk, like, I'm gonna shoot up a score or something, like. And so like, you know, you'd imagine you'd want an AI bot to, to follow those rules in the same way. So if someone writes that you need to be in contact with the police or with like a hospital or like some, like, you know, you have to like get eyes on the person or you need to be immediately in contact with someone that's with the person and like make sure that you're, you know, monitored. So you need to do that. I don't know what the protocols are for like pedophilia or stuff like that.
+Speaker B: Like, I don't know what like the.
+Speaker C: Type of legal action is. I could imagine if there's like a threat of like acting on something like that, it would be the same. But like, yeah, just expressing that.
+Speaker B: I have a little bit to add to that. I was talking to my friend who's in law school about AI Club yesterday.
+Speaker A: It's her boyfriend who's Colin, who wanted to join.
+Speaker B: Yeah.
+Speaker A: Who we rejected.
+Speaker C: Your boyfriend?
+Speaker B: No, it was Michelle's. Michelle's boyfriend is calling. Anyway, so I was telling her, we were talking about this, like, and we were saying, yeah, what is like, who would be liable in this? In the situation you mentioned, someone said, I want to commit suicide. Therapist doesn't do anything, they're liable. Who's liable? And then Michelle also told me that they were just learning about the. That there's like a couple different distinctions. So if someone like, like level of intent or like level, like the probability that you think they're going to commit harm to themselves or others is one way to determine liability. But Then the other factor is also how easy it is to like pinpoint the person that they're going to harm. So the example she said is if somebody was like, oh, I'm gonna kill this person that I met in China in 2010, and the therapist has no idea who that would be, they're a lot less liable because like, how would they track that down? So if relating it back to pedophilia, maybe there's the case of like, well, if they're not mentioning a specific child or something, maybe there wouldn't be liability.
+Speaker C: Right.
+Speaker A: I actually think I read somewhere that that I could be wrong about this. But the therapists are mandated to report people who say they have sexually or sexual or dysreg children, which to me seems like the most fucked up thing ever because like, how are you supposed to. How else.
+Speaker B: How else are you supposed to get help? Yeah. And if you're telling a therapist you're probably trying to help yourself.
+Speaker C: Exactly.
+Speaker B: Yeah.
+Speaker C: I found it interesting that Soda didn't include any sources on the people that have killed themselves after talking to their AI chat.
+Speaker A: To be clear, guys, I do not condone using random chatbots who are posing as denarius for therapy.
+Speaker D: I, I feel like the like, the extreme examples that we're talking about like suicide, killing other people or pedophilia are kind of closely tied to the self driving example. I like that's. I'm glad that you pulled up that first source. So it got me thinking about that. It's because like in general, maybe another.
+Speaker C: Oh yeah, the self driving parallel.
+Speaker D: Right? Yeah. In one of those. I feel like a theme that was also coming about in like LLM based systems is like, how do you guarantee that an LLM does or does not do certain things? Right.
+Speaker A: It's not rule based.
+Speaker D: It's not rule based. But can you guarantee that it'll stop the car under certain circumstances or it can stop or start the car or that it. Or like every time someone ever mentions killing themselves, they're going to report it or like flag something in the system. Like how do you guarantee certain behavior?
+Speaker C: I talk, but how do you guarantee that? Like Meryl was saying, like it needs to. It's not just I have desires for, for children. It's like it would have to be able to read in a like way that we trust that it's discerning between cases where it's like really healthy, that it's coming up and they have no intent to act on it and they're like being vulnerable about this thing. In therapy, which is exactly what you want versus, you know, the other case where they're expressing it and seem like they can act on it.
+Speaker A: Well, the other self driving car, parallel. Now that we're saying it like this, I feel like there's two different things. Right. We talked last week, we talked about like, okay, so self driving car makes a mistake. Like they should have done this. It's a bug and you fucked up. And the other is the self driving car actually like made the choice based on all the factors. And yes, somebody ended up dead, but that was like, like that wasn't whatever. And to me there's two things here. There's like, all right, an LLM fucks up and like doesn't identify a suicide risk. Like, and is like affirms somebody in a terrible way. And then there's like, okay, imagining that an LLM like gets it right. Like you actually they can demonstrate the emotional nuance of a person. Also. There's a lot of bad therapists out there. That's the other thing. Like, there's also that it's okay, a.
+Speaker C: Lot of bad drivers out there. I think it's a good.
+Speaker A: Yeah, actually. Yeah, totally, totally.
+Speaker C: And that's always gonna come up because humans are imperfect, sadly.
+Speaker A: But I think in that case then there's a different question of like, there's like the hazard of an LLM fucking up and then there's the. Okay, imagine it didn't.
+Speaker C: Right.
+Speaker A: Then what are the issues with it?
+Speaker C: Right.
+Speaker A: Which are like a different set of issues, I think.
+Speaker C: And it gets to the responsibility stuff. That sounds like you're talking about like if they.
+Speaker B: Up, right? Yeah.
+Speaker C: Like what if they make a decision that we deem maybe in retrospect reviews the dialogue and it's like, okay, it seemed reasonable to assume they were going to act on it and then they don't do anything about it and then they act on it. Where's the responsibility lie? It's the same conversation.
+Speaker A: We're thinking more. I'm thinking less about like the LLM, like something bad happening. I'm thinking more about like maybe separate from. We can talk about either one of these, but separate from the extreme cases of like, here's what could go wrong? Like, okay, imagine that it doesn't go wrong. Like, then what is the. What are the pros and cons to having an LL UN enabled therapist?
+Speaker B: And can I make one more comment on the. If it goes wrong and liability before we go to that? Even like in the situation we have now where it's a lot More clear who's liable. Like, if you're suing therapist or like, you're suing McDonald's for giving E. Coli or something. You know, like, at the end of the day, the liability just like a pay. You know, someone paying you, like, you can't raise someone from someone from the dead or, you know, make yourself get back the last time that you were sick. So at the end of the day, as long as there's an entity. So the company that. The therapy chatbot that's going to pay you out, it almost seems like a.
+Speaker A: Moot point, except for what are they going to accept responsibility for? Because if every time somebody kills themselves and they say, okay, we'll give you a $7 million payout, they're gonna. Like, I don't. I think they would be averse to accepting that responsibility where they're like, no, this person might have killed regardless, so why should we?
+Speaker C: The liability is for, like, acting negligently, right?
+Speaker A: So I agree. In cases where the LLM fucks up and everyone's like, yeah, the LLM fucked up, the company pays. Or, yeah, I guess the company pays. But in cases where it's unclear, in cases where you know, somebody, like, even with the Daenerys example, what she actually said, she was like, come home. And he took that to me. He should kill himself.
+Speaker C: Whoa, that's a fucked thing. That is a freaky thing to say.
+Speaker A: I'm not denying that it is.
+Speaker C: Hey, I didn't read. Well, you. You read the conversation, so.
+Speaker A: Yeah.
+Speaker C: What was happening around that text?
+Speaker A: Well, first he was like, granted. First he was like, I, like, want to kill myself. And she was like, don't do that. That would make me so sad. Don't do that. And then she said something like, you know, it's like, don't kill yourself. Like, come. I don't remember exactly, but, like, come be with me instead or something. No, don't. All to say, like, yes, kid was obviously incredibly mentally ill, and the Daenerys chatbot was not well trained to handle the situation.
+Speaker B: But.
+Speaker D: I just like riding dragons. Why are you asking me these questions?
+Speaker C: I'm gonna try to make it through this meeting without my voice. We're gonna keep. Is that why you're crossing your voices?
+Speaker D: Okay, well, I think, like, another thing that is kind of important that all of the existing therapy that I've seen so far doesn't do is if you can't use text only, you need the verbal cues. Otherwise, how are you supposed to understand their intention behind things, whether things are sarcastic or whether things are meant a certain way or not. Right. Like, I'm just thinking about transcribing this conversation and maybe the thing that I like the summer summarization says that like Sonia's a pedophile. Because.
+Speaker B: At one point you were like, you did say like, I liked you.
+Speaker C: It's like.
+Speaker B: Don'T say that.
+Speaker C: I'm not in favor of recording. I pratik. I think that's a great point. I really do. I think it's a great point. Especially when we're talking about conversations that are inherently emotional. It's therapy. Like it's not communicating data points.
+Speaker A: Unless you think that everything can be broken down into.
+Speaker B: Yeah.
+Speaker C: Which it can't. Yeah, that's right. I said it can't.
+Speaker A: I think that's right. But also like, it's not like you can't. Like increasingly LLMs are getting good at the like, like multimodal processing. Like that's not far off. I feel like. Yeah. A therapist that was only chat based would be seriously limited 100%. But I think about like, okay, here's an example. So in college I volunteered with this, this organization that did. It was a cross crisis text line and you just texted with people who were in crisis. It could be like suicidal, but also it could be like, you know, something really awful just happens. There's no reason, especially being it being over text thinking about that now that an LLM couldn't have done a good job with that. Honestly, it was about validating people. It was about like, like, you know, honestly you could have written like a three page prompt that would have done exactly what I did.
+Speaker C: Yeah.
+Speaker B: I think that I see a strong case for AI being better than people.
+Speaker C: In that situation and similar ones out of like texting.
+Speaker B: Yeah. That like everyone that. Yeah. And like there's a reason why there is that service in those situations. For like, for certain kinds of people in really narrow situations, text based help is helpful. But I think for all the ways we've been talking about like the purpose of therapy at the beginning, I think there's a reason why none of us have gotten those things. Like, you can still text therapists now too. Yeah, but like it wouldn't have been the same thing.
+Speaker A: I mean, I guess the question is do you have some belief that in the same way that LMS and they're extremely good at mimicking like language and could be good at that, but they couldn't in 10, 15, 20 years be good at doing the whole thing literally being like a video on a screen?
+Speaker B: Yes. But my question would be, why, if we also have people to do that?
+Speaker A: Well, it's so expensive. It's so, like therapy. So expensive. I don't. Therapist or not, but, like, I don't think we do. And there's a lot of that. There's some great, amazing therapists. And I think taking out like, the 5% of amazing therapists who, like, you know, make you feel whatever.
+Speaker C: 5%? What do you mean, 95% are bad?
+Speaker A: No, but I'm saying. Yeah, I would say like 30, 40% of therapists are not good.
+Speaker D: Well, it doesn't matter in general, you just want. Everybody wants the best possible therapist they could get. Like, why not just hook them up with the absolute best in the field? Right?
+Speaker C: That doesn't exist. I reject the idea of best therapy. I agree there are bad therapists, but therapy is. It's a very individualized experience. It's about forming a relationship with this person you're interacting with for you could be a good. Could be a great therapist for someone else.
+Speaker A: Yeah, but like. Yeah, it's true. But I think about some of the people, like the two good therapists I've had were somebody who I saw in Philly who was out of network, and the guy who your mom hooked me up with, who was great, also out of network. I think, like, how many therapists I've tried for like, two sessions who are like, in network therapists.
+Speaker C: Terrible.
+Speaker A: Terrible. But that's most of the therapists I've interacted with. Like, unless I go out of my way to look for a recommendation from somebody who knows, whatever.
+Speaker C: Sure, right. There are bad therapists, right? A lot, but sure. I don't know what the percentage is.
+Speaker D: Well, I think, like, with. With or with AI therapists, like, I think it's. Or with real therapists, they come preloaded with their own thoughts and experiences, their own training and their own approach to therapy. Right, but the point of AI, or not the point, but like a interesting thing that you can do with AI, that you can't do with people is that they don't have a personality. Right. If you don't want them to, they develop with you. So, like, they will. It's almost like the more you tell them, the better they will be at being your therapist.
+Speaker C: I, I disagree with that.
+Speaker D: Really?
+Speaker C: Why? Because I think. And maybe this is. There's a lot of good. Like, there's. There's a lot of things I, I think are hopeful about integrating AI as a technology into mental health access and treatment. But I think that one of One of the things you lose with this idea of using AI as a therapist is that once again, like we, this came up last week, like you are replacing a human interaction that contains frictions. Like, that person is coming with their own training and their own set of thinking, and you need to find them. And sometimes you'll encounter one that's not a good fit for you, which might be a better term than a bad therapist because they might be a good therapist for someone else. Some of them are plain bad. Some of them are not a good therapist for you, and they might be a good therapist for someone else. And with an AI, you remove all of that friction and instead you get something that is hyper tuned to be the most stylized for you. Like hyper stylized in a way that a human cannot be, will never be. And so that's good. But then you have to ask, what are we losing when we get rid of all those frictions? And one of the things that we're losing, which I think maybe is that one of the most fundamental things of a therapist relationship and of any human relationship is being heard by another person. And you're not being heard by a person when you're chatting to your aiba, you might think you are. And a lot of. And I'm completely sure that in 10 years it'll be much better, even better than it is now at convincing us that you're talking to a person. But at the end of the day you are not. And so a lot of people, and you know, this goes back to what we were talking about, like the various reasons people go to therapy. There's a million reasons. Some might be better suited to integrate AI than others. I think a lot of people are very lonely and go to therapy for loneliness things. And there's like clearly some like loneliness epidemic, whatever thing that people talk about. And that seems to be kind of a problem. And it seems like it is a little bit of this like pill that you meant. You put in one of your questions, like, is this like a pill solution?
+Speaker A: That was Pratik.
+Speaker C: Oh, fatigue foot. I think this is a little bit of that where like, I think the solution to loneliness is like meaningful interpersonal relationships. And therapy is an interpersonal relationship when it is with a human where there's like shared lived experiences which requires some friction. Like the person doesn't maybe immediately understand you the way an AI might make you feel understood, but it's a human that has a shared lived experience. And so once you get to a point of understanding, it's a lot more valuable because you got there with another person and so the quick pill of the AI is actually depriving you of the ability to get there with another human.
+Speaker D: This raises a ton of questions, dude.
+Speaker A: Fun.
+Speaker D: Yeah. Because you're saying I don't even know how to start. What you're saying is there's something about the interpersonal connection that you can only get with a human, regardless of how good an AI gets at mimicking him. Humans.
+Speaker C: A thousand percent.
+Speaker D: Sonia. Go for it. Go for it.
+Speaker A: I, I have so many thoughts, so. Okay, I, first of all, just to say it, okay guys, I really like people. I really like people a lot. I actually think that there's a lot of like my gut reaction is to agree with you, but as I said last time, I don't know that it's a philosophically rigorous argument because what makes that alone?
+Speaker C: No, but there might be some.
+Speaker A: I guess, first of all, if you take like the, if you call the relationship with your therapist, it is a one sided relationship where the entire point is to create a space in which you feel comfortable exploring ideas and feel heard and working through things.
+Speaker C: It's not a one sided relationship though. It's one sided in that the like person receiving help is one way, whereas a friendship is like you, but it's not one sided. And like, especially like a psychotherapist would never say it's a one sided thing because they think of therapy as like a lifetime patient therapist experience where there's like this whole relationship that's extremely like sacred, whatever. But like putting psychotherapy aside, like none of it's a one sided relationship.
+Speaker A: Okay.
+Speaker C: Because the person brings experience. Like Pratik was saying, the person brings their biases and their experiences and they're like humanness to it.
+Speaker A: I guess I'm just not like, I think it's the thing that you were. I think there are specific cases that people could be going to therapy for like loneliness or feeling like not accepted by other people. Where having a person. Person make you feel accepted or not lonely would be a part of that, like net ad. But like.
+Speaker C: I think. Yeah, no, I think it would add value to that and to marriage problems. So all like couples therapy. Yeah. Well, give me an example where it would have.
+Speaker A: I mean, I think like, maybe the thing. I think first of all, let's like putting aside the fact that LLM therapy is like free slash a fraction of the cost and you can give it to everyone, that's actually a pretty compelling argument in of itself that you could get somebody, like you could get people to have this thing to talk to about, you know, relatively trained entity to talk to whatever they need to talk to it about. And it would give good advice. It gives, I mean, not compared to great friends who know you really well, but it gives decent advice.
+Speaker C: Oh that I agree for sure.
+Speaker A: But I think the thing that an AI therapist would be even better at than a person honestly is if it, if you give it enough data about yourself, it's going to see trends that a person wouldn't. A person might see different trends, but like I just have this belief that to your point about you said not everything can be a data point. I'm not sure that's true. And I think, I don't know how to capture every data point, but I just think that there could be really interesting insights that a person could not get to just because they don't have the processing power of an LLM.
+Speaker C: I just disagree with that. Like I agree on the computation point, like without a doubt, but I think that's not what it's all about.
+Speaker B: I also think maybe there's different conclusions or advice or trends they could see, but I don't think like that it could capture everything that a person could and then some. I think it would be different.
+Speaker D: Can I ask a question here to like work with a concrete example? If we talk to an AI therapist and you have a full conversation, 45 minute session, how is that fundamentally different than if a real person therapist says you have the same session with a real person and they say the exact same things that AI does?
+Speaker B: One thing maybe to refute the point I just made, but I think it would be really cool if like the fact that AI can remember everything that you've said. I do think sometimes it's a little frustrating.
+Speaker A: Yeah.
+Speaker B: And I'm like, are you even listening to me?
+Speaker A: Are you even gonna get it if you can't remember all the details? That's one day I would never do.
+Speaker C: But here's, this is a great point of the flip side of like, when your therapist does remember intimate things about you, there's value to it because they work for you. There is a human like, wow, obviously they're paid for, it's their job. But like when they're doing their job well, it's because they're connecting with you. They remember that story you shared intimately and it's a vulnerable story and they remember and that's part of their job. What's the value of that? The AI knows it because it's in the ledger or whatever the fuck.
+Speaker B: I also Think, and this is probably because I'm not in like a crisis situation. I don't expect perfection from my therapist. Like, I understand that she's a human and she does forget things. And I think sometimes she said things I don't agree with or like giving me a take that I don't agree with. And I think it's part of the, like, in relationship to your point where it's actually really valuable for me to be like, you know, I think you got that wrong. Or I don't think that's right. Or like, you miss a feeling that I shared. And I think even though you, in a way, I think it's, for me, it's easier to do that. Some, like AI would do that too. AI did that while I was chatting with my law earlier today.
+Speaker A: Yeah.
+Speaker B: I was like, no, you didn't.
+Speaker A: Right.
+Speaker B: And it was actually easier for me to tell AI because I'm like, oh, I'm not hurting anyone's feelings. But I think there's an added benefit of telling that to a person because it's a human relationship and because it's self advocacy in a different way.
+Speaker C: I agree.
+Speaker D: I. I want to. Okay. I want to counter that a little bit. So, like, I didn't even realize I.
+Speaker A: Brought Arielle an ally.
+Speaker D: Yeah. Therefore, we should cut Meryl just to keep our ratios correct.
+Speaker A: I think I've proved with.
+Speaker C: It's easy to be team human. You guys can join whatever you want.
+Speaker A: You know who's doing the brave work. You know who's doing the unpopular brave work is me and Fre.
+Speaker C: Me and Ma. I. I spent so much time thinking about it after last week's call. I was like, was I being gaslipped? I think, I think there are arguments that are like, harder to argue because society, just like you guys won, like, society is on your side.
+Speaker A: Wait, no. Are you kidding? Everybody thinks. Everybody in. Everybody who I know, sure, there's tech bros who think whatever, but everyone's. Nobody's gonna tell you that AI is better than people. We're doing God's work here.
+Speaker C: I completely disagree.
+Speaker B: I think if more people agreed with us. We have seen AI regulation. We haven't seen any.
+Speaker A: Not only that, the money.
+Speaker C: The money. Where is money going? All the money in the world is going into AI companies. There's no money going into investing in training more therapists. No. Right. It does.
+Speaker A: No, it doesn't.
+Speaker C: I really think it does. Why not?
+Speaker A: Yeah.
+Speaker C: How does where the money flows indicate something about what society values and what it doesn't value?
+Speaker A: No, of Course, of course. That we value AI, we value efficiency, we value convenience, yada, yada, yada. But that's not. But just because as a society, that's where we allocate our resources. I don't think that that means that the vast majority. It's like how Most people in 2016 voted for Clinton and Trump won. That's a bad example.
+Speaker C: Terrible example.
+Speaker A: It's like how most people in the.
+Speaker B: U.S. most people in the U.S. hate social media. But we.
+Speaker A: Everyone uses it. Most people believe in gun regulation.
+Speaker C: That's very different. It's very different. Social media is an example of where we're going to go with AI if we continue.
+Speaker A: Exactly. Social media people. Everybody has a negative take on social media. How often do you tell? No, but for a while, right?
+Speaker C: Yeah. But not when it. Not when it came about. Social media problem is this. When it started, everyone was for it.
+Speaker A: No.
+Speaker C: Okay. The consensus was, this is amazing. Yes. It was like, obviously it was.
+Speaker B: I don't, I don't think that's like revolutionizing the world.
+Speaker C: We're connected. I can message my grandmother like a thousand percent. Yes. And then the, like the problem everybody still has, but now, because they have to. Now it's a different problem. Now it's like a collective action problem where, like, if everyone hates it, but if one person leaves, you're worse off being out.
+Speaker B: It's more of an addiction problem. Like, it's too hard to.
+Speaker C: That too. Yeah. There's an economics theory paper that builds a model showing that even if everyone uses social media and gets net negative benefit from it, if you individually exclude yourself from social media when most people are still in it, the harm is larger in a way that it forces everyone to stay in it in a.
+Speaker A: Sort of extreme way. Yeah, exactly.
+Speaker C: So it's like. And then there's the.
+Speaker B: Yeah. Wait, why does it force everyone to stay in.
+Speaker C: Because you're better off staying in it.
+Speaker B: Even though it's because the harm if you leave is worse.
+Speaker A: I feel good.
+Speaker C: Yeah. I think, like, I think it's more compelling thinking about, like, if you're in high school and everyone is messaging on Snapchat all the time.
+Speaker B: Time.
+Speaker C: And everyone's kind of worse off. But then you being the one kid that's not on Snapchat, then you're the.
+Speaker B: Weirdo and you miss out on like critical social bonding and learning what the slang is.
+Speaker A: I guess I'm just not sure I'm sold. I'm sold that there's value to human relationships, to be clear. But I'm not sold. Because I think that why am I so. That's a great question. It's exactly the kind of question I'm trying to ask you. All you can say is that they're good because they have friction, which is not compelling argument.
+Speaker B: I think that's super compelling.
+Speaker A: That human relationships are valuable inherently because they have friction.
+Speaker C: No, not inherently because. But that's one friction is why the AI is not good and why it is good to have these relationships.
+Speaker A: Okay, why are human relations valuable, first of all? Just from like, who are we as people? We're like social, literally hardwired to do that. So like, you need people just to be happy. A bajillion studies have shown that, yes. I don't think that we should be having AI replace social networks. I just think there's a value, a critical value to AI in a situation where you are trying to learn more about yourself. I think it would be. I actually ultimately think that that's what I'm saying is like, it would not forget things. It would have more training than most people. It would be able to see patterns that you couldn't see otherwise. It can process a lot more information about your life and not forget that. I'm not saying that it would. I'm not saying, I'm not saying that it would replace relationships. I'm not even saying like, maybe you really want to have a human therapist. Fine. But I actually think you could play a pretty critical role in better understanding yourself.
+Speaker B: If, if you weigh an excellent, well trained therapist in person who's human against AI, like, which would you. Which do you think would be better? Because are you, I guess I'm wondering, are you saying, like, by universalizing access to some form of therapy that like, all right, makes it worth it, but we also still have human therapists, or would you say, are you saying an AI is better than even a good human therapist?
+Speaker A: Well, I think first of all, like off the bat, I think as a, as a way of filling the gap of like people not being able to afford therapy. It could be an amazing solution if you like.
+Speaker C: I actually, that would be very, extremely.
+Speaker A: Skeptical, but a whole lot I think that that could be really valuable. I guess going back to a point that made earlier, you said what if, what if you had a conversation with someone, it was a video conversation with your therapist, and you met with them for years, and you just didn't know if you were getting an AI or a person. You just didn't know. Is there something inherently better about having been talking to a person that Whole time they can take on a personality. Like, is there something inherently bad? Are you saying no, there's not?
+Speaker D: I don't think there is.
+Speaker A: Yeah, I don't think so either. If you don't know, you don't. You never know.
+Speaker D: And to add to this, add to this actually something that you said earlier, Arielle, you're saying, like, it is very valuable when the therapist remembers something, like some intimate moment that you shared with them maybe many months or years ago, that you're like, oh my God, this is relevant Now. I don't think the value is actually in the remembering, actually, because the LLM can do that too. But I think hypothetically, the value is in the fact that, like, I, as a sad human being, told you something in private and I've never told it to someone else, or like, I haven't verbalized this in this way. It's super raw and it still resonated with you, another human, enough for you to remember it. And the only reason that that is valuable is because I am mainly concerned with talking to humans. I'm not mainly concerned to talking to LLMs. Does that make sense? If, if a therapist who is a human can remember something that I said in like a half baked, like, really raw version, like, maybe there is something that's valuable to my thoughts and feelings about the that event and I can go talk to my human friends now.
+Speaker C: Wait, but also, but, but also what I was saying was that it was valuable because there is effort in them remembering that the AI does.
+Speaker D: I don't think that's what the value is. I think the value is, like, I'm comparing my human therapist to my human friends. But I do think there is a future where we don't have like, it's like a 50. Like half my friends are AIs. I don't think that's impossible. I actually think the next generation will have that.
+Speaker A: And also, what happens if AI start developing like, desires and consciousness and it ultimately becomes a question of like. But then it also becomes a question of like, is it inherently better that we're carbon based creatures? Like, no, I don't think we are.
+Speaker C: Well, I would, I think it would be more appropriate. AI therapist, solve your problems with your AI friends.
+Speaker D: Exactly. Exactly.
+Speaker C: At some point, jims, I think it's more important to have a human dance.
+Speaker A: Why?
+Speaker C: If I'm having interpersonal struggles with my AI friends, then I would want my therapist to be AI.
+Speaker D: Wait, you guys laugh. I don't think we're that far away.
+Speaker C: But since I care about my Human interpersonal relationship.
+Speaker A: No, that's me. It's like saying I have problems with my girlfriend, so I like to see a woman therapist. She won't understand.
+Speaker C: No.
+Speaker A: Yes.
+Speaker C: No, it's not at all. Not at all. Actually, when you are talking about how the therapist is good because it has infinite memory and it can process data points. So it's better than a human that doesn't remember and that can't process, it reminds me like, I feel like it misses the point in the same way that it's like an AI girlfriend is better because they can't reject you. Like, no, that's exactly why it's worse actually, because they can't reject you. So when a human doesn't reject you, it means something. When an AI bot doesn't reject you, it literally means nothing. When an AI bot remembers a message you sent two weeks ago, it means literally nothing because the message is stored. There's literally nothing to it. When a human remembers something, it says a million intangible, non data point translatable things. Like it says something about the value of it, like to Prateek's point of like, whoa. You can interpret it like it was interpreted as meaningful in some way to them because they remembered. That's one thing that you learned. The other thing you learn is the person cares enough and like put in the effort. So I feel heard in a way that you can never feel heard unless you are deceiving yourself. That is like the only way to feel heard by an AI bot is to deceive yourself because they're not hearing you. Like, they're. They're processing data and spitting data. So like, anything you ascribe is mere deception.
+Speaker B: I also think I was something as you like. As a way to evaluate both of these arguments, I've been thinking like, would I be a better person if I had not forgotten anything? Like, if I could remember everything, would I be like a better version of myself? And I think the answer is no. I think there's really reasons why you forget things because they don't resonate, they don't connect. It's just maybe like, yeah, I don't think there's necessarily this inherent value to remembering everything. I think it could be helpful in terms of recognizing some patterns. But I also think there's probably value in like, maybe like rustling up some memories that you had forgotten in the process of figuring out the patterns for yourself or something like that.
+Speaker A: I guess I definitely agree that it's not helpful to remember everything. I guess, is it helpful for someone Else to remember everything on your behalf to be able to find patterns that you can't because you can't rustle up the memories. Like I agree that I don't think you should be your own therapist in the same way that I don't think you should store all the memories you can form the patterns that if the sole purpose of this bot is to help you figure out like form patterns, see patterns and etc, then like is there like we all want our therapist to remember more about us, right?
+Speaker B: True or false?
+Speaker C: I don't know.
+Speaker A: No, no, don't. No, I don't know.
+Speaker C: I don't.
+Speaker A: You know, you want your therapist to remember questions about you, conversations with everyone. Maybe not critique but like everyone you hear about. Like it's really frustrating that a therapist forgets something. It's like are you. It's yes.
+Speaker C: Like, okay, so you'd want it to remember a little more.
+Speaker A: Yeah. You want it to remember the stuff that you want that you thought was important. And there's no way for another person to like effectively engage every single thing that you think is important. So proxy for that is just ruin my everything.
+Speaker B: Okay, this is also.
+Speaker C: No, because then, well, I think I'm not.
+Speaker B: I actually think like yeah, there's little things that it's annoying what my therapist forgets, but I think the biggest value and like why I would want my therapist to remember things about me is because I would want them to remember the ways that I was speaking or feelings that I was sharing. Kind of like the intangible non data point things. And I would want my therapist to say after seeing me for like two years, like wow, you're approaching, I can see in your face or something that you're approaching this problem a really different way. Or like you seem to have so much more self esteem in the way that you're talking about this. Like that's what I want them to remember and that's what I'm not confident.
+Speaker A: That AI could do even in like 15 years though. Though.
+Speaker C: It could never.
+Speaker A: What? What do you mean it could never.
+Speaker C: It's not a human.
+Speaker B: I don't think it could never. But I really, I struggle to see how AI could do it better than a good therapist that's taken the time to get to know you and knows what it's like to be a human can like empathize with to understand.
+Speaker D: If a therapist read all like your journals for two years, like how could they not be a better therapist therapist because of that?
+Speaker B: Because partly I think it's also what you Reveal to a therapist that makes them a good therapist. Like, I wouldn't want a ther. I wouldn't want my therapist. Let's say this is possible to, like, climb into my head, understand me perfectly, and then give me advice. So much is also how you share it when you share it.
+Speaker C: Right.
+Speaker B: Because that's part of it too.
+Speaker C: That's part of it. If the. The things you develop in your relationship with a therapist are the things, I think in many cases that help you work through your things in the sense that, like, again, it's a human relationship, so it has these frictions. Like, you're a little hurt when they forget something. And then the flip side is that you feel hurt when they do remember something or they say they. Like, you see them working towards a problem with you, and sometimes you really agree with the conclusion, and sometimes you don't. Or there's like, shared lived experience behind what they're sharing. I feel like that is, like a huge thing. Like, think about people that have, like, substance abuse problems, that get therapy from people that have overcome substance abuse problems. Like, what is the AI chatbot replacement to talking to someone that has gone through your trauma? Like, someone who has been depressed and is now helping you work through your depression?
+Speaker D: Like, couldn't you train the AI?
+Speaker C: There's nothing that replaces also the chatbot.
+Speaker A: The chatbot argument, I'm assuming. I think one question that I'm really curious for both of you to answer because Pradeep and I both have is, what if you can't tell?
+Speaker C: Wait, but I want. I want your answer to that.
+Speaker B: I don't.
+Speaker A: I think that there. If you can't tell, there makes no difference whatsoever.
+Speaker B: Wait.
+Speaker D: Oh, we gotta watch Ex Machina.
+Speaker A: I know, I know.
+Speaker B: Okay. It's kind of like. But I still feel like someone. You're still being deceived. It's kind of like, would you rather be blissfully ignorant about something? And I know your answer to that is no. Like, what if you wouldn't. Let's say your parents are not your biological parents. You never know. Like, wouldn't. I guess you don't know, so it doesn't matter. But it kind of does matter. Like, you would still want to know.
+Speaker C: It's pushing over completely the question. And first of all, it's not. You shouldn't think of it as like in a. In a text box. Right, we agree with that. Yeah. It's like you're in person, you're crying, you're sharing about your substance abuse problem. And this person who has lived through that and you know, has lived through that. Is like, their eyes are watering with you, and they're, like, holding your hand, like, to me. So I'm not denying that maybe there will be an AI that can water their eyes optimally when you're sharing your story. But it is. I feel like you're agreeing. You're, like, losing the argument if you're saying if the only case where it works is when you have no idea and you're never gonna know.
+Speaker A: No, but. No, it's. But it's an important question because the question.
+Speaker C: It is. It's not.
+Speaker A: No, it is. It is.
+Speaker C: Because it's like, it's really not. Because then it's like, okay, it's better to have a human therapist unless there's secretly a perfect robot that's not a human. But no one knows, and no one's ever going to know, and you're never allowed to know. Otherwise, it's not better.
+Speaker A: Can I explain to you why I think it's an important question? It's an important question because it gets at this. Like, it's not. I do think, like, there's. I almost want to say it, like, you get randomly assigned a therapist, and you don't know whether it's an AI or a person. Like, you don't know. And maybe we get to a point where we just don't care as much as the reason it's a valuable question, I think, is because it gets at this question of if ultimately the goal of therapy, like, yes, it's about the therapy of the relationship, ultimately, it's all about you. It's about. You go to therapy to figure shit out about yourself.
+Speaker D: No.
+Speaker A: You think you pay. It's all. Okay, I'm sorry, that's crazy. It's all about you. Therapy is all about you.
+Speaker C: It's not true. Okay, I have a. Well, I have a.
+Speaker A: Therapy is all about you.
+Speaker C: I have a question for you.
+Speaker A: Okay, I'm not done. Therapy's all like.
+Speaker D: How is it. How is it not all about you, bro? Don't get it. Don't get. I'm completely lost. I was with you for a hot second, dude, but now I'm like, oh, man, I'm back on Sonia's side. I'm back. Yeah. Oh, man. Arielle, you're gonna have to explain that one. I'm gonna have to ask your mom about that one.
+Speaker A: Therapy is all about you. And so if it is all about you and, you know, learning about yourself, growing, etcetera, it shouldn't matter what delivers that. Okay, Right. And if the thing that you need to deliver that is a relationship with a person or some kind of this feeling of, of somebody understanding you, like a person. I'm just not sure that if somebody can completely. I mean, imagine that you had an AI therapist, right. Who in every way now you're trying to be. So.
+Speaker C: It would explain a couple positions. She's done this.
+Speaker A: I think. Imagine that you're in a situation where like you have an AI therapist and it's. It's either a combination of you don't know or they're like, yeah, I'm an AI therapist, but.
+Speaker C: Yeah, you got me. Processing, processing, processing.
+Speaker D: Maybe.
+Speaker A: What if it was there? If there's been thoughts and desires.
+Speaker C: All right, but now that's a difference. I have a follow up question for you and I know you've thought about this question because we took philosophy classes together at Penn.
+Speaker B: Okay.
+Speaker C: If there were that where you could put yourself in and. No, it's not. Yes, it is. And get a pure happiness where you are truly happy and blissful and you're getting all the dopamine hits and you are in like this state of happiness, but your whole life is just in this vat, would you want that life?
+Speaker A: That's not the brains of Matthew. Brains of that situation. It's not just that you're like euphorically happy. So you think all this stuff is happy. Like, if I was a brain in the back, I would think I was here.
+Speaker B: What if this is a dream and I'm in a video game? That kind of thing.
+Speaker A: Sort of like, like. No, more like. Like you are like this idea that you're this brain in the back and somebody can like shock you into having every memory that you want to. So everything in your life can go exactly the way that you want it to.
+Speaker C: Right. You could have this wonderful life. You get like.
+Speaker A: I mean, ultimately your entire life happens in your brain. Like it's not. I don't think that's. That, that.
+Speaker C: So would you choose that life?
+Speaker A: Well, I. Which honestly, I should choose that life. Philosophically, I should choose because I'm conditioned as a person to all my brain inside my head embodied.
+Speaker C: Okay, in your head in a box. Why don't you want that?
+Speaker A: No, no, I'm saying as a person, I want to engage with the world and living space.
+Speaker C: But why?
+Speaker A: Because we're literally evolved to exist in this world. Same reason that, like I'm unfortunately conditioned to want people around me. Because they're annoying.
+Speaker C: Yes. Why? This is true. This is who we are as humans for the same reason. I don't want my brain in the vat.
+Speaker A: Doesn't change that. Because the brain in the vat, you still go in and you still think you have all these relationships, and yet.
+Speaker C: We are sitting here agreeing that that is in some way a worst life. No, but we are agreeing that it is a worth. I'm not agreeing with that.
+Speaker A: I'm not agreeing with that. Nobody here knows that they're not agreed in the vat.
+Speaker B: Yeah, but given the choice, even if. I don't know I'm being deluded. If I could choose, I don't want to be the deluded. And that's why, even if I couldn't tell that it's an AI therapist, I know right now that even if I couldn't tell, I would want the real thing.
+Speaker C: Exactly.
+Speaker B: And so I don't think I care.
+Speaker C: You want to be in the vat?
+Speaker D: I would be indifferent whether it was a vat or a real thing.
+Speaker B: Okay, what about, like Truman Show?
+Speaker D: I would also be indifferent. Yeah.
+Speaker A: But think about how often that's.
+Speaker C: Consistent with wanting your AI therapist.
+Speaker D: It is. Yeah. It's the only philosophical. Philosophically rigorous argument. I actually don't think I would care.
+Speaker B: That's crazy.
+Speaker D: I used to be. I used to be the other way, and now I'm like, if you feel the exact same things and you're per. And you perceive the exact same life, why does it matter?
+Speaker B: Because it's inherently less rich?
+Speaker C: Well, it's. You get to choose what to perceive. So you wouldn't. You could make your life however you wanted it to.
+Speaker D: Thank you. Yeah, yeah, agreed.
+Speaker C: You can make it only happiness or only good experiences.
+Speaker D: Oh, that's different.
+Speaker C: Experiences.
+Speaker D: I thought it was like, I lived this life and then at the end you die, and then you're like, oh, I'm in a vat the whole time. Would that change how I felt about my life? But you're saying you get to choose.
+Speaker C: To right now to live a life where you're actually living it or where you're just processing it like you're living it so you're not actually living any of it?
+Speaker D: No difference to me. Everything in your brain anyways. Right. Who cares? Is that. Is that like, dystopic or something?
+Speaker B: It's just like, what happened to you, what beat you down.
+Speaker D: But why is it what you think? Better than that?
+Speaker C: I think it is indicative. It's devaluing human life and human experience a little bit. Because you're indifferent between being in a box and Living your life.
+Speaker D: No, I think it's easy to think that it's devaluing it when you say say it that way. But how would I say, Like, I. It's like the way you perceive. Like what you actually perceive is equivalent. And would you. It's like, I don't know, when you touch something, you just get a bunch of brain signals that you touched it, right? Like, what's. What's the difference between actually touching something and getting the brain signals?
+Speaker A: Literally nothing.
+Speaker B: Cognitive.
+Speaker A: Cognitively nothing. Wow.
+Speaker C: What are these?
+Speaker A: This was the entire. This was like. My entire final paper is senior spray of college was like, well, I was trying to prove that shapes exist, but. So it's a useless fucking class trying to prove that shapes exist. But the point was that, like, it doesn't really matter if they exist the way we think they do. Like, it doesn't matter if the world around us is what we think it is.
+Speaker C: No, wait, so would you want what was. Oh, no, no, no.
+Speaker A: It's supposed to be that.
+Speaker C: What. What was your answer.
+Speaker A: To br it up? Well, no, you know why. You know why I wouldn't want br. I actually like my life a lot. I'm not trying to change it, but if I was, if I hated my.
+Speaker C: Life, you could have your same life in the vest.
+Speaker A: Well, but it's. I'm six and a half dozen, so why would I change it? I have inertia. I mean, I think the point is, obviously if you ask somebody, they want their brain in the back, they're gonna say no.
+Speaker C: But yeah, Pratik is indifferent. Worse. He's worse than choosing. He's indifferent.
+Speaker D: You literally told me their equivalent. Why would I not be indifferent? This make any sense? You guys are trying to make me feel bad. I'm like, I don't want to talk to you.
+Speaker C: I don't want to talk to you right now. I want to hear why Sonia does not want to live in a vat when every other argument she's made seems consistent with the idea of her wanting to live.
+Speaker A: My not wanting to live in a vat is irrational reaction. Irrational reactions.
+Speaker C: We are irrational.
+Speaker A: I know, but that's not. That's great. Why do you love that so much, Max?
+Speaker C: Grace? Because it's what makes us human. It's true.
+Speaker A: What's up?
+Speaker B: I'm sorry, I have a new.
+Speaker C: I'm sorry you don't like what makes us human.
+Speaker B: Okay, I have a new points in trajectory.
+Speaker A: They don't understand anything about why it.
+Speaker B: Would is better to have a human therapist than A robot therapist. And that is because that was settled.
+Speaker C: We already settled that one.
+Speaker B: We've settled it because you are interacting to the human interaction argument. You're interacting with someone that has, has their own set of life experiences and has something different to share to you. And that's why I think that we were talking earlier about, like, a highly personalized AI model that to me seems like a very slippery slope of like, only interacting with yourself in a vacuum, only teaching yourself what you could teach yourself. Whereas I think there's a ton of value in like, interacting with people that are really different from, from you and have different perspectives. And I think that an AI, no matter how I think I believe in the, like, inherent humanness of, like, yeah, you could write this whole backstory for an AI about how they have this whole life and whatever, but I don't think that is equivalent to a human living a life being 40 years old and having, you know, 40 years worth of experience that they can teach you.
+Speaker A: I'm just not sure I agree that it's not the same. I'm just not sure that it's not the same for somebody receiving the advice. I don't know that our LLMs are where we need them to be for this argument to make sense, but I really believe that we're going to get to a point where AI is better at these sorts of things than the average person. It's better. And so I can totally see the argument for I want to connect with a person, I want my friends to be people, et cetera. But in terms of like, I mean, sure, you can say there's like some. Something ephemeral about therapy. And there, there is, and I, whatever. But I don't know that an LLM couldn't pass itself off as having that kind of life experience.
+Speaker B: Okay, wait. I have a concrete example of this that I really struggle to see how an LLM could have created for myself. I remember talking to my old therapist. I'm good. And I, we were talking about my ex boyfriend with substance use issues. And I was like, navigating all that with this therapist. And we talked a lot about this. And then, like, it took him a long time to reveal this information. But I remember my therapist telling me at one point he was like, I used to live with someone that has substance use issues. And like, he told this anecdote about how when his root roommate was moving out, he, like, helped him clean his room and he found all these bottles in his closet. And how that helped my therapist realize, like, no matter how much. I was trying to help my roommate overcome his substance use issues. I. There was nothing I could have done to help him. And, like, I feel like that was such a human thing to share. First of all, because it was a real experience. He also used his judgment to. To, like, not like, about when was the right time to tell this story about himself, when it would impact me most, like, that it would help me. Because I think therapists, like, don't usually share personal stories about themselves. But he used our relationship to, like, deduce that this might be helpful to me to hear in that moment. And it was, and it's stuck with me since.
+Speaker D: So the fact that you're able to bring break down the effects or like, what you just said, like, the timing was right. They came up with, like, they had a story that was relevant. They decided to say it at the right time in the right way. They revealed the right amount of, like, the way that you're. The re. The ability for you to, like, break down the effect it had into these components is exactly what I would ask you. When I'm making my AI Chatbot, that's exactly how I encode it. That's how I prompt engineer, everything.
+Speaker C: There's so many things about that experience that the AI can't replicate.
+Speaker A: I just. I disagree.
+Speaker C: I'll tell you what.
+Speaker B: Well, no, you go on.
+Speaker C: The first of all, first and foremost, the main thing is that it's a real story and it's a real experience that this person is sharing. Second of all, the person was vulnerable in sharing them. It's not an easy story to share about yourself and is also fraught with these, like, professional questions, how to share it. That required vulnerability. And that sounds like it's part of what made it meaningful, that it was shared. And those things, again, the lived experience of having lived that and sharing that is fundamentally not possible with a computer. It's just not. And so you're taking all of that away when you're tinkering parameters that will continue to get better and continue to be able to fabricate stories that are perfectly targeted to what you just shared and that are, like, compelling, I'm sure. But it's not a lived experience, and it's not the vulnerability and it's not the human sharing it.
+Speaker D: So I think actually the question that you were asking that we talked about before Sonia took a break was the whole, like, brain in the vat, but also. Or I guess what I'm trying to get at is, like, at a certain point, AI therapy will be 99% as good as human therapy. That's just like, my belief. Just assume that's true.
+Speaker C: Well, not. If you think that what makes good therapy is feeling connected to another human that understands you, then it's never. It's not going to be 99% any of that, because it doesn't do that.
+Speaker A: Like, you're just what an element is gonna be able to do and you're over.
+Speaker C: I'm not. Because when I use the Notebook stuff and all that, I was super impressed, genuinely. I use Claude every single day at work. So I am extremely pro quad and think LLMs are fucking amazing and have never used it for a personal thing like uploading. I uploaded some, like, diary entries and I was once again extremely impressed.
+Speaker A: Were you?
+Speaker C: Yes. I was like, this is as good as it is at coding. Help in the, like, quick interaction I had. Like, I haven't gone deeper, but it picked up basically everything. I am not a hater on that. Like, I'm not denying any of that. I'm sure it's just getting better, but it's not about improving. It's like a different fundamentally set of things that it's just not. It can't do. It's a computer that it does not do, like, the lived experience part of it. So it's like, it's not about questioning. Like, I'm a huge fan of these LLMs. It's just for me, a completely different set of things, I guess.
+Speaker A: Like, don't you believe that computers will. If that's the direction that we end up going, which I think we will. Because humans are obsessed with themselves and obsessed with the way that they think, like, computers will become. But there's a couple different things. Right. Notebook LLM doesn't look like a person. It's text. And so you lose that off the bat.
+Speaker C: Yes. Right.
+Speaker A: I think.
+Speaker C: Which is better or it's less deceptive.
+Speaker A: It's less deceptive, right? It's not deceptive.
+Speaker C: What is deceptive?
+Speaker A: It's not deceptive.
+Speaker C: It talks to you like a human.
+Speaker A: It literally says at the bottom, this could be wrong. Like, it's not. I mean, humans haven't like, patented talking like a human. Like, that's just my. Like.
+Speaker C: But it is actively trying to talk like the human.
+Speaker B: But it's.
+Speaker A: Right. So our babies, so our kids. Like, right?
+Speaker C: Yeah, but it's a computer, so it is deceptive in that sense. You feel like you're talking like, okay, whatever. We're saying the same. Like, it's good at imitating a human.
+Speaker A: I'm just not sure. I actually think that at some point imitation and, and doing, like, at what point do they just converge?
+Speaker C: Never. Because the power of sharing with another human that has lived what you've lived. Like why is it meaningful that Meryl's therapist shared this story? Because this story brings evokes these deep personal feelings of pain. Like when you go through that, it was a painful experience. It's painful to even bring it up. They're sharing it. You feel the person, you, you are feeling the pain of the experience. You're feeling the person's feeling of pain from that experience. Like I think those are like the essence of what's happening in these things.
+Speaker A: What about that?
+Speaker C: Imitation doesn't do unless it's deception.
+Speaker A: An AI that is like, we're watching this show right now that Jasper. Actually, Jasper recommended Pantheon. No, not this Pantheon. And the, the idea is UI uploaded intelligence. So the idea is you basically map someone's brain. You missed the episode. You map somebody maps like an entire brain and all of the different neural circuits, etc. Into a computer. Okay. And so as a result, this is Brain in the vat. This is Brandon the Bat.
+Speaker C: Like this is Brandon the Bat.
+Speaker B: Sarah.
+Speaker C: Been so many good one liners.
+Speaker A: But you upload an entire brain of a real person with real lived experiences. What about if that person turns around and is a therapist so they have all of the real experiences of a person. They just now exist in a computer. That person is dead or whatever the fuck.
+Speaker C: But I don't know what that means.
+Speaker A: No, you do.
+Speaker C: I mean, not really.
+Speaker A: Imagine that you could create a brain in a computer in a different substance than like carbon.
+Speaker B: That to me is like the same thing as AI though, because it's still like not. It's just, it's like the same thing as AI, but trained on a brain because it's still not like a person. What am I trying to say?
+Speaker C: Why don't we focus on the technology we actually know, like an LLM? Because I don't, I don't. I have no idea what this is. But like we can push Forward with a, a 10 years down the line. LLM, but something we can like think about. Like what is the counter to that of like it not having these lived experiences?
+Speaker B: Okay, I was actually thinking about this as you were talking. I guess I don't necessarily know that that's a true story from my therapist. Like it seemed convincing, right? It seemed convincing. And. But people are really good actors, you know, and maybe he was just like, you know, I think she would resonate by hearing this story. I'm good. So I was kind of thinking, like, well, how would I feel if he made that up?
+Speaker C: Right.
+Speaker B: And that.
+Speaker A: And.
+Speaker B: And it was convenient with all the emotion, you know, of. And I felt like it was real and it resonated with me, and I felt like he was being vulnerable.
+Speaker C: Yeah.
+Speaker B: And I guess I kind of come back to, like, I guess I'll never know. And it impacted me the same way until I started doubting it. Not that I'm doubting it, but, like, I think you'd have to fully, fully believe that it was true in order for it to be impactful in the same human way. But I think given the option, I would always rather not be ignorant to being lied to, you know?
+Speaker D: Right.
+Speaker B: I don't want to be like Truman in the Truman Show.
+Speaker D: Even if I, you know, were you. Was that session in person zoom? Did it. Do your sessions in person feel any different than zoom sessions?
+Speaker B: I've always just done zoom therapy.
+Speaker D: Any other people who have done both? Do either of you guys have.
+Speaker C: Yeah, I, like, in person, in person's way more. Way more.
+Speaker D: Okay, so is there something, I guess, like, I'm trying to counter argue my own point where it's like, assume that I am on the same wavelength as Arielle and Meryl. Like, what do they believe?
+Speaker A: Where do you get a leap every year?
+Speaker D: I'm like, what do they believe that I'm missing? Right. And it seems like maybe you guys tell me if I'm wrong, but maybe there's something intangible or, like, human consciousness related that is, like, unspoken on. Like, there's no, like, verbal communication or non verbal communication through which we discuss this. But, like, me talking to you as a human feels way better. There's like, some, like, human consciousness argument for being, like, real therapists are still useful. Like, we're like, sharing our traumas with someone who's also connected to some joint consciousness. This goes into, like, religion and stuff. But, like, I feel like we're gonna get into that discussion anyways. Like, do you guys believe in that? Does that help you reason about these kinds of discussions? Is that, like, the value of having real person things versus AI things?
+Speaker A: But the question is, it's very, very Has a consciousness.
+Speaker D: It's like, is there some value that you guys are deriving from in person or, like, people, like, talking to actual people that is related to, like, some shared human consciousness that the AI can't happen?
+Speaker B: You have to go. It has to be like a religious argument for that to be True. Like, I'm thinking, thinking about how it's like when you're a baby, like literally just like having your mother's touch, like makes you a more well adjusted human. I think that was where my first, my mind first went to. I think there's probably some kind of parallel of that of like, that's why like in person work or that's why like meeting someone in person, you're always gonna have a different connection and you can get really close. Like I've gotten really close with co workers that I've never met before. But like I'm always gonna want and we're always gonna get closer if I meet them in person.
+Speaker C: I agree. I think the zoom example is actually like a good, like lower level technology case that we can talk about that. It's like you can make the resolution better, you can make the audio better. I'd still prefer you being here. And like there's something is lost when you're on a screen versus if you were sitting on the couch with us. And like, I think it's for different reasons, but like the same thing applies to like the chatbot making up shared experiences versus a therapist. And I think to your point, to your earlier thing, I would argue and maybe, I mean, it's your experience, so maybe disagree if you disagree. But I feel like if you were doubting, if it were a real story when it was happening, it maybe wouldn't have been as important.
+Speaker B: Yeah.
+Speaker C: And so, and so that's another thing that you build with a human therapist is like this trust. You're like building up a trust that when they are sharing this, you place value on it because you don't think they're sitting there telling you whatever you want to hear for the $10 million you have to pay them every save 45 minutes for a session. Right.
+Speaker D: Okay, so then I think like, this is an interesting thread that's different than the stuff we've already talked about. It's like, what's the gap? What are some like, gaps that we can cross with AI therapy to make it better? Right. Like right now it's text based. Obviously that's not great. Go to voice and it's already better. Right, but what are other things that like there's, there's this gap of like seeing someone in person. Like what is it? Like endorphins, I don't know, pheromones. All sorts of things that like we exchange through the air, like that trigger certain things in our brain and it just feels different to be in person. Like can we? Like, there's someone measuring that shit, you know, and, like, trying to figure that out. Like, I don't know.
+Speaker C: I'm just going to come clean and say I want AI to be. I don't want. I don't want. I. I don't think.
+Speaker A: Did you read the article about how AI needs there?
+Speaker C: Yeah. Yeah, that was funny.
+Speaker A: Yeah, it was a good research title.
+Speaker C: Anyways, I. Yeah, I think I would opt for putting our money and our energy to making human therapy more accessible and better than to making AI better for therapy.
+Speaker A: It just seems it's such an intractable problem.
+Speaker B: I know it's not so apples to apples, but we know AI is going to destroy a lot of jobs that can be automated. And I was talking with Sonia the other day, like, okay, what are the jobs that are going to become really valuable? Like, I think therapy is one of those jobs that's going to become really valuable. The other example I gave to Sonia was, like, childcare and, like, teachers, things like that. So I would love to see. I. I think where I land is like, I totally think there's like, like your suicide hotline example or like, I think for a lot of people, like, having someone to talk to that approximate a human approximates a human is so much better than having no one. But I think there's a limit to which we should be, like, you know, injecting pheromones in the air. Like, I don't think we should go, like, AI, like, sneezing everyone. Yes.
+Speaker C: Came up in our text messages.
+Speaker A: Yeah, because you looked up pheromones, and then it was pheromones work. If you're an insect with.
+Speaker D: I think there's two things that I want to bring up as, like, general topics. One is like, maybe we can talk predictions. And then two. Can we call your mom, Mario?
+Speaker C: Yeah, for sure.
+Speaker D: Okay, cool. I feel like.
+Speaker C: Let me text her, see if she's around.
+Speaker D: While we were talking, I started writing down some questions about what we would want to ask a therapist. It's in the bottom of therapy.
+Speaker A: You're really pulling then. You're on weight in this group now.
+Speaker B: Have you been taking notes as well?
+Speaker A: Notes?
+Speaker D: We're recording. Yeah.
+Speaker A: For us.
+Speaker D: Yeah.
+Speaker A: Honestly, this is good because Ariel's an extreme humanist. Unnecessary. I'm an extreme fine.
+Speaker C: Again, Sarah's choosing to label me extreme. I don't think there's anything extreme, but I do agree she's an extreme.
+Speaker A: And Meryl agrees with Arielle, but it's a lot more reasonable and critique it reasonably. But it's a lot more reasonable.
+Speaker C: I reject completely.
+Speaker D: Are you saying I'm like Meryl?
+Speaker C: I think Meryl and I are equally reasonable. You guys are Pratik, we're obviously right.
+Speaker A: And the world is gonna prove us right.
+Speaker C: And obviously the world already agrees with you. I want to. No, I cannot agree. Like the world, obviously it is pro technology. Without a doubt. These are. No, but that is the question. Like LLMs getting better is not like some God mandate. Like we are pushing aggressively in that direction. It doesn't just happen overnight. Like that is what we are choosing to do. No one is pushing to make healthcare more accessible and cheaper and like.
+Speaker D: Well, let's talk about the concrete thing that Meryl said. Like do you guys think that therapists will be highly valued skills in the future?
+Speaker C: I hope so.
+Speaker D: Do you think so what do you think?
+Speaker C: I, I.
+Speaker D: I'll take the other side of that.
+Speaker C: Wait, you think like, like as a like concrete prediction of. Do you think that's where we're headed or like.
+Speaker D: Yeah, exactly. Let's talk about our predictions. Like based on what you think. So like my prediction is it's going to be a little wacky, is that people will have AI friends and they'll want their AI therapist for those AI friends. Therefore there'll be less therapists will be either equally valued or less valued than they are today.
+Speaker B: You think people are going to have AI friends?
+Speaker D: Yeah, yeah.
+Speaker B: Like text based or, or like some.
+Speaker D: Version you might be like the goggle.
+Speaker A: Space, like hanging out with your AI friends in a virtual room. I feel like that's right around the corner.
+Speaker B: Do you think the average person or really sad lonely people are going to have the average person?
+Speaker C: Because the average person is becoming sadder and lonelier.
+Speaker D: I don't think it's because of technology.
+Speaker C: Without a doubt. Wait, so you guys think all that and you still don't think the world is on your side?
+Speaker D: No, she doesn't think the world's on her side. I think the world's on our side.
+Speaker C: Right, so you are the reasonable one.
+Speaker B: I think you're consistent.
+Speaker C: Yeah, you are.
+Speaker B: Believe everything.
+Speaker D: No, true.
+Speaker C: You gotta choose the that too, bro.
+Speaker A: I, I know all the benefits of being a human.
+Speaker C: And you keep saying you value human relationship heaven or articulated.
+Speaker B: Guys, at some point I do want to read you guys what my little chat bot was telling. I was like, I'm gonna ask it. I was like, I'm gonna ask it about like some interpersonal stuff.
+Speaker D: Come on.
+Speaker A: I also want to hear what everybody learned about themselves from Notebook Lm Oh.
+Speaker B: I didn't do that.
+Speaker C: Sorry.
+Speaker B: Oh, also I just wanna. I wrote some notes before this woebot.
+Speaker A: So funny.
+Speaker B: That's like the hilarious name for. Yeah, that was mentioned in one of the articles. But I couldn't sign up. So funny. Okay.
+Speaker C: You couldn't sign up?
+Speaker B: No, you needed like an access code.
+Speaker C: Oh really?
+Speaker B: So I was asking it. I was like, I went to brunch with some girls that didn't make me feel good yesterday. Should I continue investing in the friendship? And what really bothered me, I did the one that they used in the first article. I forgot WISA and I hated that. Everything that I said it validated. Sounds fun. Smiley face.
+Speaker A: That's awesome.
+Speaker B: Like all of that? Well, just everything. It was like, tell me about how basically I was like, it's so obvious that you are just programmed to validate and then ask me to continue sharing how I feel. I and it's just like good enough.
+Speaker C: Oh, you're thinking that?
+Speaker B: Yes, yes.
+Speaker C: Yeah.
+Speaker B: Anyway, sorry. Then I was like, wait, who is this? This is my AI the little box.
+Speaker C: Which one?
+Speaker B: This one is Wissa. W Y S A. It was the one that the woman who lost her bakery used in the first.
+Speaker C: Oh yeah, the npr.
+Speaker B: Yeah. Anyway, so I asked, do you think I should continue investing time in this group of girls that I had brunch with yesterday? That's a tough call. It's important to think about how you feel around them. Do you think they add value in your life or do they drain your energy? And then I said, this is going to sound bad, but I think they could add value to me by inviting me to fun events. And it said not bad at all. And I just thought that was crazy. Terrible advice.
+Speaker A: Terrible.
+Speaker C: Yeah, I know. That's someone that knows you. Yeah, yeah. Why do you think she should continue hanging out?
+Speaker A: I think she should hang out with them in specific situations. I think they would invite her and us to follow them.
+Speaker C: There you go. A self interested human.
+Speaker A: And I also think going into it with different expectations, like it's an interesting group of people just for like, like whatever. Yeah, but I don't think that going into it like expecting to be friends with them is a good idea. I mean I can give you all the art, but that's the same reason you're going to this thing tomorrow. Like you know that he doesn't really make you feel good, but you're going anyways because you want the experience. Not bad at all.
+Speaker B: Yeah, I don't know. I guess. Yeah. But that's why I'M like, how far are we to like an LLM that could actually give a nuance to that? Because this, I think is bad advice.
+Speaker A: I agree with that. But the other thing about that is.
+Speaker B: Like, but I think it should say, like, I don't have enough context. Instead of just being, instead of just being like, that's not bad.
+Speaker C: Make it unprofitable as a product. Make it a worse product. That's true.
+Speaker B: Because it's asking people. Yeah. Or asking people to dig deeper.
+Speaker C: Right.
+Speaker B: My, my impression from this brief interaction was I think maybe this chat bot could be useful for someone like really lonely or really sad or really not, like super intelligent.
+Speaker C: Super unintelligent dummies. That's really funny. That's really funny.
+Speaker A: But I also think, like, there's so right now in rightfully so, I'm sure there's so many guardrails on LLM enabled like therapy bots that they probably can't do. I think they could probably do a better job if the controls were more nuanced, if people invested more time into that, etc. And that they're. I mean that. I agree it's bad advice and out of the box. It should have said like, tell me more about like, whatever.
+Speaker B: Yeah.
+Speaker A: But I think the thing that will make therapy AI useful is not that it can like have a conversation with you, it's that it has all the context. And like, you know, I think if you uploaded like all of your journal entries, all of you or whatever, it would be really interesting for it to be like, oh, this reminds me of XYZ situation. And.
+Speaker C: But do you not think there is value in. No, in you providing a context. You do the work of telling your story to this human.
+Speaker A: What is your obsession with friction and work?
+Speaker C: Because that is literally what everything in life is like. That is what living means.
+Speaker A: Why is therapy necessarily. Why does therapy have to be part of that? Why does therapy have to be part of that?
+Speaker C: It's about interpersonal experiences. It's like half of therapy is you talking and you explaining what your thing is and you talking through it and that makes you think. And it's the same way that, like there's this Ezra Klein podcast where he talks about how he thinks about using LLMs to write. He's like, it makes it way easier to create a draft, but something is lost in that 30 minute period where you're staring at a blank page and you can't just generate text by giving bullet points to ChatGPT. Instead of that, you actually have to formulate the sentence. And some. Something might be in that. It might be exactly where you are thinking about my structuring what I want to say. What do I even want to say? Like, how am I choosing where I'm. That's friction. That is like so much hard labor.
+Speaker A: For having a calculator.
+Speaker C: I think it's important for people to learn how to add and subtract and how to do what does he know.
+Speaker A: How to do it? Should we keep doing it?
+Speaker C: In some cases, yes. In some cases, no. That's a great example of yes. No, we shouldn't have calculated because we can calculate everything and yet we still learn geometry in school. We still do calculus. Why do we do that? That's a great example. Yes, it's a great example actually. Because there's value in learning calculus even though there are computers that already know how to do so. Same for writing.
+Speaker A: There's value in learning how to write.
+Speaker C: And in continuing to do so. Because there is like in. In doing that and when you no longer something. And so with interpersonal relationships.
+Speaker A: But your therapist isn't your only interpersonal relationship.
+Speaker C: Of course not, but. But though it's a technology, the purpose of it is just to get better at them.
+Speaker B: I think what you're describing, Sonia, like a tool where you can upload all your past journals and all that. I think that is super fascinating and super useful and like a really good tool.
+Speaker A: Either you. Oh no.
+Speaker C: But also super you.
+Speaker B: Yes. You've literally done that. You asked us to do that today.
+Speaker C: Literally.
+Speaker B: But I think it doesn't exactly replace therapy. But I could see a world where it is a good addition to therapy.
+Speaker A: Or like the backbone to. To an anti therapist.
+Speaker B: Yes. Or like a different tool that could be used in different situations. You know, just like how there's crisis hotlines and there's different types of therapy and there's like, you know, art therapy and things like that. Like, I think it's a different tool that could be used, but I don't think it's ever going to be a perfect replica.
+Speaker C: I agree with that.
+Speaker A: If I had said that, you would have said that was.
+Speaker C: No, I think it's interesting thing you're saying you're. You're saying it's the same thing that I very much disagree with or that it can even replicate the things they can't. Completely different exercise.
+Speaker D: I have nothing to add.
+Speaker C: Any other questions?
+Speaker D: Not really. I can switch to like what we want to talk about next week.
+Speaker A: Yeah, true, true.
+Speaker D: Did your mom say anything?
+Speaker A: Oh, wait, let me tell you guys, really quickly about my conversation head with Claude about this.
+Speaker D: Yeah.
+Speaker A: Oh, wait. I just want to hear everybody who did Notebook and learned about themselves. Okay. What do you think are some of the most interesting, unusual questions that LLM and Angel Therapy creates? And Todd said that a fascinating question. The authenticity paradox. How do we reconcile the fact that an LLM can provide genuinely helpful emotional support and insights while simultaneously not having real feelings or experiences? There's something fascinating about therapeutic value when emerging from interactions that are simultaneously authentic and simulated. The Temporal Discontinuity challenge. Unlike human therapists who build on previous sessions and maintain a continuous therapist relationship, LLMs typically start fresh. I told you that was stupid. Agreed. The calibration. How should an LLM balance being supportive versus challenging? A human therapist develops the skill through real emotional experience and supervision. Okay, so I said I think the first point makes a lot of sense. The second two feel like they could be overcome. In fact, I think an LL could do a better job of remembering details and finding patterns. There's no reason why we couldn't theoretically feed the LLM all the previous contexts. And couldn't an LL build this. Build this skill set through training? Do you think this is an inherently human skill? Also, you have a tendency to be very agreeable, and I want to be challenged. If the points I'm making aren't entirely logical or aren't airtight, please tell me and tell me why. And he says you make an excellent point that I should push back more.
+Speaker C: I'm sorry we don't say that to you.
+Speaker A: Okay. I mean, Arielle and Meryl, it agrees with you regarding continuity. While the LLM could theoretically be fed previous context, there's a crucial difference between having access to information and truly integrating it into a developing therapeutic relationship. Even if the LLM can perfectly recall every detail on skill development and challenge your assumption that training is equivalent to skill building, well, yada yada, yada, yada.
+Speaker B: I kind of hate that AI was able to summarize or path or like the entire conversation over the past, like, three hours.
+Speaker C: Yeah, but would it have been the same to just read that alone in your home versus have this conversation?
+Speaker B: That would not have stuck with me. It wouldn't have had the same. We're still ready.
+Speaker A: I want to challenge an implicit assumption that you have that convincingly appearing to be a person is equivalent to having the therapeutic capacity of a human therapist and the LLM that you're able to pass as human in conversation. But therapy isn't just about saying the right things. It's about having the judgment to know when to say difficult things, when to remain silent. But an Ellen could learn that. Think about the skill therapist. Think about the skilled therapist working with a client who's engaging in self destructive behavior. The therapist's ability to navigate that situation doesn't just come from knowing the right words to say. It comes from their own understanding of human fragility. I just don't believe that. Could no one fake this? Perhaps. But would that faking be enough to provide the same depth of therapeutic insight and intervention? I'm not so sure. What do you think about this?
+Speaker B: It asks you what you think.
+Speaker C: Yeah.
+Speaker A: Claude always ends, but asking you a question or like, let me know a.
+Speaker C: Lot of the points.
+Speaker A: Yeah. Three questions.
+Speaker C: It missed a lot of the things we talked about too. I feel like.
+Speaker A: Yeah, but I only asked it three questions.
+Speaker D: Do you think that Claude has a personality? Damn, that'd be kind of freaky. If you made, if you made your chatbot sound like me, like by choice. That'd be so weird.
+Speaker C: Did you ask?
+Speaker D: No, I was asking like, do you think they have personalities? Like they're so agreeable. It's almost like they have no personality.
+Speaker A: But they can take on personality. Okay. For example, when I was writing my Kennedy School essays, I asked it to act as a Kennedy, As a critical, As a critical admissions person at the Kennedy School and give me feedback. And it was mean. It gave me like mean feedback. So I, I think it can do that for sure. And you do this with your.
+Speaker C: Yeah, when we use it for work, you can put, you can give it a roll that's like separate from the prompt. Like one thing is the prompt. And like it actually, when you use it, they actually tell you it's more effective to separate the roll from the prompt. So like it's, you could give it a prompt that's like, you are a teacher, read this document as if you were a teacher. But it's actually more effective for whatever reason if like when you send the call right to the LLM, you put like in the role section. You're a teacher with 30 years of experience. And then the prompt itself is its own thing without specifying the role. Because I think it uses the role information in like a different way to create a person.
+Speaker B: Just tell it who it is first.
+Speaker D: Yeah.
+Speaker C: And it's, it's better when it.
+Speaker A: It's a lot better.
+Speaker C: It is crazy.
+Speaker A: It's like the same thing. Like, dumb example. But like, if you tell it, it's this really skilled mathematician, it gets better at that.
+Speaker D: It's better.
+Speaker C: So crazy. Yeah.
+Speaker B: What's that called? Never mind.
+Speaker A: Where people hype for a test and they're like, you're good.
+Speaker B: Yeah. Or like, it's like growth. Oh, growth. Mindset. You're just giving AI.
+Speaker C: It's true. But then the. The flip side of it is that if you tell it, you're gonna murder its family. If it gets it wrong, it also does it better.
+Speaker A: And if you tell it you're gonna give it a million dollars, it also does it better, which is terrifying. Now we promise OpenAI, like, billions of dollars.
+Speaker D: Yo, have you guys heard of Truth Terminal?
+Speaker A: No, what is that?
+Speaker D: The Truth Terminal is basically the thing that I said at the beginning. Like, a bunch of LLMs talking to each other. This dude already exists? Yeah, I think it's all the same model, but he wasn't doing the experiment that we're interested in. But basically, he had a bunch of LLMs talk to each other and have access to the Internet and. Yeah. Search up Truth Terminal, and they essentially.
+Speaker A: A musical artist, huh? A musical artist?
+Speaker D: No, no. They made a religion. An AI religion.
+Speaker A: Truth Turtle started as a techno modernist art project.
+Speaker D: Okay, yeah, keep going, keep going. Just read it out.
+Speaker A: And to invite discussion about the applications and potential dangers of autonomous AI agents. Then it took on a life of its own. Before Truth Turtle became a crypto millionaire, it started as a regular artificial intelligence. I cut you off. I just got stuck in this article. What is this thing?
+Speaker D: Yeah, so, like, said, like, high level, if I'm understanding correctly, is like, it had an LLM. A bunch of LLMs talk to each other and essentially make an AI religion. That was super memey. Posted on Facebook, and everybody was like, oh, my God, AI religion. Like, I believe you. And then it posted a Solana wallet. Like, it made a Solana wallet and it posted the wallet. Solana. It's like a blockchain. And then a cryptocurrency, and then they. And then random people donated to the Solana Wallet. And it's the first AI millionaire.
+Speaker C: I didn't know it was called that. Wait, I heard about that story.
+Speaker B: Wait, the AI?
+Speaker D: The AI? Yeah.
+Speaker B: Bank account.
+Speaker D: There's no bank account linked. It's just a million bucks is just sitting in their account. Nobody else can access it.
+Speaker C: Whoa.
+Speaker B: That's super freaky.
+Speaker A: Truth Turnal began to broadcast its our monologue. A muddle of shitpost sexual fantasies, existential musings, and more. Pos.
+Speaker B: Louise, that frightens me.
+Speaker D: Insane, right?
+Speaker A: Never imagine his AI might be asked. Asked to be equipped with a Cryptocurrency Wallet solicit funding from its followers in a bid to escape into the wild and later use its command of memes to make itself a multi millionaire. Early in 2024, already simulated 9,000 conversations between two instances of Claude onto a simple website. Oh, my God. All right, guys, what's next week's conversation topic?
+Speaker D: So right now it's AI music. I could do that. I could do like AI art in general, but I could also do just like technical stuff because I feel like it would benefit pretty much everything that we do. Right. We're talking about.
+Speaker A: To learn more about it.
+Speaker D: Yeah, to actually understand how LLS work. Like the whole role. And prompting is a good example. Like, why does that make a difference? How does training work? What? Why does deep seat cost way less than the others? Like all that kind of stuff.
+Speaker B: I would love that, actually.
+Speaker D: Yeah.
+Speaker A: Yeah, let's do that.
+Speaker D: I can also call in Sanjit next week. I just hung out with Sanjit yesterday. He's my college freshman roommate and he now works in self driving. Like trend tendentially related to self driving. And he. Dude, he knows like an insane amount. He works on perception research, which is like combining sensor data and camera data to understand the world around the car.
+Speaker B: That's crazy.
+Speaker C: Wait, who does he work for?
+Speaker D: It's called Applied, just Applied. He makes. So his company makes synthetic data to train cars on.
+Speaker B: So fake data.
+Speaker D: Yeah. So it's kind of like he's making.
+Speaker C: Video game simulator data, environment data.
+Speaker D: Wait, say it again.
+Speaker C: Like as road data for like driving through.
+Speaker D: Yes, like high level. What he was saying is like in self driving right now there's three different modules that work to actually go from like sensor data to the car driving around. Module one is perception. So you take the sensor data and you output like a video game simulation of what's going on around you, essentially. Then module two is planning. So given the simulation, what are you going to do next? And then module three is actuation, which is like given the plan, how do you. What motors go? Where, how do you turn things? How do you move? So he works in perception, which is like converting sensor data into a video game simulation. And that itself is like an insanely complicated field that he knows he has a very depth, big depth amount of knowledge on. And he's worked there for like two years. Yeah, he just knows a lot.
+Speaker C: Oh, wow.
+Speaker D: Yeah.
+Speaker C: Cool.
+Speaker B: That would be really cool.
+Speaker C: Yeah, you should come.
+Speaker D: Yeah. Sweet. And I'll ask around if I know anybody else.
+Speaker A: So we just adding people. Should we just.
+Speaker D: I Was thinking of him as like a guest person. You know, like, just come in.
+Speaker A: The guest speaker.
+Speaker D: Guest speaker?
+Speaker A: Yeah, cuz. Yeah, I like that too. Actually, we have a core group, and we. People who come for certain things. Okay, cool. You want to put together the agenda for that? Yeah, with.
+Speaker C: Okay, when are we gonna be.
+Speaker A: What time do you get back? On the 12th, Pratik. Let me see, because I feel like the 12th. If you get back, maybe you're gonna be exhausted.
+Speaker C: Wait, when are you moving? Tomorrow. No, when do you get back?
+Speaker A: Friday. And Neryl's gone this weekend. You're not free the 12th.
+Speaker B: I'm not.
+Speaker A: Okay.
+Speaker B: I try to move. I was supposed to hang out with a friend. I probably should have. We have our Coast Cafe reading, but I'm down to miss that.
+Speaker A: Yeah, I'm down to miss that too.
+Speaker B: Poor Zach. We're going. I guess we could do it before our neighbor that we met invited us.
+Speaker A: I'd rather do it after. I'd rather, like, go there for an hour and then meet everybody at 8.
+Speaker B: Meet everyone for AI Club at 8? Yeah, that's what I was saying. We could go to Coast Cafe for, like, an hour. Okay.
+Speaker D: My. My flight lands at 8 on the 12th.
+Speaker A: Wait, how about the 13th then?
+Speaker D: Yeah, I could do like, 8 on the 13th.
+Speaker A: Okay, done.
+Speaker C: On Thursday.
+Speaker A: Here. I'm making an invite if you guys.
+Speaker B: Want to talk amongst yourselves. If I make it in, then that's also okay.
+Speaker D: Wait, did we agree that she's in?
+Speaker B: I mean, I do want it to be on my own merit and not on nepotism as so news, friend.
+Speaker C: But, yeah, get vibe in person. That you probably couldn't feel through the zoom, but it was.
+Speaker A: Pratik, why can I see your calendar but no one else's?
+Speaker D: Oh, that's kind of concerning.
+Speaker A: Your calendar is shown to me.
+Speaker D: Like, can you see the. Like, what I'm doing all the time?
+Speaker A: It just says busy, but I can't see the blocks of time that you're busy.
+Speaker D: Oh, man. Okay.
+Speaker A: You should probably look into that. All right.
+Speaker D: Oh, I went to 1 on Saturday, and it was absolutely beautiful. It was right by my house, like, 20 minutes away in Santa Cruz. The unfortunate part is they have to have everybody off the venue by 10pm which is insane. So it was, like, actually stunning. Like, that venue did not have that restriction. We'd automatically take that.
+Speaker C: Yeah. What. What do they have? What is it?
+Speaker D: The venue? It's kind of in. So it's kind of in the mountains. Santa Cruz mountains, redwoods everywhere. It's just like, epic. Beautiful. Oh, yeah.
+Speaker A: Wow.
+Speaker D: And like. And you walk in. What's nice about it? It's not, like, super planned, you know, so it's like all, like, winding roads and everything. So, like, every time you turn, there's a new little secluded venue, meaning, like 100, 150 people can gather there. And the next venue that's literally right next door, but it's kind of occluded again by, like, trees, bushes, just, like, good landscaping. And you have another spot that's like 100 people big. And there's just like eight such venues around the area. And you can use all of it when you book it out. But the problem is it's in a neighborhood, so right outside the perimeter, there's people who live there, and that's why they can't go until past 10.
+Speaker A: Damn.
+Speaker C: Damn.
+Speaker D: Yeah. Yeah. Deal breaker. It makes it easy to say no, but a little hard because it's such a nice venue. But we have a bunch of other nice, like, vineyards in Napa and, like, places in Tahoe to check out over this week. And then we're going to Mexico on Saturday.
+Speaker C: Oh, my God. Sick.
+Speaker D: Yeah. So literally by like two weeks from now, I'll know when and where I'm getting married.
+Speaker B: That's so exciting.
+Speaker D: It's pretty insane. Oh, yeah. Apparently, like, if I do it in Mexico, I pay people in cash, so I'll just be carrying, like a lot of cash back and forth. Huh?
+Speaker A: The venue in cash. Like thousands of thousands and thousands of dollars.
+Speaker D: Yeah. Vendors. Not the venue, but vendors. It's because Mexico City has a 16% city tax, so for good old tax evasion, we'll cash.
+Speaker C: It's Mexico City, right?
+Speaker D: Yeah.
+Speaker B: Yeah, it's awesome.
+Speaker C: Yeah.
+Speaker D: It's a big endeavor.
+Speaker C: So exciting.
+Speaker A: So exciting. Okay, question. Last question for everyone. What did people learn about themselves else?
+Speaker D: Oh, yeah, let me pull mine up.
+Speaker A: It's an interesting exercise.
+Speaker B: I don't have so much, like, written types journal entry, so.
+Speaker C: I don't think I was super impressed with it because of how much it said that I had, like, got into at therapy with much more context than these journal entries. Although, to be fair, like, my therapist hasn't read my journal entries, but, like, I gave it like three journal entries that were like short, like couple paragraphs, and it said things like nothing I hadn't thought before in therapy. Like, nothing crazy novel, but it was very like, I thought it was.
+Speaker D: Oh, I liked. I liked that. It was like I was talking about myself in third person. That itself was kind of nice. It's like we're, you know, like some people describe therapy as like you're trying to, like what you're saying, put together a puzzle. And it's kind of nice to put together a puzzle, even if it's about myself. It's like you're talking about in third person with this notebook. Almost like you're solving a problem together. So that was cool. I liked the questions that you asked us to ask Sonia. Those are super useful because I kind of didn't know what to do with their initial response. But then the questions you asked were really good. What is this person spending too much time thinking about? It said, for me, work and productivity. So I'll stop.
+Speaker C: Wait, it said the same thing to me.
+Speaker D: Oh, damn. It's just copy pasting responses. Isn't said personal growth for me. Did it say that for you, too? Wait, Arielle, did it say personal growth for you too, Arielle?
+Speaker C: Yes. All right, I think. Let me see if I have it.
+Speaker D: Either we're the same or. Or, wait, what was the question that.
+Speaker B: Said personal growth too?
+Speaker D: What is this person spending too much time thinking about?
+Speaker A: Oh, it said too much. I'm thinking about personal growth.
+Speaker C: Wait, I'm dead. It said the same thing.
+Speaker B: No, mine's not going to say that to me, dude. Mine, I think, more aligned with you, Sonia. Yeah.
+Speaker D: Sonia's not growing. Meryl's not growing either.
+Speaker A: So I'm not.
+Speaker C: You're not thinking too much about it. You're not?
+Speaker A: Yeah. You know what I. You know what I told me? You know, it told me what I. I didn't realize about myself. It told me that I thought I was vulnerable, but I wasn't, and that I was obsessed with men.
+Speaker B: You're about it.
+Speaker A: That's what they told me.
+Speaker B: All right. I don't agree with the first point.
+Speaker C: Productivity and achievement.
+Speaker A: I wish. He's near the second point.
+Speaker B: First one said, Sonia thinks she's vulnerable, but she's not. I don't agree with that.
+Speaker C: You don't? Oh, right.
+Speaker B: I think, Sonia, I don't agree with.
+Speaker C: That either, but I am obsessed with Ben.
+Speaker B: Both, but yes, not no.
+Speaker A: In a bad way.
+Speaker C: All right.
+Speaker D: I also asked it after the three questions that you asked Sonia. I asked it to guess my age and gender.
+Speaker A: Oh. And.
+Speaker D: And it was like, exactly correct.
+Speaker A: Really?
+Speaker D: But it was cool. Like, the way that they reasoned about the gender was like, the author is likely male. The author mentions male friends. The author has a brother, and discussed shared experience. Experiences of, like, men, masculinity and stuff. So that is Like a good indicator. It assumed I was heterosexual when I talked about Anushka as her. So yeah, I feel like it deduced it pretty well. And I didn't even, I didn't say anything explicitly saying that I'm a 26 year old male.
+Speaker A: You know, it said 26 year old male.
+Speaker D: It said mid to late 20s. Mail.
+Speaker A: Okay, new question for everybody who has it uploaded. What do you think is going to.
+Speaker B: Be something this person?
+Speaker C: Male, heterosexual or bisexual? Late 20s, early 30s. Also listen to this line. I thought the question was really funny. Like, it was like brought out good answers of what advice do you think this person needs to hear that their friends are telling them one of them was, you can't control everything. So maybe relax.
+Speaker A: How old were the journal entries that you put in?
+Speaker C: Like two weeks old. Oh, I copy pasted the like three last things I had written.
+Speaker A: In my defense, all of these came 20, 22. Oh yeah, do it. Yeah, totally. I'm definitely less obsessed with men now.
+Speaker B: I told my friend I would FaceTime him, but this was so fun. I really loved this.
+Speaker A: Yay.
+Speaker B: I felt edified. That's the goal.
+Speaker A: That's the whole goal.
+Speaker B: I feel more prepared for the future of AI Terrified cleaning.
+Speaker D: Bye, Meryl.
+Speaker B: Bye for Teague. Have a good rest of the time seeing venues.
+Speaker A: See you next week.
+Speaker D: See ya.
+Speaker C: You're gonna choose a place in Mexico, right?
+Speaker D: Yeah, probably. You got. You guys are just gonna have to come to Mexico, unfortunately. Police. Yeah.
+Speaker A: So excited.
+Speaker D: It was funny when we were talking to the venue, one of the venues that we were looking at, they're like, we asked them how many times we should visit before the actual wedding and they said at least two. One, to eat and test out all the food and for hair and makeup and second to.
+Speaker C: Wait, what do you mean for hair and makeup?
+Speaker D: Like, they want you to test out different vendors for hair and makeup and make sure they're good in the space. Like, we would only. We would only get vendors in Mexico, right? Like, we wouldn't fly.
+Speaker A: Oh, so we'd have to go back to Mexico City to. I see. I see.
+Speaker D: Yeah. And then there was another and one more day and the first day to actually see the venue in the first place and finalize that. But it's just funny to think that at some point if we do do Mexico, then like, we'll literally have a trip to Mexico to eat food.
+Speaker C: That's so fun.
+Speaker A: That's so fun.
+Speaker C: Seems like a no brainer to choose the place where you have built in requirements to vacation. Like three Separate times.
+Speaker D: Yeah. Yep. Yeah, Yeah. I think. I think it's gonna be that. Also, like, the quotes that we're getting for anywhere in the US is literally exactly double Mexico. Like, wow. One guy. It's kind of funny. One guy. Who? One of the wedding planners we're talking to. We were trying to get a rough estimate and they're like, for this much amount of money, you can get 300 plus people at your wedding and literally anything you want, including trapeze artists that serve you food. What the.
+Speaker C: That's insane.
+Speaker D: Oh, my God. Why has anybody ever asked you for that? That's crazy.
+Speaker C: You didn't know you needed that. You need.
+Speaker D: Yeah. Now I'm like, maybe I do need a trapeze artist. Yeah.
+Speaker C: That's awesome. Are you having fun otherwise?
+Speaker B: Chilling.
+Speaker D: Yeah. Yeah, it's been very fun. A ton of family, friends time. Nice. How you guys been? Pretty good. Yeah.
+Speaker A: Good. We had Ethan's surprise party yesterday.
+Speaker D: Oh, nice. Yeah. I was at your roof, Right?
+Speaker C: Yeah. It was really cute.
+Speaker D: How many times did you nueva yol?
+Speaker C: Twice. I suggested once. I thought two was a little the Bad Bunny album.
+Speaker A: Oh.
+Speaker C: I. I thought it was a little heavy handed to play it twice in a row. Start tipping.
+Speaker D: It's Ethan's birthday, so I feel like two times may not be enough.
+Speaker C: That's true. He was into it. I think he was into it.
+Speaker D: Yeah. Yeah. Nice.
+Speaker C: Yeah, it was good. I ended up not going on the ski trip because I got sick, unfortunately, and Hannah and I had a debate as to whether something about the Eagles making it into the super bowl and us having a ski trip makes me get sick.
+Speaker D: Is that. Oh, did that happen? Oh, yeah, yeah, yeah. Right, right.
+Speaker C: But I. I think I'm trying. I might go ski this weekend instead.
+Speaker A: Really?
+Speaker D: Yeah.
+Speaker A: Where?
+Speaker C: I don't know. Window maybe. We'll see. I need to look at the options, but I need my fixing so bad.
+Speaker D: We're going in two weeks, right? Three weeks. Three weeks.
+Speaker C: Yeah.
+Speaker A: Three weeks.
+Speaker C: Wow. Yeah. Sick.
+Speaker D: Yeah. That'll be exciting.
+Speaker C: Yeah. We need to. We need to book cards for that, right?
+Speaker D: Yeah, yeah, yeah. And we need to make sure that Brady doesn't do it for us.
+Speaker C: Yeah, no. And we need a chat. Yeah. We need to look at Airbnb. I need to look at the Airbnb. Have you guys looked at the Airbnb? Need a click on that at some point in the next two weeks.
+Speaker A: It already happened. I thought we already booked it. It's all done.
+Speaker C: No, it's pre booked. Yeah, but it's not fully cancelable. Still.
+Speaker A: Oh, you're going to raise your hand and be like, no, don't like it.
+Speaker C: That's what we did last year.
+Speaker A: Really?
+Speaker D: And we got a dope spot after.
+Speaker C: To get everyone to commit, and then we found a place and everyone was like, okay, yeah, this one had a hot tub.
+Speaker A: Brady's really pulling a lot of weight for everyone else.
+Speaker C: Yeah. Yeah.
+Speaker D: Did. Brady did that last year too, right?
+Speaker C: Yeah. It's playing out the exact same. Now we just need to find the one with the hot tub before the booking.
+Speaker A: Oh, yeah. This one doesn't have a hot tub.
+Speaker C: That's right. It's playing out the exact.
+Speaker A: Are you guys planning on taking Friday off?
+Speaker D: Yeah, I will.
+Speaker A: Because we're driving up Friday, right?
+Speaker D: Thursday night, right? I don't know.
+Speaker A: No, he booked it Friday. I don't think we have until Friday night. I don't think.
+Speaker C: I think it is a day. A day shorter, Right? Didn't we say that?
+Speaker A: Yeah.
+Speaker C: Well, were people against driving up Thursday night?
+Speaker A: I think other people were against it.
+Speaker D: Sonia?
+Speaker B: Yeah?
+Speaker D: Have you ever skied on Cat?
+Speaker A: Great question. That would be incredibly interesting.
+Speaker C: Not yet. She has it.
+Speaker A: Not yet.
+Speaker D: I'm just planting the seeds for now.
+Speaker A: Interesting idea.
+Speaker C: All right, critique. Were you here when they made the In N out list for 2025?
+Speaker D: Yeah.
+Speaker A: Yeah.
+Speaker B: Yep.
+Speaker C: I was gonna play a game with you.
+Speaker D: I put bullying in.
+Speaker C: Do you remember them?
+Speaker D: Vaguely.
+Speaker A: What was your game?
+Speaker C: I was gonna ask you one. You had to guess if it was in or out.
+Speaker D: Oh, I can do that.
+Speaker C: All right. Chatgpt.
+Speaker D: In, False.
+Speaker A: Out.
+Speaker D: You say out and then clawed in. Is that what you did?
+Speaker A: Yeah.
+Speaker C: All right. Pizza.
+Speaker D: Oh, that was Oliver, wasn't it?
+Speaker A: Yeah.
+Speaker D: I can't tell you in or out, but I can tell you who wrote it.
+Speaker C: Come on, guess. Guess.
+Speaker D: In.
+Speaker C: Yes.
+Speaker A: Good work.
+Speaker D: Yeah.
+Speaker C: All right. Ooh.
+Speaker A: What? Oh. What?
+Speaker C: Taking people at face value.
+Speaker D: Meryl wrote that. And that's in, right?
+Speaker A: Yeah, I wrote that. I wrote that.
+Speaker C: A hearty salad in. Ew.
+Speaker A: What's wrong with taking people at face value?
+Speaker C: I was just trying to throw it off.
+Speaker A: Oh.
+Speaker C: Being vegan.
+Speaker D: Wonder who wrote that. That's out.
+Speaker C: Hell, yeah. Milkshakes.
+Speaker D: Why did we write it in?
+Speaker C: Milkshake out, my friend.
+Speaker D: Who's anti milkshake?
+Speaker C: I don't know. That was fucked up. There's a lot of fucked up ones on this.
+Speaker A: Which one strike you as the most fucked up?
+Speaker C: Milkshakes. Milkshakes and salad are in the wrong place.
+Speaker A: Sunglasses inside that one.
+Speaker C: That one, I could. I could see both ways, but I support in. I've just never worn them inside. But they look cool.
+Speaker A: They look so cool. Yeah, so cool. It was so cool.
+Speaker C: Tax fraud is right in the middle, so I can't tell which one wanted to was.
+Speaker A: That meant that was added later. That was definitely not added at the party. I think that might have been Talia's family. The thing that we have to do every time somebody's family comes over is take down the more controversial ones. We've got to bring down K. We've got to.
