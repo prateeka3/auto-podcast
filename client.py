@@ -5,27 +5,8 @@ import requests
 import os
 
 
-import assemblyai as aai
+from common import AudioAIFunction
 
-
-def save_raw_transcript(transcript: aai.Transcript, output_path: str) -> None:
-    """
-    Save transcript utterances to a text file with speaker labels
-    
-    Args:
-        transcript: AssemblyAI Transcript object containing utterances
-        output_path: Path to save the transcript text file
-    """
-    with open(output_path, 'w') as f:
-        for utterance in transcript.utterances:
-            # Format timestamp in MM:SS
-            start_time = int(utterance.start / 1000)  # Convert ms to seconds
-            minutes = start_time // 60
-            seconds = start_time % 60
-            timestamp = f"[{minutes:02d}:{seconds:02d}]"
-            
-            # Write line with timestamp, speaker label, and text
-            f.write(f"{timestamp} Speaker {utterance.speaker}: {utterance.text}\n")
 
 def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     """
@@ -55,7 +36,7 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     print(f"\nEstimated length: {audio_length_ms/1000/60:.1f} minutes") 
     print(f"Estimated cost: ${estimated_cost:.2f}")
     if input("\nProceed with audio cleaning? [y/N]: ").lower() != 'y':
-        raise ValueError("Audio cleaning cancelled by user")
+        raise ValueError("Audio cleaning cancelled by user. Try lalal.ai for a cheaper alternative")
 
     output_filepath = input_filepath.rsplit('.', 1)[0] + '_clean.mp3'
     
@@ -126,10 +107,76 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     return output_filepath
 
 
+def transcribe_audio(
+    client: ElevenLabs,
+    audio_path: str,
+    speakers_expected: int,
+    transcription_path: str = './transcription/raw_transcript.txt',
+    force: bool = False
+):
+    """
+    Transcribe audio with speaker diarization and custom spellings.
+    Prompts for confirmation before consuming API credits.
+    
+    Args:
+        audio_path: Path to audio file
+        speakers_expected: Number of expected speakers
+        filter_profanity: Whether to filter out profanity
+        force: Skip confirmation prompt if True
+        
+    Returns:
+        filepath of transcription
+    """
+    # Calculate estimated cost. ElevenLabs charges ~$0.40 per hour
+    # https://elevenlabs.io/docs/capabilities/speech-to-text#pricing
+    audio = AudioSegment.from_file(audio_path)
+    
+    if not force:
+        audio_length_ms = len(audio)
+        estimated_cost = estimate_cost(audio_length_ms, AudioAIFunction.SPEECH_TO_TEXT)
+        print(f"\nEstimated length: {1000 / 60:.1f} minutes")
+        print(f"Estimated cost: ${estimated_cost:.2f}")
+        confirm = input("\nProceed with transcription? [y/N]: ")
+        
+        if confirm.lower() != 'y':
+            print("Transcription cancelled by user")
+            return None
+            
+    # Perform transcription
+    transcription = client.speech_to_text.convert(
+        model_id="scribe_v1",
+        file=open(audio_path, "rb"),
+        num_speakers=speakers_expected,
+        diarize=True,
+    )
+
+    # Process and write transcription
+    current_speaker = None
+    current_text = []
+    
+    with open(transcription_path, 'w') as f:
+        for word in transcription.words:
+            if word.speaker_id != current_speaker:
+                # Write previous speaker's text if it exists
+                if current_speaker and current_text:
+                    f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
+                # Start new speaker
+                current_speaker = word.speaker_id
+                current_text = [word.text.strip()]
+            else:
+                current_text.append(word.text.strip())
+        
+        # Write final speaker's text
+        if current_speaker and current_text:
+            f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
+    
+    print(f"Transcription saved to: {transcription_path}")
+    return transcription
+
 def get_cloned_voice(client: ElevenLabs, voice_id: str):
     return client.voices.get(voice_id)
 
-def estimate_cost(audio_length_ms: int, function: str) -> float:
+def estimate_cost(audio_length_ms: int, function: AudioAIFunction) -> float:
     """
     Calculate the estimated cost for various ElevenLabs API operations.
     
@@ -144,23 +191,24 @@ def estimate_cost(audio_length_ms: int, function: str) -> float:
         ValueError: If function type is not recognized
     """
     match function:
-        case "clean":
+        case AudioAIFunction.CLEAN:
             # ElevenLabs charges 1000 credits per minute of cleaning
             # estimate $5/30,000 credits
             minutes = audio_length_ms/1000/60
             return minutes * 1000 * 5 / 30000
 
-        case "transcribe":
+        case AudioAIFunction.SPEECH_TO_TEXT:
             # ElevenLabs charges approximately $0.40 per hour of audio.
             # https://elevenlabs.io/docs/capabilities/speech-to-text#pricing
             hours = audio_length_ms / 1000 / 60 / 60
             return hours * 0.40
 
-        case "text_to_speech":
-            # ElevenLabs charges approximately $0.05 per minute of audio.
+        case AudioAIFunction.TEXT_TO_SPEECH:
+            # ElevenLabs charges approximately $0.17 per minute of audio.
             # https://play.ht/blog/elevenlabs-pricing/
             minutes = audio_length_ms / 1000 / 60
-            return minutes * 0.05
+            raise ValueError("not sure")
+            return minutes * 0.17
 
         case _:
             raise ValueError(f"Unknown function type: {function}. " 

@@ -11,8 +11,6 @@ Create a short podcast from a conversation.
 See autopodcast.ipynb for a walkthrough of the code with an example conversation between 4 friends about AI Therapy.
 
 # TODO
-- transcribe via cli
-- alternate options for cleaning if rejected by user
 - include function for shortening/summarizing into podcast script
 - Generalize script shortening prompt for any number of speakers or podcast length
 - Test with another public conversation

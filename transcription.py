@@ -4,55 +4,6 @@ import os
 from elevenlabs.client import ElevenLabs
 import re
 
-def transcribe_audio(
-    client: ElevenLabs,
-    audio_path: str,
-    speakers_expected: int = 4,
-    force: bool = False
-):
-    """
-    Transcribe audio with speaker diarization and custom spellings.
-    Prompts for confirmation before consuming API credits.
-    
-    Args:
-        audio_path: Path to audio file
-        speakers_expected: Number of expected speakers
-        filter_profanity: Whether to filter out profanity
-        force: Skip confirmation prompt if True
-        
-    Returns:
-        AssemblyAI Transcript object
-    """
-    # Calculate estimated cost. ElevenLabs charges ~$0.40 per hour
-    # https://elevenlabs.io/docs/capabilities/speech-to-text#pricing
-    audio = AudioSegment.from_file(audio_path)
-    hours = len(audio) / 1000 / 60 / 60
-    estimated_credits = hours * 0.4
-    
-    if not force:
-        print(f"\nEstimated length: {hours*60:.1f} minutes")
-        print(f"Estimated cost: ${estimated_credits:.2f}")
-        confirm = input("\nProceed with transcription? [y/N]: ")
-        
-        if confirm.lower() != 'y':
-            print("Transcription cancelled")
-            return None
-            
-    # Perform transcription
-    transcription = client.speech_to_text.convert(
-        model_id="scribe_v1",
-        file=audio_path,
-        num_speakers=speakers_expected,
-        tag_audio_events=True,
-        diarize=True,
-    )
-    
-    if transcript.status == aai.TranscriptStatus.error:
-        print(f"Transcription failed: {transcript.error}")
-        return None
-        
-    return transcript
-
 def extract_longest_speaker_segments(transcript: aai.Transcript, audio_filepath: str, save_speaker_audios: bool = False) -> pd.DataFrame:
     """
     Extract and save the longest continuous segment for each speaker from a transcript.
