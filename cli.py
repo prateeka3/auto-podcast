@@ -1,9 +1,13 @@
+import getpass
 from typer import Typer, Argument
 from elevenlabs import ElevenLabs
 from client import clean_audio, transcribe_audio
 import os
 
 os.environ["PATH"] = "/usr/local/bin:" + os.environ["PATH"]
+
+if not os.environ.get("ANTHROPIC_API_KEY"):
+    os.environ["ANTHROPIC_API_KEY"] = getpass.getpass("Enter API key for Anthropic: ")
 
 app = Typer(
     no_args_is_help=True,

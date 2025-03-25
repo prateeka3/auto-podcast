@@ -1,11 +1,12 @@
-from audio_helpers import validate_audio_filepath
+from helpers.audio_helpers import process_large_audio, validate_audio_filepath
 from elevenlabs import ElevenLabs
 from pydub import AudioSegment
 import requests
-import os
+import io
 
 
 from common import AudioAIFunction
+from helpers.helpers import write_transcription
 
 
 def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
@@ -38,71 +39,35 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     if input("\nProceed with audio cleaning? [y/N]: ").lower() != 'y':
         raise ValueError("Audio cleaning cancelled by user. Try lalal.ai for a cheaper alternative")
 
+    def process_chunk(chunk: AudioSegment, temp_path: str) -> bytes:
+        """Process a single chunk for audio cleaning"""
+        url = "https://api.elevenlabs.io/v1/audio-isolation"
+        files = {"audio": open(temp_path, 'rb')}
+        headers = {"xi-api-key": client._client_wrapper._api_key}
+        response = requests.post(url, files=files, headers=headers)
+        return response.content
+
+    # Process the audio in chunks
+    cleaned_segments = process_large_audio(
+        audio=audio,
+        process_chunk_fn=process_chunk,
+        input_filepath=input_filepath,
+        progress_prefix="Cleaning"
+    )
+    
+    # Combine results
     output_filepath = input_filepath.rsplit('.', 1)[0] + '_clean.mp3'
-    
-    # Split audio if longer than API limit (3500 seconds)
-    MAX_LENGTH_SEC = 3500
-    MAX_LENGTH_MS = MAX_LENGTH_SEC * 1000
-    
-    # Create list to store cleaned segments
-    cleaned_segments = []
-    
-    try:
-        if len(audio) > MAX_LENGTH_MS:
-            print("Audio exceeds maximum length, splitting into segments...")
-            # Split into segments
-            num_segments = (len(audio) + MAX_LENGTH_MS - 1) // MAX_LENGTH_MS
-            for i in range(num_segments):
-                print(f"Processing segment {i+1} of {num_segments}...")
-                start_ms = i * MAX_LENGTH_MS
-                end_ms = min((i + 1) * MAX_LENGTH_MS, len(audio))
-                segment = audio[start_ms:end_ms]
-                
-                # Save segment to temp file
-                temp_filepath = f"{input_filepath}_temp_{i}.{input_format}"
-                segment.export(temp_filepath, format="mp3")
-                
-                try:
-                    # Process segment
-                    print(f"Calling ElevenLabs API for segment {i+1}...")
-                    url = "https://api.elevenlabs.io/v1/audio-isolation"
-                    files = {"audio": open(temp_filepath, 'rb')}
-                    headers = {"xi-api-key": client._client_wrapper._api_key}
-                    response = requests.post(url, files=files, headers=headers)
-                    cleaned_segments.append(response.content)
-                finally:
-                    # Clean up temp file
-                    os.remove(temp_filepath)
-                    
-            # Combine all cleaned segments into one audio file
-            print("Combining cleaned segments...")
-            combined_audio = AudioSegment.empty()
-            for segment_bytes in cleaned_segments:
-                # Load each segment bytes into AudioSegment
-                segment = AudioSegment.from_mp3(io.BytesIO(segment_bytes))
-                combined_audio += segment
-                
-            # Export the combined audio to output file
-            print(f"Writing output to {output_filepath}...")
-            combined_audio.export(output_filepath, format="mp3")
-                    
-        else:
-            # Process entire file if under limit
-            print("Calling ElevenLabs API...")
-            url = "https://api.elevenlabs.io/v1/audio-isolation"
-            files = {"audio": open(input_filepath, 'rb')}
-            headers = {"xi-api-key": client._client_wrapper._api_key}
-            response = requests.post(url, files=files, headers=headers)
-            
-            print(f"Writing output to {output_filepath}...")
-            with open(output_filepath, 'wb') as f:
-                f.write(response.content)
-                
-    except Exception as e:
-        # Clean up output file if it exists
-        if os.path.exists(output_filepath):
-            os.remove(output_filepath)
-        raise e
+    if len(cleaned_segments) > 1:
+        print("Combining cleaned segments...")
+        combined_audio = AudioSegment.empty()
+        for segment_bytes in cleaned_segments:
+            segment = AudioSegment.from_mp3(io.BytesIO(segment_bytes))
+            combined_audio += segment
+        combined_audio.export(output_filepath, format="mp3")
+    else:
+        # Single segment, just write it directly
+        with open(output_filepath, 'wb') as f:
+            f.write(cleaned_segments[0])
     
     return output_filepath
 
@@ -121,7 +86,6 @@ def transcribe_audio(
     Args:
         audio_path: Path to audio file
         speakers_expected: Number of expected speakers
-        filter_profanity: Whether to filter out profanity
         force: Skip confirmation prompt if True
         
     Returns:
@@ -134,7 +98,7 @@ def transcribe_audio(
     if not force:
         audio_length_ms = len(audio)
         estimated_cost = estimate_cost(audio_length_ms, AudioAIFunction.SPEECH_TO_TEXT)
-        print(f"\nEstimated length: {1000 / 60:.1f} minutes")
+        print(f"\nEstimated length: {audio_length_ms / 1000 / 60:.1f} minutes")
         print(f"Estimated cost: ${estimated_cost:.2f}")
         confirm = input("\nProceed with transcription? [y/N]: ")
         
@@ -142,36 +106,29 @@ def transcribe_audio(
             print("Transcription cancelled by user")
             return None
             
-    # Perform transcription
-    transcription = client.speech_to_text.convert(
-        model_id="scribe_v1",
-        file=open(audio_path, "rb"),
-        num_speakers=speakers_expected,
-        diarize=True,
-    )
+    def process_chunk(chunk: AudioSegment, temp_path: str) -> list:
+        """Process a single chunk for transcription"""
+        transcription = client.speech_to_text.convert(
+            model_id="scribe_v1",
+            file=open(temp_path, "rb"),
+            num_speakers=speakers_expected,
+            diarize=True,
+        )
+        return transcription.words
 
-    # Process and write transcription
-    current_speaker = None
-    current_text = []
-    
-    with open(transcription_path, 'w') as f:
-        for word in transcription.words:
-            if word.speaker_id != current_speaker:
-                # Write previous speaker's text if it exists
-                if current_speaker and current_text:
-                    f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
-                # Start new speaker
-                current_speaker = word.speaker_id
-                current_text = [word.text.strip()]
-            else:
-                current_text.append(word.text.strip())
-        
-        # Write final speaker's text
-        if current_speaker and current_text:
-            f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
-    
-    print(f"Transcription saved to: {transcription_path}")
-    return transcription
+    # Process the audio in chunks
+    all_chunks = []
+    for chunk in process_large_audio(
+        audio=audio,
+        process_chunk_fn=process_chunk,
+        input_filepath=audio_path,
+        progress_prefix="Transcribing"
+    ):
+        all_chunks.append(chunk)
+
+    # Write combined transcription
+    write_transcription(all_chunks, transcription_path)
+    return transcription_path
 
 def get_cloned_voice(client: ElevenLabs, voice_id: str):
     return client.voices.get(voice_id)

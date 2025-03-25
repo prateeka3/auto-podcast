@@ -4,41 +4,6 @@ import os
 from elevenlabs.client import ElevenLabs
 import re
 
-def extract_longest_speaker_segments(transcript: aai.Transcript, audio_filepath: str, save_speaker_audios: bool = False) -> pd.DataFrame:
-    """
-    Extract and save the longest continuous segment for each speaker from a transcript.
-    
-    Args:
-        transcript: Transcript object containing utterances with speaker, start and end times
-        audio_filepath: Path to the audio file to extract segments from
-        save_audio: Whether to save audio segments to disk (default: False)
-        
-    Returns:
-        pd.DataFrame: DataFrame containing the longest segments per speaker
-    """
-    # Convert transcript to dataframe
-    rows = []
-    for utterance in transcript.utterances:
-        rows.append({"start": utterance.start, 
-                    "end": utterance.end, 
-                    "speaker": utterance.speaker})
-    df = pd.DataFrame(rows)
-    
-    # Find longest segment per speaker
-    df['length'] = df.end - df.start
-    longest_per_speaker = df.groupby('speaker')['length'].idxmax()
-    longest_segments = df.loc[longest_per_speaker]
-    
-    # Optionally extract and save audio segments
-    if save_speaker_audios:
-        audio = AudioSegment.from_file(audio_filepath)
-        for _, row in longest_segments.iterrows():
-            speaker_audio = audio[row['start']:row['end']]
-            os.makedirs('./audio/voices', exist_ok=True)
-            speaker_audio.export(f"./audio/voices/speaker_{row['speaker']}.mp3", format="mp3")
-    
-    return longest_segments
-
 def script_to_audio(script_file_path: str, output_file_path: str):
     """
     for each line in the script:
