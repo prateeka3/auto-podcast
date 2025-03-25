@@ -1,5 +1,4 @@
 from pydub import AudioSegment
-import pandas as pd
 import os
 from elevenlabs.client import ElevenLabs
 import re

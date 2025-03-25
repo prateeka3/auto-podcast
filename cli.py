@@ -1,7 +1,7 @@
 import getpass
 from typer import Typer, Argument
 from elevenlabs import ElevenLabs
-from client import clean_audio, transcribe_audio
+from client import clean_audio, transcribe_audio, generate_script
 import os
 
 os.environ["PATH"] = "/usr/local/bin:" + os.environ["PATH"]
@@ -14,14 +14,14 @@ app = Typer(
     help="Audio processing toolkit",
 )
 
-@app.command()
+@app.command(no_args_is_help=True,)
 def main():
     """
     Welcome to the audio processing toolkit.
     Run with --help to see available commands.
     """
 
-@app.command()
+@app.command(no_args_is_help=True,)
 def clean(
     input_file: str = Argument(
         ...,  # ... means required argument
@@ -41,7 +41,7 @@ def clean(
     except ValueError as e:
         print(f"Error: {e}")
 
-@app.command()
+@app.command(no_args_is_help=True,)
 def transcribe(
     input_file: str = Argument(
         ...,  # ... means required argument
@@ -67,6 +67,42 @@ def transcribe(
         transcribe_audio(client, input_file, speakers_expected=speakers, force=force)
     except ValueError as e:
         print(f"Error: {e}")
+
+@app.command(no_args_is_help=True,)
+def script(
+    transcription_file: str = Argument(
+        ...,  # required argument
+        help="Path to the transcription file"
+    ),
+    length: int = Argument(
+        10,  # default 10 minutes
+        help="Target length of the script in minutes"
+    ),
+    audience: str = Argument(
+        "general",  # default value
+        help="Target audience (e.g., general, technical, academic)"
+    ),
+    type: str = Argument(
+        "discussion",  # default value
+        help="Type of podcast (e.g., discussion, interview, debate)"
+    )
+):
+    """
+    Generate a podcast script from a transcription file.
+    
+    Converts a raw transcription into a structured, concise script
+    optimized for the specified length and audience.
+    """
+    try:
+        script_path = generate_script(
+            transcription_file,
+            length_minutes=length,
+            audience=audience,
+            type=type
+        )
+        print(f"Successfully generated script. Output saved to: {script_path}")
+    except Exception as e:
+        print(f"Error generating script: {e}")
 
 if __name__ == "__main__":
     app()

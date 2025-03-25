@@ -1,12 +1,22 @@
+from typing import List
+from pydantic import BaseModel
 from helpers.audio_helpers import process_large_audio, validate_audio_filepath
 from elevenlabs import ElevenLabs
 from pydub import AudioSegment
 import requests
 import io
+from langchain.chat_models import init_chat_model
 
 
 from common import AudioAIFunction
 from helpers.helpers import write_transcription
+
+class SpeakerLine(BaseModel):
+    speaker: str
+    text: str
+
+class SpeakerLines(BaseModel):
+    content: List[SpeakerLine]
 
 
 def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
@@ -129,6 +139,56 @@ def transcribe_audio(
     # Write combined transcription
     write_transcription(all_chunks, transcription_path)
     return transcription_path
+
+
+def generate_script(transcription_path: str, length_minutes: int, audience: str = "general", type: str = "discussion"):
+    """
+    Generate a script from a transcription.
+    
+    Args:
+        transcription_path: Path to the transcription file
+        length_minutes: Target length in minutes
+        audience: Target audience for the script
+        type: Type of podcast (discussion, interview, etc.)
+    
+    Returns:
+        str: Generated script
+    """
+    # Read transcription
+    with open(transcription_path, 'r') as f:
+        transcription = f.read()
+
+    # Read prompt template
+    with open('prompts/script_generation.md', 'r') as f:
+        prompt_template = f.read()
+    
+    # Format prompt with parameters
+    prompt = prompt_template.format(
+        length_minutes=length_minutes,
+        audience=audience,
+        type=type,
+        word_count=length_minutes * 150
+    )
+    
+    # Initialize chat model
+    model = init_chat_model("claude-3-5-sonnet-latest", model_provider="anthropic")
+    
+    # Generate script with structured output
+    response = model.with_structured_output(SpeakerLines).invoke(
+        prompt + f"\n\nTRANSCRIPT:\n{transcription}"
+    )
+    
+    # Generate output filename based on input
+    script_path = 'transcription/podcast_script.txt'
+    
+    # Write the generated script to a file
+    with open(script_path, 'w') as f:
+        for line in response.content:
+            f.write(f"{line.speaker}: {line.text}\n")
+    
+    print(f"Script written to {script_path}")
+    return script_path
+
 
 def get_cloned_voice(client: ElevenLabs, voice_id: str):
     return client.voices.get(voice_id)
