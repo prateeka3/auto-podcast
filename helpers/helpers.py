@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import List, Dict, TypedDict
 from langchain.chat_models import init_chat_model
 
@@ -95,3 +96,17 @@ def write_transcription(all_chunks: list, output_path: str):
         
         if current_speaker and current_text:
             f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
+
+def display_available_voices(voices: list):
+    """Display available voices in a formatted table"""
+    # Create a formatted table
+    table = "Available Voices:\n"
+    table += "-" * 50 + "\n"
+    table += f"{'Name':<30} {'Created At':<20}\n"
+    table += "-" * 50 + "\n"
+    
+    for voice in voices:
+        # Convert unix timestamp to readable datetime
+        created_at = datetime.fromtimestamp(voice.created_at_unix).strftime('%Y-%m-%d %H:%M:%S')
+        table += f"{voice.name:<30} {created_at:<20}\n"
+    print(table)

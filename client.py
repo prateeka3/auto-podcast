@@ -190,6 +190,18 @@ def generate_script(transcription_path: str, length_minutes: int, audience: str 
     return script_path
 
 
+def get_available_voices(client: ElevenLabs):
+    """
+    Get available voices from ElevenLabs.
+    
+    Returns:
+        list: List of available voices
+    """
+    
+    all_voices = client.voices.get_all().voices
+    non_premade_voices = list(filter(lambda v: v.category != "premade", all_voices))
+    return non_premade_voices
+
 def get_cloned_voice(client: ElevenLabs, voice_id: str):
     return client.voices.get(voice_id)
 
