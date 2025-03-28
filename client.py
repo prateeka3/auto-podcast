@@ -202,9 +202,6 @@ def get_available_voices(client: ElevenLabs):
     non_premade_voices = list(filter(lambda v: v.category != "premade", all_voices))
     return non_premade_voices
 
-def get_cloned_voice(client: ElevenLabs, voice_id: str):
-    return client.voices.get(voice_id)
-
 def estimate_cost(audio_length_ms: int, function: AudioAIFunction) -> float:
     """
     Calculate the estimated cost for various ElevenLabs API operations.
@@ -236,8 +233,12 @@ def estimate_cost(audio_length_ms: int, function: AudioAIFunction) -> float:
             # ElevenLabs charges approximately $0.17 per minute of audio.
             # https://play.ht/blog/elevenlabs-pricing/
             minutes = audio_length_ms / 1000 / 60
-            raise ValueError("not sure")
             return minutes * 0.17
+
+        case AudioAIFunction.CLONE_VOICE:
+            # ElevenLabs charges approximately $5 per 30 minutes of audio.
+            minutes = audio_length_ms / 1000 / 60
+            return minutes * 5 / 30
 
         case _:
             raise ValueError(f"Unknown function type: {function}. " 

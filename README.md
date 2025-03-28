@@ -6,8 +6,8 @@ clean        Clean background noise from an audio file.
 transcribe   Transcribe an audio file with speaker diarization.
 
 # TODO
-- Test with another public conversation
-- Instead of passing the ElevenLabs client around, create a singleton wrapper
-- update voices with more audio
+- single cli function for entire flow (podcast_from_conversation)
 - clone voices
-- single cli function for entire flow
+- Instead of passing the ElevenLabs client around, create a singleton wrapper
+- Test with another public conversation
+- update voices with more audio
