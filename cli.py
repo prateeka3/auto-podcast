@@ -1,6 +1,7 @@
 from collections import defaultdict
 from datetime import datetime
 import getpass
+import time
 from typer import Option, Typer, Argument
 from elevenlabs import ElevenLabs
 from client import clean_audio, clone_voice, estimate_cost, transcribe_audio, generate_script, get_available_voices
@@ -371,6 +372,9 @@ def podcast_from_conversation(
         print("\n=== Transcribing Audio ===")
         transcription_path, raw_transcription = transcribe_audio(client, processed_audio, speakers, force=True, return_raw_transcription=True)
         print(f"Transcription saved to: {transcription_path}")
+
+        # Step 2.5: Wait for Anthropic rate limit to reset
+        time.sleep(60)
         
         # Step 3: Generate podcast script
         print("\n=== Generating Podcast Script ===")
