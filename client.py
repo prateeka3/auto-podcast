@@ -9,7 +9,7 @@ from langchain.chat_models import init_chat_model
 
 
 from common import AudioAIFunction
-from helpers.helpers import write_transcription
+from helpers.helpers import reconcile_speakers, write_transcription
 
 class SpeakerLine(BaseModel):
     speaker: str
@@ -81,13 +81,13 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     
     return output_filepath
 
-
 def transcribe_audio(
     client: ElevenLabs,
     audio_path: str,
     speakers_expected: int,
     transcription_path: str = './transcription/raw_transcript.txt',
-    force: bool = False
+    force: bool = False,
+    return_raw_transcription: bool = False
 ):
     """
     Transcribe audio with speaker diarization and custom spellings.
@@ -100,6 +100,7 @@ def transcribe_audio(
         
     Returns:
         filepath of transcription
+        raw transcription if return_raw_transcription is True
     """
     # Calculate estimated cost. ElevenLabs charges ~$0.40 per hour
     # https://elevenlabs.io/docs/capabilities/speech-to-text#pricing
@@ -123,6 +124,7 @@ def transcribe_audio(
             file=open(temp_path, "rb"),
             num_speakers=speakers_expected,
             diarize=True,
+            tag_audio_events=False
         )
         return transcription.words
 
@@ -137,7 +139,11 @@ def transcribe_audio(
         all_chunks.append(chunk)
 
     # Write combined transcription
-    write_transcription(all_chunks, transcription_path)
+    full_raw_transcription = reconcile_speakers(all_chunks)
+
+    write_transcription(full_raw_transcription, transcription_path)
+    if return_raw_transcription:
+        return transcription_path, full_raw_transcription
     return transcription_path
 
 
@@ -201,6 +207,17 @@ def get_available_voices(client: ElevenLabs):
     all_voices = client.voices.get_all().voices
     non_premade_voices = list(filter(lambda v: v.category != "premade", all_voices))
     return non_premade_voices
+
+def clone_voice(client: ElevenLabs, voice_sample_filepath: str, voice_name: str) -> str:
+    """
+    Clone a voice using ElevenLabs.
+    """
+    with open(voice_sample_filepath, 'rb') as f:
+        voice = client.voices.add(
+            name=voice_name,
+            files=[f],
+        )
+    return voice.voice_id
 
 def estimate_cost(audio_length_ms: int, function: AudioAIFunction) -> float:
     """

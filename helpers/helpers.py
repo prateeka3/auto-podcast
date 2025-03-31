@@ -1,5 +1,6 @@
 from datetime import datetime
-from typing import List, Dict, TypedDict
+from typing import List, TypedDict
+from elevenlabs import SpeechToTextWordResponseModel
 from langchain.chat_models import init_chat_model
 
 class SpeakerMapping(TypedDict):
@@ -32,7 +33,7 @@ def format_chunk_for_llm(chunk_words: list, chunk_num: int) -> str:
     
     return "\n".join(chunk_lines)
 
-def reconcile_speakers(chunks: list) -> Dict[str, str]:
+def reconcile_speakers(chunks: list) -> list:
     """
     Reconcile speaker identities across multiple transcript chunks using LLM.
     
@@ -40,7 +41,7 @@ def reconcile_speakers(chunks: list) -> Dict[str, str]:
         chunks: List of transcript chunks, where each chunk contains word objects
         
     Returns:
-        Dict[str, str]: Mapping from original speaker IDs to global speaker names
+        List: one combined transcription with global speaker names
     """
     # Format all chunks for LLM
     all_chunk_texts = []
@@ -63,33 +64,38 @@ def reconcile_speakers(chunks: list) -> Dict[str, str]:
     response = model.with_structured_output(ReconciliationResult).invoke(prompt)
     
     # Convert to global mapping dictionary
-    global_mapping = {}
+    global_mapping = [{} for _ in range(len(chunks))]
     for entry in response['speaker_mapping']:
-        original_id = entry["original_id"]
-        global_name = entry["global_name"]
-        global_mapping[original_id] = global_name
-    
-    return global_mapping
+        global_mapping[entry['chunk_number']-1][entry['original_id']] = entry['global_name']
 
-def write_transcription(all_chunks: list, output_path: str):
+    # Combine all chunks into one transcription
+    reconciled_words = []
+    for chunk_num, chunk in enumerate(chunks):
+        for word in chunk:
+            # Convert original speaker_id to global name using mapping
+            global_speaker = global_mapping[chunk_num].get(word.speaker_id)
+            reconciled_word = SpeechToTextWordResponseModel(
+                text=word.text,
+                start=word.start,
+                end=word.end,
+                speaker_id=global_speaker,
+                type=word.type
+            )
+            reconciled_words.append(reconciled_word)
+    return reconciled_words
+
+def write_transcription(all_words: list, output_path: str):
     """Write transcription words to file with proper formatting"""
-    # Get speaker mapping
-    global_mapping = reconcile_speakers(all_chunks)
-    
     # Write final transcript using global mapping
     with open(output_path, 'w') as f:
         current_speaker = None
         current_text = []
         
-        all_words = [word for chunk in all_chunks for word in chunk]
         for word in all_words:
-            # Convert original speaker_id to global name using mapping
-            global_speaker = global_mapping.get(word.speaker_id, word.speaker_id)
-            
-            if global_speaker != current_speaker:
+            if word.speaker_id != current_speaker:
                 if current_speaker and current_text:
                     f.write(f"{current_speaker}: {' '.join(current_text).replace('  ', ' ')}\n")
-                current_speaker = global_speaker
+                current_speaker = word.speaker_id
                 current_text = [word.text.strip()]
             else:
                 current_text.append(word.text.strip())
