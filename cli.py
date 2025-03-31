@@ -1,6 +1,7 @@
 from collections import defaultdict
 from datetime import datetime
 import getpass
+import time
 from typer import Option, Typer, Argument
 from elevenlabs import ElevenLabs
 from client import clean_audio, clone_voice, estimate_cost, transcribe_audio, generate_script, get_available_voices
@@ -102,16 +103,13 @@ def script(
     Converts a raw transcription into a structured, concise script
     optimized for the specified length and audience.
     """
-    try:
-        script_path = generate_script(
-            transcription_file,
-            length_minutes=length,
-            audience=audience,
-            type=type
-        )
-        print(f"Successfully generated script. Output saved to: {script_path}")
-    except Exception as e:
-        print(f"Error generating script: {e}")
+    script_path = generate_script(
+        transcription_file,
+        length_minutes=length,
+        audience=audience,
+        type=type
+    )
+    print(f"Successfully generated script. Output saved to: {script_path}")
 
 def write_podcast_audio(client: ElevenLabs, script_path: str, speaker_voice_ids: dict, output_path: str = f"./audio/podcast_{datetime.now().strftime('%Y%m%d_%H%M%S')}.mp3"):
     """
@@ -327,106 +325,106 @@ def podcast_from_conversation(
     """
     client = ElevenLabs()
     
-    try:
-        # Validate that the input file is an audio file
-        validate_audio_filepath(input_file)
+    # Validate that the input file is an audio file
+    validate_audio_filepath(input_file)
+    
+    # Load the audio file to get its length for cost estimation
+    audio = AudioSegment.from_file(input_file)
+    audio_length_ms = len(audio)
+    
+    # Calculate estimated costs for each step
+    clean_cost = estimate_cost(audio_length_ms, AudioAIFunction.CLEAN) if clean_audio else 0
+    transcribe_cost = estimate_cost(audio_length_ms, AudioAIFunction.SPEECH_TO_TEXT)
+    clone_sample_length_ms = min(10*60*1000, audio_length_ms/speakers)
+    voice_cloning_cost = speakers * estimate_cost(clone_sample_length_ms, AudioAIFunction.CLONE_VOICE)
+    length_minutes = min(length_minutes, audio_length_ms/1000/60)
+    tts_cost = estimate_cost(length_minutes * 60 * 1000, AudioAIFunction.TEXT_TO_SPEECH)
+    
+    total_cost = transcribe_cost + clean_cost + voice_cloning_cost + tts_cost
+    
+    # Display cost estimate and ask for confirmation
+    print("\n=== Cost Estimate ===")
+    print(f"Input audio length: {audio_length_ms/1000/60:.1f} minutes")
+    print(f"Target podcast length: {length_minutes:.1f} minutes\n")
+    print(f"Transcription: ${transcribe_cost:.2f}")
+    if clean_audio:
+        print(f"Audio cleaning: ${clean_cost:.2f}")
+    print(f"Voice cloning ({speakers} speakers): ${voice_cloning_cost:.2f}")
+    print(f"Text-to-speech: ${tts_cost:.2f}")
+    print(f"Total estimated cost: ${total_cost:.2f}")
+    
+    if input("\nProceed with podcast generation? [y/N]: ").lower() != 'y':
+        print("Podcast generation cancelled by user.")
+        return
+    
+    # Step 1: Clean audio if requested
+    processed_audio = input_file
+    if clean_audio:
+        print("\n=== Cleaning Audio ===")
+        processed_audio = clean_audio(client, input_file)
+        print(f"Audio cleaned and saved to: {processed_audio}")
+    
+    # Step 2: Transcribe audio with diarization
+    print("\n=== Transcribing Audio ===")
+    transcription_path, raw_transcription = transcribe_audio(client, processed_audio, speakers, force=True, return_raw_transcription=True)
+    print(f"Transcription saved to: {transcription_path}")
+
+    # Step 2.5: Wait for Anthropic rate limit to reset
+    time.sleep(60)
+
+    # Step 3: Generate podcast script
+    print("\n=== Generating Podcast Script ===")
+    script_path = generate_script(
+        transcription_path, 
+        length_minutes=length_minutes,
+        audience=audience,
+        type=podcast_type
+    )
+    print(f"Script generated and saved to: {script_path}")
+    
+    # Step 4: Extract speaker samples and clone voices
+    print("\n=== Cloning Voices ===")
+    # Extract audio samples for each speaker (max clone_sample_length_ms per speaker)
+    samples = defaultdict(list)
+    samples_length = defaultdict(int) # in milliseconds
+    current_speaker = None
+    current_segment = []
+    for word in raw_transcription:
+        if word.speaker_id != current_speaker:
+            if current_speaker and current_segment:
+                samples[current_speaker].append((current_segment[0].start*1000, current_segment[-1].end*1000))
+                samples_length[current_speaker] += current_segment[-1].end*1000 - current_segment[0].start*1000
+            current_speaker = word.speaker_id
+            current_segment = [word]
+        elif samples_length[current_speaker] < clone_sample_length_ms:
+            current_segment.append(word)
+    
+    speaker_voice_ids = {}
+    for speaker in samples.keys():
+        # combine all samples into a single audio file per speaker under audio/voices/
+        samples_audio = AudioSegment.empty()
+        for start, end in samples[speaker]:
+            fmt = validate_audio_filepath(input_file)
+            samples_audio += AudioSegment.from_file(input_file, format=fmt)[start:end]
+        voice_sample_file = f"audio/voices/{speaker}.mp3"
+        samples_audio.export(voice_sample_file, format="mp3")
         
-        # Load the audio file to get its length for cost estimation
-        audio = AudioSegment.from_file(input_file)
-        audio_length_ms = len(audio)
-        
-        # Calculate estimated costs for each step
-        clean_cost = estimate_cost(audio_length_ms, AudioAIFunction.CLEAN) if clean_audio else 0
-        transcribe_cost = estimate_cost(audio_length_ms, AudioAIFunction.SPEECH_TO_TEXT)
-        clone_sample_length_ms = min(10*60*1000, audio_length_ms/speakers)
-        voice_cloning_cost = speakers * estimate_cost(clone_sample_length_ms, AudioAIFunction.CLONE_VOICE)
-        length_minutes = min(length_minutes, audio_length_ms/1000/60)
-        tts_cost = estimate_cost(length_minutes * 60 * 1000, AudioAIFunction.TEXT_TO_SPEECH)
-        
-        total_cost = transcribe_cost + clean_cost + voice_cloning_cost + tts_cost
-        
-        # Display cost estimate and ask for confirmation
-        print("\n=== Cost Estimate ===")
-        print(f"Input audio length: {audio_length_ms/1000/60:.1f} minutes")
-        print(f"Target podcast length: {length_minutes:.1f} minutes\n")
-        print(f"Transcription: ${transcribe_cost:.2f}")
-        if clean_audio:
-            print(f"Audio cleaning: ${clean_cost:.2f}")
-        print(f"Voice cloning ({speakers} speakers): ${voice_cloning_cost:.2f}")
-        print(f"Text-to-speech: ${tts_cost:.2f}")
-        print(f"Total estimated cost: ${total_cost:.2f}")
-        
-        if input("\nProceed with podcast generation? [y/N]: ").lower() != 'y':
-            print("Podcast generation cancelled by user.")
-            return
-        
-        # Step 1: Clean audio if requested
-        processed_audio = input_file
-        if clean_audio:
-            print("\n=== Cleaning Audio ===")
-            processed_audio = clean_audio(client, input_file)
-            print(f"Audio cleaned and saved to: {processed_audio}")
-        
-        # Step 2: Transcribe audio with diarization
-        print("\n=== Transcribing Audio ===")
-        transcription_path, raw_transcription = transcribe_audio(client, processed_audio, speakers, force=True, return_raw_transcription=True)
-        print(f"Transcription saved to: {transcription_path}")
-        
-        # Step 3: Generate podcast script
-        print("\n=== Generating Podcast Script ===")
-        script_path = generate_script(
-            transcription_path, 
-            length_minutes=length_minutes,
-            audience=audience,
-            type=podcast_type
-        )
-        print(f"Script generated and saved to: {script_path}")
-        
-        # Step 4: Extract speaker samples and clone voices
-        print("\n=== Cloning Voices ===")
-        # Extract audio samples for each speaker (max clone_sample_length_ms per speaker)
-        samples = defaultdict(list)
-        samples_length = defaultdict(int) # in milliseconds
-        current_speaker = None
-        current_segment = []
-        for word in raw_transcription:
-            if word.speaker_id != current_speaker:
-                if current_speaker and current_segment:
-                    samples[current_speaker].append((current_segment[0].start*1000, current_segment[-1].end*1000))
-                    samples_length[current_speaker] += current_segment[-1].end*1000 - current_segment[0].start*1000
-                current_speaker = word.speaker_id
-                current_segment = [word]
-            elif samples_length[current_speaker] < clone_sample_length_ms:
-                current_segment.append(word)
-        
-        speaker_voice_ids = {}
-        for speaker in samples.keys():
-            # combine all samples into a single audio file per speaker under audio/voices/
-            samples_audio = AudioSegment.empty()
-            for start, end in samples[speaker]:
-                fmt = validate_audio_filepath(input_file)
-                samples_audio += AudioSegment.from_file(input_file, format=fmt)[start:end]
-            voice_sample_file = f"audio/voices/{speaker}.mp3"
-            samples_audio.export(voice_sample_file, format="mp3")
-            
-            print(f"Cloning voice for {speaker}...")
-            # Clone the voice using ElevenLabs. record the voice_id
-            voice_id = clone_voice(client, voice_sample_file, speaker)
-            speaker_voice_ids[speaker.lower()] = voice_id
-            # Delete the voice sample file after cloning
-            try:
-                os.remove(voice_sample_file)
-                print(f"Deleted voice sample file: {voice_sample_file}")
-            except Exception as e:
-                print(f"Warning: Could not delete voice sample file {voice_sample_file}: {e}")
-        
-        # Step 5: Generate podcast audio
-        print("\n=== Generating Podcast Audio ===")
-        write_podcast_audio(client, script_path, speaker_voice_ids)
-        print("Deleting generated voices...")
-        delete_generated_voices(client, speaker_voice_ids)
-    except Exception as e:
-        print(f"Error generating podcast: {e}")
+        print(f"Cloning voice for {speaker}...")
+        # Clone the voice using ElevenLabs. record the voice_id
+        voice_id = clone_voice(client, voice_sample_file, speaker)
+        speaker_voice_ids[speaker.lower()] = voice_id
+        # Delete the voice sample file after cloning
+        try:
+            os.remove(voice_sample_file)
+            print(f"Deleted voice sample file: {voice_sample_file}")
+        except Exception as e:
+            print(f"Warning: Could not delete voice sample file {voice_sample_file}: {e}")
+    
+    # Step 5: Generate podcast audio
+    print("\n=== Generating Podcast Audio ===")
+    write_podcast_audio(client, script_path, speaker_voice_ids)
+    print("Deleting generated voices...")
+    delete_generated_voices(client, speaker_voice_ids)
 
 if __name__ == "__main__":
     app()

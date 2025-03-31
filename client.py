@@ -1,14 +1,15 @@
 from typing import List
+import anthropic
+import instructor
 from pydantic import BaseModel
 from helpers.audio_helpers import process_large_audio, validate_audio_filepath
 from elevenlabs import ElevenLabs
 from pydub import AudioSegment
 import requests
 import io
-from langchain.chat_models import init_chat_model
 
 
-from common import AudioAIFunction
+from common import WORDS_PER_MINUTE, AudioAIFunction
 from helpers.helpers import reconcile_speakers, write_transcription
 
 class SpeakerLine(BaseModel):
@@ -173,15 +174,27 @@ def generate_script(transcription_path: str, length_minutes: int, audience: str 
         length_minutes=length_minutes,
         audience=audience,
         type=type,
-        word_count=length_minutes * 150
+        word_count=length_minutes * WORDS_PER_MINUTE
     )
     
     # Initialize chat model
-    model = init_chat_model("claude-3-5-sonnet-latest", model_provider="anthropic")
-    
-    # Generate script with structured output
-    response = model.with_structured_output(SpeakerLines).invoke(
-        prompt + f"\n\nTRANSCRIPT:\n{transcription}"
+    tokens = anthropic.Anthropic().messages.count_tokens(
+        model="claude-3-5-sonnet-latest",
+        messages=[
+            {"role": "user", "content": prompt + transcription}
+        ]
+    )
+    print(f"Estimated token count: {tokens}")
+
+    client = instructor.from_anthropic(anthropic.Anthropic())
+    response = client.messages.create(
+        model="claude-3-5-sonnet-latest",
+        max_tokens=length_minutes * WORDS_PER_MINUTE,
+        system="You are a world class script writer for podcasts",
+        messages=[
+            {"role": "user", "content": f"{prompt}\n\nTRANSCRIPT:\n{transcription}\n\nSCRIPT:\n"}
+        ],
+        response_model=SpeakerLines,
     )
     
     # Generate output filename based on input

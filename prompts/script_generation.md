@@ -61,10 +61,7 @@ Raw conversation transcript with speaker labels. May include:
 </output_requirements>
 
 <output_format>
-SPEAKER: Dialogue text
-SPEAKER: Dialogue text
-
-[Continue with clear speaker labels and natural dialogue flow]
+JSON with a single "content" key, which is a list of dictionaries each with a "speaker" and "text" key
 </output_format>
 
 <constraints>
