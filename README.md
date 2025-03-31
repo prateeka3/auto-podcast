@@ -8,6 +8,5 @@ transcribe   Transcribe an audio file with speaker diarization.
 # TODO
 - single cli function for entire flow (podcast_from_conversation)
 - clone voices
-- Instead of passing the ElevenLabs client around, create a singleton wrapper
 - Test with another public conversation
 - update voices with more audio

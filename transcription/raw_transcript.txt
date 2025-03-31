@@ -1,33 +1,1841 @@
-Ariel: Is it to each, to, to move this to a remote meeting- 
-Sonia: No. 
-Ariel: ... for the sake of we're not doing that. 
-Participant_A: We could sit in different rooms. (laughs) 
-Sonia: Absolutely not. 
-Pradip: So I, I found a solution to that. Even if you're in the same room, you can split the voice- 
-Ariel: Okay. 
-Pradip: ... you can split who said what based on the voices. Um- 
-Ariel: (laughs) 
-Pradip: ... and okay, I'll go down that thread a lot later, but- 
-Ariel: You want me to record, Pradip? 
-Pradip: Yeah, I started recording on my end just, just in case Sonia said something else. 
-Ariel: Already? 
-Participant_A: Yeah. 
-Ariel: You already started. Pradip, don't start. 
-Sonia: There's a, there's a catch. Every time you speak, you have to scream your name. (laughs) 
-Pradip: (laughs) 
-Ariel: (Laughs) Oh, okay. Here. (door closing) Great. Now we're being recorded. 
+Meryl: And so to each, to, to move this to a remote meeting- 
+Ariel: No. 
+Meryl: ... for the sake of we're not doing that. 
+Sonia: We can sit in different rooms. (laughs) 
+Ariel: (laughs) Absolutely not. 
+Pratik: So I, I found a solution to that. Even if you're in the same room, you can split the voice- 
+Meryl: Uh-huh. 
+Pratik: You can split who said what based on the voices. Um- 
+Meryl: (laughs) 
+Pratik: ... and okay, I'll go down that thread a lot later- 
+Meryl: (laughs) 
+Pratik: ... but- 
+Meryl: Do you want me to record, Pradip? 
+Pratik: Yeah, I started recording on my end just, just in case Sonia said something else. 
+Sonia: Already? 
+Meryl: Yeah. You already started. (laughs) 
+Pratik: (laughs) 
+Sonia: Sonia, don't start. But there's a, there's a catch. Every time you speak, you have to scream your name. 
+Meryl: (laughs) 
+Pratik: (laughs) 
+Meryl: Okay, here. (cup clinking) Great, now we're being recorded. 
 Sonia: Wait, so how are we doing it? 
-Pradip: So basically, I'll just get this one recording. I think your recording will be better than mine, but I just wanna see the options. But, uh, there's another AI tool called Speaker Diarization that you can just throw it, throw the recording through and it'll split the voices, and then we can do all sorts of things with it, right? Like summaries and- 
+Pratik: So basically- 
+Sonia: What? What? 
+Pratik: ... I'll just get this one recording. I think your recording will be better than mine, but I just wanna see the options. But, uh, there's a, another AI tool called Speaker Diarization that you can just throw it, throw the recording through and it'll split the voices and then we can do all sorts of things with it, right, like summaries and- 
 Sonia: Cool. 
-Pradip: ... yeah. 
+Pratik: ... yeah. 
 Sonia: Go ahead. 
-Ariel: Oh, cool. Um, wait. I actually wanna start with a question that's not quite AI yet, but I do think it's a good foundation because every time I've talked to somebody about AI in therapy, this comes up. What do you guys think is the point of therapy? All right, I'll meet you guys- 
+Meryl: Oh, cool. Um, wait, I actually wanna start with a question that's not quite AI yet, but I do think it's a good foundation because every time I talk to somebody about AI in therapy, this comes up. What do you guys think is the point of therapy? All right, I'll meet you guys- 
 Sonia: You think that's a place to start? 
-Ariel: Yeah. 
-Pradip: (laughs) . 
-Ariel: I do. 
-Pradip: Ariel's mom should be here. 
+Meryl: Yeah. 
+Pratik: (laughs) 
+Meryl: I do. 
+Pratik: Ariel's mom should be here. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Sonia: Fair enough, fair enough. 
+Meryl: You think about it. I'm gonna get some more food. One sec. 
+Pratik: Hey, you know how we were talking about having experts come in? I feel like your mom should hop in. 
+Sonia: I know. 
+Pratik: Did you talk to her about it? 
+Sonia: Should I call and tell her? 
+Pratik: Low-key, like maybe, maybe in a half an hour or so after we've warmed up a little bit, that could be kind of interesting. 
+Sonia: Yeah, that would be funny. 
+Meryl: Doesn't seem that selective for new members then. 
+Pratik: (laughs) Guess- 
+Sonia: That's not what I'm saying- 
+Meryl: (laughs) 
+Sonia: ... about my mother. 
+Pratik: (Laughs) (dishes clanking) 
+Meryl: Okay. Do we know where to start this conversation? 
+Sonia: No. 
+Meryl: Okay, who wants to start? 
+Pratik: What is the point of therapy? Wait- 
+Meryl: Yeah. 
+Pratik: ... all, all of you guys do therapy or have been doing it for a while? 
+Meryl: Yeah. 
+Sonia: Yes. 
+Pratik: Yes, yes, yes? I have not started yet. So two different, like- 
+Meryl: Okay. 
+Pratik: ... perspectives. You guys want to start then? 
+Meryl: But you, you're starting. 
+Pratik: Yeah, I'm starting next week. I'm pretty excited about it. 
+Sonia: Oh, cool. 
+Meryl: And what was the precipitating or participating thing? 
+Pratik: I was- 
+Meryl: Like I guess- 
+Pratik: ... I was like really extra sad and I decided to do something about it. 
+Meryl: Hmm. 
+Sonia: Hell yeah. 
+Meryl: That's a great reason. 
+Pratik: Yeah. 
+Sonia: Hell yes. 
+Pratik: Well, honestly, since AI Club, I'm way less sad and I may cancel therapies. (laughs) 
+Meryl: Yes. 
+Sonia: (laughs) 
+Pratik: Since, since talking to Notebook LM, my best friend. (laughs) 
+Sonia: (laughs) 
+Meryl: (laughs) Okay, so people go... Yeah, people go to therapy when they're really sad to try and fix like being sad, but I guess maybe that's... So I guess in that case, it would be about a combination of figuring out why you're sad and figuring out what you can do. I feel like you're the most qualified to answer this. 
+Sonia: I feel like there are a lot of reasons to go to therapy. 
+Meryl: Mm-hmm. 
+Sonia: If, if I had to like put it in a bucket, it's something about like, it's... Well, here's what I think, it's like, it's a, it's a unique relationship in the way that like, you know, a parent-child relationship is very particular and has like norms and things we think are like appropriate and like ways that you want the dynamic to be, the way you have a friend, a family member, a parent, whatever. I think of like a therapist-patient relationship to have kind of its own category. Um, and I think the purpose, it's like, so like, it's like a specific type of relationship that's been developed through science and this like school of thought of like, we can form these relationships between a therapist and a patient so that through the relationship, the patient can understand themselves better or like work through a problem. I think it's like the broadest way or like, yeah, it's like a relationship that helps you, uh, work through something about yourself or like resolve an inner conflict type of thing. Um- 
+Meryl: It's a- 
+Sonia: Do you guys agree with that or? 
+Meryl: I agree with that. I think one like distinction that I make is like therapy when you have a really like much more severe mental health issue that needs like more direct immediate intervention as opposed to like more generally, like we all have, you know, like general problems that we're working through. So that I feel like it's, those would be the two umbrella categories. 
+Sonia: Mm-hmm. 
+Meryl: I guess also, like, how do you feel about to that distinction? Like, how do you feel about steady state therapy versus like, do you feel like there's always a thing, there should always be a thing you're working on? 
+Sonia: Not necessarily. 
+Meryl: I think it's probably most effective if there is something on your mind, but I don't think it has to be so purposeful, like going into it. Like sometimes you don't know what like that day's session is going to be about or something like that. And that's when like you might realize that there is something that you thought of. 
+Pratik: How do you start a session in steady state? 
+Meryl: Interesting. Um, honestly, often pretty banal, like somebody just says like, "So how are you doing?" 
+Sonia: Yeah. 
+Meryl: "How's your week going?" 
+Sonia: "How have you been?" 
+Meryl: But then you're supposed to answer honestly as opposed to how you answer every other time somebody asks you that. 
+Pratik: Right. Okay. And that leads me to my second question, which is like, before this new relationship, you said Ariel, like before this like role existed of a therapist in your life, like how is that role fulfilled by other people and other relationships in your life or in a life, not yours for- specifically? 
+Sonia: I think, I think it's a good question. I think it depends what you're in therapy for. Like to Meryl's point, like there is a conception of therapy of like you have, say you have like a, you know, an acute, like severe mental health crisis that you need addressed. And maybe so like the best parallels, like you go to a therapist the way you go to like a cardiologist or whatever. And so like, you know, maybe there isn't a clear other relationship that can solve that. Um, also you can go to therapy for being generally lonely. And so like a rich social life in theory could like resolve that, but you're going to therapy to, to get to that or to like, I think to get to something like that in that case. I don't know. 
+Meryl: I think... Wait, the question was like how is it a distinct relationship, right? 
+Pratik: Well, like pre- prior to this ex- this relationship existing in your life, like was that role fulfilled by like slices of like a little bit of friend stuff, a little bit of family stuff, a little bit other whatever, like random people on the street? Like, like how is that... Or was it just literally a hole that was immediately plugged by therapy?
+Meryl: I think, like, kind of to Ariel's point, I think like it's sort of like one slice of the pie. But I think one distinct thing that it's filled for me that I didn't have before is that it's a completely one-sided relationship. 
+Sonia: Mm-hmm. 
+Meryl: I don't have to worry about... Like, when you're talking to a friend, you can't just monologue forever about problems. But with your therapist, you can 'cause you're paying them. 
+Sonia: Mm-hmm. 
+Meryl: And that's their job. And so I think that, like... I think it's kind of freeing to be like, "I don't care if I sound silly or conceited or narcissistic." 
+Sonia: Mm-hmm. 
+Meryl: "Like, it is their job to listen to me at the moment." 
+Sonia: Totally. 
+Pratik: Great. 
+Meryl: Going up. 
+Pratik: That leads me into an- another question about the AI side of things, right? Like, isn't that every conversation with AI? 
+Sonia: Yeah, it, it... It reminds me of... Uh, like, one of the things that came up most often in these articles which surprised me, was this idea of, like, people using it because... The reason it was valuable is because it allowed people to avoid stigma and it allowed people to avoid that, like... Having to get over that with another person or having to, like, say that they need help which I actually don't think is the main value of it, but- It does interest people. ... I don't feel any stigma around it. 
+Meryl: Yeah, I... That also really struck me because I think for me, similarly to you, I don't feel stigma around it. But I can see that being huge for someone else. 
+Sonia: Totally. 
+Meryl: Like, you don't have to tell anyone. You don't have to... It's a lot easier to admit to, like, yeah, a fake thing or vulnerabilities or something like that. 
+Sonia: I don't know that I've ever had a relationship with a therapist where I feel comfortable telling them stuff that I wouldn't tell someone else. Does that feel abnormal? 
+Meryl: Like- 
+Sonia: No, right? 
+Pratik: What do you mean? 
+Sonia: Like, maybe not... Like, maybe I wouldn't monologue for weeks on end- Mm-hmm. ... 45 minutes about whatever. But, like, I don't think I've ever felt things that were... That felt embarrassing or narcissistic or whatnot, that I wouldn't tell a really close friend also. 
+Pratik: But did you? Like, you wouldn't... Would you and didn't do is different, right? 
+Sonia: No, I definitely, I definitely do. 
+Pratik: Oh, okay. 
+Sonia: Um, I think I did generally develop the stance that, like, not... That feel- any feeling where you feel like you should... Like, ashamed of it, is like a good feeling to figure out how to tell someone in your life because- 
+Pratik: Yeah. 
+Sonia: ... it's a really bad place to be. And I feel like... I don't know that having my therapist knowing, scratches that itch at all. Yes. 
+Pratik: So, what's the function of the therapist for you? 
+Sonia: So, for me, I, like... I feel like I'm in therapy to, like, put together puzzle pieces. Um, and I think that's... Like, I don't think I'm in it for the relationship as much. Um, or it's like I wanna... It's like, you know when you're with somebody and they make a comment and... Like, it's cl- it's like a close friend of yours and they're... And they make a comment and you're like, "That's so interesting. I didn't realize that that's how you..." (laughs) 
+Pratik: Yeah. 
+Sonia: That, it's like... It, it's always, like, very jarring and sometimes very positive. But, like, I think I'm in it for, for that; to be able to come to those things on my own, um, which is part of the reason why I like cat so much. (laughs) But that's not the direction of this conversation. Um... (laughs) 
+Pratik: All right. We got... We got our weekly cat reference out of the way nice and early (laughs) and now we're not gonna hear about cat anymore. (laughs) 
+Meryl: Some people, by the way- 
+Sonia: I'm staring at, at a sticky note that says "cat" behind the computer. 
+Pratik: Oh, true, okay. (laughs) Just a, a reminder. Wait, so we'll... Yeah, there you go. 
+Sonia: At Sonia's point, quickly, I, I haven't... I have not told a therapist anything that I haven't told anyone else. But I do think that for me it's easier. Sometimes there are things that I'm like... It's, like, hard for me to share with people or that it's, like, a little pain. Like, I feel the stigma and the, like, fear of sharing it in a social setting. And even though I do, but like, it's hard to get to that. And in therapy, it comes out much more easily because of the nature of the relationship. And so, like, sharing it... I don't... I don't even know necessarily if it's like I share it first in therapy and then it lets me share it with people. Like, I think the order kind of varies but, like, sharing it in therapy in a place where it comes out more easily, like, facilitates working through those feelings of why I feel stuck sharing it- 
+Pratik: Right. 
+Sonia: ... in a real setting sometimes. Um, but I- 
+Pratik: And how long have... How long have each of you guys done therapy? 
+Sonia: Since I was, like, 18. 
+Pratik: Okay. 
+Meryl: I think for, like, three years for me. 
+Pratik: Uh-huh. 
+Sonia: Uh, like a year and a half. (laughs) 
+Pratik: What? 
+Sonia: I think. 
+Pratik: I thought it was zero for you, dude. Like- 
+Sonia: (laughs) 
+Meryl: What? 
+Pratik: ... since you were born, you- 
+Sonia: I'm a therapist. No, I'm saying like since... I was bor- I was born into therapy. 
+Meryl: (laughs) 
+Pratik: (laughs) Yeah. 
+Sonia: I was born into a pseudo-therapy relationship. 
+Pratik: (laughs) 
+Sonia: I'm still try- trying to get out of that one. 
+Pratik: (laughs) Um... 
+Sonia: Okay. (laughs) Drinking and drinking. (laughs) 
+Meryl: Oh. 
+Sonia: (laughs) That's gonna be, I think, in the recording things have gotten... (laughs) (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) Someone's gonna sign up, sign up ******. They're gonna be like, "What the fuck?" (laughs) Um, okay. So- But y- I think it's great. I, I think it is important to ask what you get out of therapy and what the point of it is. And I have some thoughts about the... We, we can keep going b- but I do have a thought about the... I... It also struck me that people expressed that it wasn't stigmatizing. Hmm. And I think that's revealing. I don't think it's a coincidence that people said that. Like, it makes sense to me that people feel that with their chatbots. Therapy? Oh, oh, oh, oh, that, that... We're... We were saying we were so surprised- That it wasn't stigmatic. ... it's not stigmatizing. Yeah, like... 
+Meryl: It is interesting 'cause I actually think there's more stigma for myself- 
+Sonia: Oh, thanks. 
+Meryl: ... around, around... I've like... Like, I kind of felt embarrassed when I was, like, experimenting- 
+Sonia: (laughs) 
+Meryl: ... with chat- like telling my feelings- 
+Sonia: Yeah. 
+Meryl: ... to the bot. 
+Sonia: For sure. 
+Meryl: I was like, "This is so much more embarrassing to me." Well, I have zero embarrassment about telling things to my ther- like, about going to therapy. But I had some shame or stigma around using a chatbot for that. 
+Sonia: Well, okay, but that's, that's actually something that I... I don't know how you guys interpreted it. But did you understand the stigma to be about going to therapy or about what you were sharing in therapy being stigmatized by the person? Oh. 
+Meryl: Oh, I think both. 
+Sonia: Oh, interesting. 'Cause I understood it... Maybe I misunderstood it, but I understood it as you weren't worried about being stigmatized in the conversation. You're worried about being stigmatized by the fact, by the fact of going to therapy. No, no, no. I'm saying the people were saying- Oh. ... it felt great 'cause I wasn't worried about- Scared of saying stuff. ... being stigmatized 'cause of the conversation, not the stigma- Okay. ... of going to therapy. 
+Meryl: Yeah. 
+Sonia: But I also do wonder if there's more people with... I guess... I mean, I have really mean and, like, not nice thoughts all the time. But I don't think I have... Like, I think there are probably fi-... If I was having thoughts of, like, wanting to kill people or want... Like, really extreme thoughts that, like, I felt like were not acceptable to share. And for some reason I can tell my friends whatever is it's like I feel like they're gonna get it. Even if it's like- Yeah. ... out whatever. And so that I could see being like, "I just can't tell a person this." Um-I'm imagining somebody who had, like- like, imagine if you had, like, were sexually attracted to children. Like how- 
+Meryl: That's exactly the extreme I was gonna say. 
+Sonia: Yeah. 
+Pratik: Right. 
+Sonia: Like, how do you even say that to a person? So scared to say it. Um... 
+Meryl: Mm-hmm. 
+Sonia: Yeah, like those are the kind of situations where I could totally see that. 
+Meryl: And that's, like, the most dangerous to me 'cause, like, using that example... Like, you should have shame probably. I don't know, like, it's so delicate how AI would handle that. 
+Pratik: Right. 
+Meryl: Versus a therapist. A good ther- I mean, I'd probably also go therapist too, could help you work through that. But, like, one end of it could be the AI making you feel like it's normal and not helping you work through it in the best way. 
+Pratik: Mm-hmm. 
+Meryl: Versus, like, probably that shame is helpful 'cause you know it's wrong. 
+Pratik: Right. I wonder how the AI would deal with that because my experience with chatbots in general is all... Like, they're always affirming, they always make you feel good about your decisions and, like, maybe slightly nudge you in a different direction but nothing drastic, you know. 
+Sonia: I feel like there's some flags where they're like, "Oh, you're talking about murder or you're talking about pedophilia. Like, no, cannot affirm." But I feel like you could get to a place where you're talking to it and it didn't set off the flag. 
+Pratik: Mm-hmm. 
+Sonia: And then, I've actually started telling Claude every time I talk to it, I'm like, "You are way too prone to affirming me. Please contradict me." (laughs) And, like, that helps a lot but, like, people aren't gonna do that. So, you're telling it that. I'm telling it. Right, right. (laughs) So, it's just pleasing you by- That's a great point. Yeah, yeah............................. Literally is. Um, but I think, you know, I think part of the reason you wouldn't say, "Okay, you want therapy? Go talk to Claude." You'd say, "You want therapy? Go to this, like, this, like, very well tested, uh, like, therapy bot that, you know, has all this prompting in place and has been trained on certain data sets." And also, like, you know, has- you've given it, like, a user profile. Like, this is who you are, this is how you react to all these different things. Um... Well, here is, uh, the first, uh, regulatory tidbit- 
+Pratik: (laughs) 
+Sonia: ... here. (dishes clanking) When my- when a patient tells my mother that they're suicidal, she has a legal responsibility to act on that, right? If she hears that in a session, doesn't do anything and a week later, the patient turns out dead. Like, that's, like, illegal. I- uh, that... She would lose her license. Like, you know, that's not allowed. So, there's a whole set of protocols she has to follow when someone is, like, expressing self-harm or harm to oth- Like, "I'm gonna shoot up a school or something." Like, and so, like, you know, you'd imagine you'd want an AI bot to follow those rules in the same way. 
+Pratik: Totally. 
+Sonia: So, if someone writes that, you need to be in contact with the police or with, like, a hospital or, like, some, like... You know, you have to, like, get eyes on the person or you need to be immediately in contact with someone that's with the person and, like, make sure that they're, you know, monitored. So, you'd need to do that. Yeah. I don't know what the protocols are for, like, uh- 
+Meryl: (clears throat) 
+Sonia: ... pedophilia or stuff like that. Like, I don't know- 
+Meryl: Yeah. 
+Sonia: ... what, like, the type of legal action is. I could imagine if there's, like, a threat of, like, acting on something like that, it would be the same but, like- 
+Meryl: Yeah. 
+Sonia: ... just expressing that. 
+Meryl: I have a little bit to add to that because I was talking to my friend who's in law school- 
+Sonia: Hmm. 
+Meryl: ... about AI club yesterday. 
+Pratik: (laughs) 
+Sonia: Let's go. 
+Meryl: Um- 
+Sonia: It's her boyfriend who's calling who wanted to join. 
+Meryl: Yep, who we rejected. 
+Sonia: Your boyfriend? 
+Meryl: No, it was Michelle's- 
+Sonia: Oh. 
+Meryl: Michelle's boyfriend is calling. 
+Sonia: Yeah, yeah, yeah. 
+Meryl: Yeah. Anyway, so I was telling her, we were talking about this, like, and we were saying- 
+Sonia: Oh boy. 
+Meryl: Yeah. What is, um... Like, who would be liable in this- in the situation you mentioned? Someone said, "I want to commit suicide." 
+Sonia: Right. 
+Meryl: Therapist doesn't do anything, they're liable. 
+Sonia: Right. 
+Meryl: Who's liable in the AI? And then Michelle also told me that they were just learning about this in law school, that, um, there's, like, a couple different distinctions. So, if someone, like, um, like, level of intent or, like, level, uh, like, the probability that you think they're gonna commit harm to themselves or others is one way to determine liability. But then the other factor is also how easy it is to, like, pinpoint the person that they're gonna harm. 
+Pratik: Mm-hmm. 
+Meryl: So, the example she said is if somebody was like, "Oh, I'm gonna kill this person that I met in China in 2010" and the therapist has no idea who that would be, they're a lot less liable because, like, how would they track that down? 
+Sonia: That makes sense. 
+Meryl: Um, so if, relating it back to pedophilia, maybe there's a case of- 
+Pratik: Right. 
+Meryl: ... like, well, if they're not mentioning a specific child or something- 
+Pratik: Yeah. 
+Meryl: ... maybe there wouldn't be liability. 
+Pratik: Right. 
+Sonia: I actually think I read somewhere that- that, and I could be wrong about this, but that therapists are mandated to report people who say they have sexually- or sexual or just dis-............................ Which, to me, seems like the most fucked up thing ever because, like, how are you supposed to... How else- 
+Meryl: How else are you supposed to get help? 
+Sonia: Yeah. 
+Meryl: And if you're telling a therapist, you're probably- 
+Sonia: Exactly. 
+Meryl: ... trying to help yourself. 
+Sonia: Exactly. 
+Meryl: Yeah. 
+Sonia: I found it interesting that- (coughs) ... Sony didn't include any sources on the people that have killed themselves after talking to their AI chatbot. (laughs) I... Th- (laughs) 
+Pratik: (laughs) 
+Sonia: To be clear, guys, I do not condone using random chatbots who are posing as Daenerys- (laughs) ... for therapy. (laughs) Um... 
+Meryl: Um- 
+Sonia: Okay. 
+Meryl: ... I- 
+Sonia: (laughs) 
+Meryl: ... I feel like the- like, the extreme examples that we're talking about, like suicide, killing other people or pedophilia are kind of closely tied to the self-driving example. I like that's... I- I'm glad that you pulled up that first source, so it got me thinking about that. It's because, like, in general, maybe another way- 
+Sonia: Oh yeah, add the self-driving parallel. Yeah. Right, yeah. In- in- Because like- ... one of those- Yeah. ... I feel like a theme that was also coming about in, like, LLM based systems is like, how do you guarantee that an LLM does or does not do certain things, right? Right, it's not rule-based. It's not rule-based, but can you guarantee that it'll stop the car under certain circumstances or it can stop or start the car or that it- or, like, every time someone ever mentions killing themselves, they're going to report it or, like, flag something in the system? Like, how do you guarantee certain behavior? I talked- Not only that but how do you guarantee that it- it, like Meryl was saying, like, it needs to... It's not just saying, "I have desires for- for children." It's like, it would have to be able to lead in a, like, way that we trust that it's discerning between cases where it's, like, really healthy that it's coming up and they have no intent to act on it and they're, like, ex- being vulnerable about this thing- Mm-hmm. ... in therapy, which is exactly what you want versus, you know, the other case where they're suppressing it and seem like they're gonna act on it. Well, the other self-driving car parallel, now that we're saying it like this, I feel like there's two- 
+Meryl: (coughs) 
+Sonia: ... different things, right? We ta- last week we talked about, like, okay, self- self- self-driving car makes a mistake. Like, they should've done this. Yeah. It's a bug and you fucked it up. And the other is, self-driving car actually, like, made the choice based on all the factors. And yes, somebody ended up dead, but that was, like- like- Exactly. ... that wasn't whatever. And to me, there's two things here. There's like, all right, an LLM fucks up and, like, doesn't identify a suicide risk, like, and is, like, affirms somebody in a terrible way. And then there's, like, okay, imagining that an LLM, like, gets it right. Like, you actually, they can demonstrate the, like, emotional nuance of a person. Uh, also, there's a lot of bad therapists out there. That's the other thing. Like- For sure. ... there's also that. So- Yeah, sure. Thank you. Um-... uh, and- There are bad drivers out there. (laughs) So, that's the b- I think it's a good thing. Yeah, actually. Yeah, totally, totally. And that's always going to come up because humans are imperfect. Sadly. 
+Meryl: Mm-hmm. 
+Sonia: (laughs) Um, uh, but I think in that case, then there's a different question of, like, there's, like, the, the, the hazard of an LM fucking up, and then there's the, okay, imagine that it didn't. Right. Then what are the issues with it? Right. Which are, like, a different set of issues, I think. And it gets to the responsibility stuff that it sounds like you were talking about. 
+Meryl: Mm-hmm, like, if they fuck up. If that happens. 
+Sonia: Right. Yeah. Like, what if they make a decision that we deem maybe in retrospect we've used the dialogue music. Okay, it seemed reasonable to assume they weren't gonna act on it, and then they don't do anything about it, and then they act on it. Where is the responsibility lie? It's the same conversation we had last year. Same conversation. It's like- But I'm thinking more... I'm thinking less about, like, the LM, like something bad happening. I'm thinking more about, like, um, maybe separate from... We can talk about either one of these, but separate from the extreme cases of, like, here's what could go wrong. Like, okay, imagine that it doesn't go wrong. Like, then what is the... What are the pros and cons to having an LM enabled therapist? And- 
+Meryl: Can I make one more comment on the if it goes wrong and liability- 
+Sonia: Yeah. 
+Meryl: ... before we go to that? Even, like, in this situation we have now where it's a lot more clear who's liable- 
+Sonia: Mm-hmm. 
+Meryl: ... like, if you're suing a therapist, or like, you're suing McDonald's for giving you E.coli or something, you know. Like, at the end of the day, the liability is just like a pay-, you know? 
+Sonia: Right. 
+Meryl: Someone paying you. 
+Sonia: Right. 
+Meryl: Like, you can't raise someone fro- someone from the dead. 
+Sonia: Exactly. 
+Meryl: Or, um, you know, make yourself get back the lost time that you were sick. 
+Sonia: Totally. 
+Meryl: So, at the end of the day, as long as there's an entity, so the company that, um, the, the therapy chatbot that's gonna pay you out- 
+Sonia: Mm-hmm. 
+Meryl: ... it almost seems like a moot point. 
+Sonia: Except for what are they gonna accept responsibility for. Right. Because if every time somebody kills themselves and they say, "Okay, we'll give you a $7 million payout"- Right. ... they're gonna, like... I do- I think they would be averse to accepting that responsibility where they're like, "No, this person might have killed themselves regardless." 
+Meryl: Mm-hmm. 
+Sonia: Right. So, like, why should we... The liability is for, like, acting- Negligently. ... negligently. Right. Um, so I agree in cases where the LM fucks up and everyone's like, "Yeah, the LM fucked up." 
+Meryl: Mm-hmm. 
+Sonia: The company pays. Or yeah, I guess, the company pays. But in cases where it's unclear, in cases where, um, you know, uh, somebody... Like, even with the Daenerys example. What she actually said, she was like, "Come home." And he took that to mean he should kill himself. Whoa, that's a fucked thing. I don't th- that is a freaky thing to say. (laughs) Yeah, I'm not denying that. (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) It is. 
+Pratik: (laughs) 
+Sonia: (laughs) Like, I didn't read... Well, you, you read the conversation, so. Yeah. What was happening around that text, "Come home"? Uh, well, first he was like... Uh, granted. First he was like, "I, like, want to kill myself." And she was like, "Don't do that. That would make me so sad." (laughs) "Don't do that." And then she said something like, you know, and s- like, "Don't kill yourself. Like, come..." I don't remember exactly, but like, "Come be with me instead," or something. 
+Meryl: No, don't kill yourself. (laughs) 
+Sonia: (laughs) (laughs) 
+Meryl: Over here. (laughs) 
+Sonia: Over here. (laughs) (laughs) 
+Meryl: (laughs) 
+Sonia: Um, all to say, like, yeah, the human is obviously incredibly mentally ill, and the Daenerys chatbot was not well trained (laughs) to handle the situation, but I- (laughs) (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) 
+Meryl: Understatement. 
+Sonia: To put it lightly. 
+Pratik: I just like dr- riding dragons. Why are you asking me these questions? 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) 
+Meryl: Oh, um- 
+Sonia: I'm gonna try to make it through this meeting without raising my voice. (laughs) (laughs) 
+Meryl: Don't raise your voice. 
+Sonia: I'm gonna keep- Is that why you're grabbing your leg? Yeah. (laughs) 
+Meryl: Now who's gonna raise voices. 
+Sonia: Okay. Um- 
+Pratik: Well, I think, like, another thing that is kind of important that all of the existing therapy that I've seen so far doesn't do is, like, you can't use text only. You need the verbal clue- cues. Otherwise, how are you supposed to understand their intention behind things, whether things are sarcastic or whether things are meant a certain way or not? Right? Like, I'm just thinking about transcribing this conversation, and maybe the thing that I cr- like, the summariz- summarization says that, like, Sonia's a pedophile because it's- 
+Sonia: (laughs) (laughs) 
+Meryl: (laughs) At, at, at one point you were like, you did say, like, "I like children." (laughs) 
+Pratik: (laughs) It's like- 
+Meryl: In what context you were listening. 
+Sonia: (laughs) 
+Pratik: Oh. 
+Sonia: (laughs) 
+Meryl: You got someone else saying that. 
+Sonia: Bro, I'm not in favor of recording this. 
+Meryl: (laughs) 
+Pratik: (laughs) 
+Sonia: (laughs) I critique. I think that's a great point. I really do. I think it's a great point, especially when we're talking about conversations that are inherently emotional. It's therapy. Like, it's not communicating data points. 
+Meryl: Unless you agree that everything can be broken down into data points. 
+Sonia: Right. 
+Meryl: Yeah. 
+Sonia: Which it can't. (laughs) (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) Yeah, that's right. I said it can't. (laughs) 
+Pratik: (laughs) 
+Meryl: (laughs) 
+Sonia: Um, well, okay, that's one way of looking at it. (laughs) (laughs) I think that's right, but also, like, it's not like you can't... Like, increasingly LM's are getting good at the, like, uh, uh, like multi-modal processing. Like, that's not far off. I feel like, yeah, a, a, a ther- a therapist that was only chat based would be seriously limited 100%. Um, but I think about like... Okay, here's an example. So, f- in college I volunteered with this, uh, this organization that did... It was a cri- it was Crisis Text Line, and you just texted the people who were in crisis. It could be, like, suicidal, but also it could be, like, you know, something really awful just happened. Mm-hmm. There's no reason, especially being, it being over text, thinking about that now, that an LM, oh, couldn't have done a good job with that, honestly. It was about validating people. It was about, like, like, you know, any... Honestly, you could have written, like, a three-page prompt that would've done exactly what I did. 
+Meryl: Yeah. 
+Sonia: Um- 
+Meryl: I think that I see a strong case for AI being better than people in that situation and similar ones. 
+Sonia: Kind of like texting practice. 
+Meryl: Yeah. That, like, everyone... That... Yeah. And, like, there's a reason why there is that service in those situations for l- Like, for certain kinds of people in really narrow situations, text based help is helpful. But I think for all the ways we've been talking about, like, the purpose of therapy at the beginning- 
+Sonia: Mm-hmm. 
+Meryl: ... I think there's a reason why none of us have gotten those things. Like, you can to- still text therapists now too, you know? 
+Sonia: Mm-hmm. 
+Meryl: But, like, it wouldn't have been the same thing. 
+Sonia: Hmm. 
+Meryl: Hmm. 
+Sonia: But don't you ha- D- I mean, I guess the question is, do you have some belief that in the same way that LMs and they're extremely good at, at, uh, mimicking, like, language and could be good at that, but they couldn't, in 10, 15, 20 years be good at doing the whole thing? Literally being, like, a video on a screen. 
+Meryl: Yes, but my question would be why, if we also have people to do that. 
+Sonia: Well, it's so expensive. It's so exp- Like, therapy is so expensive. I don't think we have therapists or not, but, like- 
+Meryl: I don't think we do. 
+Pratik: I don't think we do. 
+Sonia: And there's a lot of ex- And there's some great, amazing therapists, and I think taking out, like, the 5% of amazing therapists who, like, you know, make you feel whatever. Why 5%? 
+Meryl: (laughs)
+Sonia: What do you mean? 95% are bad? No. But I'm saying, uh... Yeah, I would say like if 30-40% of therapists are not good. Uh- 
+Pratik: Well, it doesn't matter. In general, you just want... Everybody wants the best possible therapist they could get. Like, why not just hook them up with the absolute best in the field, right? 
+Sonia: Because that doesn't exist. Well, because they're super expensive. It is really hard to- That, that's also not... I reject the idea of the best therapy. I agree there are bad therapists, but therapy is... It's a very individualized experience. It's about forming a relationship with this person you're interacting with. 
+Pratik: Right. 
+Sonia: Yeah, like, for you, it could be a ****** therapist for someone else. It could be a great therapist for someone else. 
+Pratik: Right. 
+Sonia: Yeah, but like... Yeah, it's true. But I think about some of the people. Like, the two good therapists I've had were somebody who I saw in Philly, who was out of network, and the guy who your mom hooked me up with, who was great, but also out of network. I think, like, how many therapists I've tried for, like, two sessions who are, like, in-network therapists. Terrible. Terrible. No, total. But that's most of the therapists I've interacted with. Like, unless I go out of my way to look for a recommendation from somebody who knows whatever. Sure. Right. There are bad therapists. Right, a lot. But, sure. I don't know what the percentage is. 
+Pratik: Well, I think, like, with, with- 
+Sonia: (coughs) (laughs) 
+Pratik: ... or with AI therapists, like, I think it's... Or with real therapists, they come pre-loaded with their own thoughts and experiences. 
+Sonia: (laughs) Love that. (laughs) 
+Pratik: (laughs) Their own training and their own approach to therapy, right? But the point of AI th- or not the point, but, like, a interesting thing that you can do with AI that you can't do with people is that they don't have a personality, right, if you don't want them to. They develop with you. So, like, they will... It's almost like the more you tell them, the better they will be at being your therapist. 
+Sonia: I, I disagree with that. 
+Pratik: Really? Why? 
+Sonia: Because I think, and maybe this is... There's a lot of good, like... There's, there's a lot of things that I think are hopeful about integrating AI as a technology into mental health access and treatment. But I think that, uh, one of, one of the things you lose with this idea of using AI as a therapist is that once again, like, we, we... I think this came up last week. Like, you are replacing a human interaction that contains frictions. Like, that person is coming with their own training and their own set of thinking, and you need to find them. And sometimes you'll encounter one that's not a good fit for you, which might be a better term than a bad therapist, because they might be a good therapist for someone else. Some of them are plain bad. Some of them are not a good therapist for you, and they might be a good therapist for someone else. And with an AI, you removed, you remove all of that friction, and instead you get something that is hyper-tuned to be the most stylized for you. Like, hyper-stylized in a way that a human cannot be, will never be. And so that's good. But then you have to ask, what are we losing when we get rid of all those frictions? And one of the things that we're losing, which I think maybe is one of the most fundamental things of a therapist relationship, and of any human relationship, is being heard by another person. And you're not being heard by a person when you're chatting to your AIBOT, iBOT. (laughs) You might think you are, and a lot of pe- And, and I'm completely sure that in 10 years, it'll be much better, even better than it is now, at convincing us that you're talking to a person. But at the end of the day, you are not. And so, a lot of people... And, you know, this goes back to what we were talking about, like, the various reasons people go to therapy. There's a million reasons. Some might be better suited to integrate AI than others. I think a lot of people are very lonely and go to therapy for loneliness things, and there's, like, clearly some, like, loneliness epidemic, whatever, thing that people talk about, and that seems to be kind of a problem. And (laughs) it seems like (laughs) the, uh... It, it is a little bit of this, like, pill that you meant, you put in one of your questions. Like, is this like a pill solution? That was Pratik. Oh, Pratik foot. Mm-hmm. I think this is a little bit of that, where, like, I think the solution to loneliness is, like, meaningful interpersonal relationships. And therapy is an interpersonal relationship when it is with a human, where there's, like, shared lived experiences and which requires some friction. Like, the person doesn't maybe immediately understand you the way an AI might make you feel understood. But it's a human that has a shared lived experience. And so once you get to a point of understanding, it's a lot more valuable, because you got there with another person. And so the quick pill of the AI is actually depriving you of the ability to get there with another human. 
+Pratik: This, this, um- 
+Sonia: That's- 
+Pratik: This raises a ton of questions, dude. The- 
+Sonia: Fun, fun. (laughs) (laughs) 
+Pratik: Yeah, because you're saying... Uh, I don't even know how to start. Like, what you're saying is, like, there's something about the interpersonal connection that you can only get with a human regardless of how good an AI gets at mimicking humans. 
+Sonia: 1000%. Well, I al- 
+Pratik: I do- Yeah. 
+Sonia: You go. No, you go. 
+Pratik: Sonya, go for it. Go for it. 
+Sonia: I, I have so many thoughts. (laughs) (laughs) Um- Yeah, me too. Um, so okay. I... Oh, f- first of all, just to say it. Okay, guys? Say it. I really like people. 
+Pratik: (laughs) 
+Sonia: I really... I, I like people a lot. I actually think that there's a lot of like... And my gut reaction is to agree with you. But as I said last time- Mm-hmm. ... I don't think it's a philosophically rigorous argument, because what makes that- That alone? No. (laughs) Right. But it might be something. (laughs) (laughs) I, I guess w- First of all, if you take like the, the... If you, if you call the relationship with your therapist, uh, it is a one-sided relationship where the entire point is to create a space in which you feel comfortable exploring ideas and feel heard and working through things. I don't... It's not a one-sided relationship though. It's one-sided in that the, like, person receiving help is one way, whereas a friendship is like you... But it's not one-sided. And like, especially like a, a psychotherapist would never say it's a one-sided thing, because they think of re- therapy as like a lifetime patient-therapist experience, where there's like this whole relationship that's extremely, like, sacred or whatever. But like putting psychotherapy aside, like, none of it's a one-sided relationship. Okay. 'Cause the person brings experience. Like Pratik was saying, the person brings their biases and their experiences and their, like, humanness to it. I guess I'm just not... Like, I think it's a thing that you were... I think there are specific cases that people could be going to therapy for, like loneliness or feeling like not accepted by other people, where having a person make you feel accepted or not lonely would be a part of that, like, net add. Um, but like- I think... Yeah, no. I think it would val- add value to that. Totally. And to marriage problems. So all, like, couples therapy. Um, yeah. You can't... Well, give me an example where it wouldn't. I mean, I think, like- (laughs) I, I... Maybe the, the, the thing I think... First of all, let's... Like, putting aside the fact that LLM therapy is, like-... free/a fraction of the cost, and you could give it to everyone. 
+Pratik: Yes. 
+Sonia: Um, like that's actually a pretty compelling argument in and of itself, that you could get somebody, like you could get people to have this thing to talk to about, you know, a relatively trade entity to talk to, whatever they need to talk to, to it about, and it would give good advice. Um, it, it gives- 
+Pratik: Yeah. 
+Sonia: I mean, not compared to great friends who know you really well, but it gives decent advice. Uh- 
+Pratik: Oh, that I agree, for sure. 
+Sonia: But I think the thing that it, that an, that an AI therapist would be even better at than the person, honestly, is if it, if you give it enough data about yourself, it's going to see trends that a person wouldn't. Um, and a person might see different trends. But like, I just have this belief that, to your point about what you said, not everything can be a data point, I'm not sure that's true. And I think (laughs) 
+Pratik: (laughs) 
+Sonia: And I don't know that it can come from every data point. 
+Pratik: (laughs) 
+Sonia: But I just think that there could be really interesting insights that a person could not get to just because they don't have the processing power of an LLM. I, I just disagree with that. Like, I agree on- (laughs) 
+Pratik: That's possible. 
+Sonia: ... the computation point, like without a doubt, but I think that's not what it's all about. 
+Meryl: I also think maybe there's different conclusions or advice or trends they could see. But I don't think like that it could capture everything that a person could and then some. I think it would be different. 
+Pratik: Can, can I ask a question here to like work with a concrete example? If we d- talk to an AI therapist, and you have a full conversation, 45-minute session, um, how is that fundamentally different than if a real person therapist says... Like you have the same session with a real person, and they say the exact same things that the AI says? Is that- 
+Sonia: If- 
+Pratik: Is it like- 
+Meryl: Um, I've, one thing, maybe to refute the point I just made, but, um, I think it would be really cool if like the fact that AI can remember everything that you've said. 
+Pratik: Mm-hmm. 
+Meryl: I do think sometimes it's a little frustrating when (overlapping dialogue) 
+Sonia: It's so frustrating. Yeah, it's so annoying. Yeah. 
+Meryl: And I'm like, "Are you even listening to me?" 
+Sonia: So annoying. 
+Meryl: Um- 
+Sonia: Are you gonna get it if you can't remember all the details? That's something I would never do. So, but here's, he- (laughs) This is a great point of the flip side of like, when your therapist does remember intimate things about you- 
+Pratik: Yeah. 
+Sonia: There's value to it 'cause they worked for it. Yeah. There's a human. You're like, wow. Obviously, they're paid for it. It's their job. But like when they're doing their job well, it's 'cause they're connecting with you, and they remember that story you shared intimately, and it's a vulnerable story, and they remember it, and that's part of their job. And what, yeah, what's the value of that? I- The AI knows it 'cause it's in the ledger or whatever the fuck. 
+Meryl: I also think ma- and this is probably because I'm not in like a crisis situation, I don't expect perfection from my therapist. Like, I understand that she's a human, and she does forget things. And I think sometimes she's said things I don't agree with or, like given me a take that I don't agree with. 
+Pratik: Mm-hmm. All the time. 
+Meryl: And I think it's part of the like human relationship, to your point, where it's actually really valuable for me to be like, "You know, I think you got that wrong," or, "I don't think that's right." 
+Pratik: Mm-hmm. 
+Meryl: Or, like, "You misunderstood a feeling that I shared." And I think even though you, in a way, I think it's, for me, it's easier to do that. Some- like AI would do that, too. AI did that while I was chatting with my mom earlier today. 
+Sonia: Yeah. Give you, take your opinions that you were like- 
+Meryl: And it was... Yeah, I was like, "No, you didn't quite right." And it was actually easier for me to tell AI 'cause I'm like, "Oh, I'm not hurting any feelings." 
+Sonia: Right. 
+Meryl: But I think there's an added benefit of telling that to a person. 
+Pratik: Mm-hmm. 
+Meryl: 'Cause it's a human relationship and because it's self-advocacy in a different way. 
+Sonia: I agree. 
+Pratik: I, I want to... Okay, I wanna counter that a little bit. 
+Sonia: Yeah, just... (clapping) 
+Pratik: (laughing) Yeah. So like this, this is... 
+Sonia: That's just, uh, I didn't even realize I'd called Ariel an ally. (laughing) 
+Pratik: (laughing) 
+Sonia: Yeah, therefore, we should cut Meryl just to keep our ratio. (laughing) 
+Pratik: (laughing) 
+Sonia: Um, what about, I think I've proven- 
+Pratik: I like Meryl and Ariel as outnumbered. (laughing) 
+Sonia: Yeah, humans. It's easy to be team human. You guys can join whatever you want. No, other philosophical arguments. It's easy. 
+Meryl: You know what? You know who's doing the brave work? You know who's doing the unpopular brave work is me and Brittany? 
+Pratik: Me, me and Meryl. 
+Meryl: No. (laughing) 
+Sonia: (laughing) 
+Meryl: Everyone agrees with you. 
+Pratik: That's not true. 
+Sonia: No, that's not true. That's really not true. 
+Meryl: Everyone agrees with you guys. That's why there's zero AI (overlapping dialogue) : 
+Sonia: I spent so much time thinking about it after last week's call. I was like, "Was I being gaslit the whole time?" 
+Pratik: (laughing) 
+Meryl: (laughing) 
+Sonia: I think, I think there are arguments that are, like harder to argue because society just like, you guys won. Like, society is on your side. Wait, no. Are you kidding? Everybody thinks, everybody in, everybody who I know other... Uh, sure, there's tech bros who think whatever. But everyone's, nobody's gonna tell you that AI is better than people. We're doing God's work here. No. (laughs) I completely disagree. 
+Meryl: I think if more people agreed with us, we'd have seen AI regulation. We haven't seen any. 
+Sonia: Well, but, but, but- Not only that, the money- ... if you all agree about guns, then there's no- The money, where is money going? All the money in the world is going into AI companies. All the money- There's no money going into- You know, but that's, that's- ... investing in training more therapists. That- No, really. No, really. No, but that doesn't suggest that that's true. Yes, it does. 
+Meryl: (laughing) 
+Sonia: (laughing) Meryl, right, it does? 
+Meryl: (laughing) 
+Pratik: (laughing) 
+Sonia: No, it doesn't. I, I, I really think it does. No, if you think- Why not? Yeah. (laughing) How does where the money goes not- And I'm telling you right now. (laughing) ... indicate something about what society values and what it doesn't value? No, of course, of course. That we value AI, we value efficiency, we value convenience, yada, yada, yada. Thank you. But that's not... But just because, as a society, that's where we allocate our resources, I don't think that that me- means that the vast majority... It's like how most people in 2016 voted for Clinton, and Trump won. That's a bad example. (laughs) A terrible example. 
+Meryl: (laughing) 
+Sonia: It's like how most people in the US- 'Cause it's Trump's world now. 
+Meryl: It's like most people hate social media, but we, everyone uses it. 
+Sonia: Everyone uses it. Most people believe in gun regulation. Wait, that's very different. No, it's not. Yes, it is. It's exactly the same. (laughs) No, it's very... 
+Meryl: (laughing) 
+Sonia: Don't point to me, please. 
+Pratik: (laughing) 
+Sonia: It's very different. Social media is an example of where we're gonna go with AI if, if, if we continue going down this path. No, but exactly. Social media, people, everybody has negative take on social media. How often do you tell someone- Now. No, but for a while, right? Yeah, but not when it, not when it came about. Social media problem is that when it started, everyone was for it. Yeah. Okay, the consensus was this is amazing. Yes, it was. Like- (laughing) Obviously, it was. I don't, I don't think that's right. 
+Meryl: It was like more positive then. 
+Sonia: People were like, "Facebook is revolutionizing the world. We're connected. I can message my grandmother." Like 1,000% yes. And then the like- But, everyone's still engaging with it. The problems with- Everybody still has social media. Well, but now because they have to. Now, it's a different problem. Now, it's like a collective action problem, where like if everyone hates it, but if one person leaves, you're worse off being out. 
+Meryl: Now, it's more of an addiction problem. Like, it's too hard to get back in. 
+Sonia: That, too. 
+Meryl: Yeah. 
+Sonia: There's an economics theory paper that builds a model showing that even if everyone uses social media and gets net negative benefit from it, if you individually exclude yourself from social media when most people are still in it, the, the, the harm is larger in a way that it forces everyone to stay in it. And so- Forced paradox, in a sort of extreme way. Yeah. Yeah, yeah, yeah. Exactly. So, it's like- 
+Meryl: Whoa. 
+Sonia: And then there's the- 
+Meryl: Yeah. Wait, why does it force everyone to stay in it? 
+Sonia: Because you're better off staying in it, even though it's kind of more damage- 
+Meryl: Oh, 'cause the harm if you leave is worse? 
+Sonia: So much worse. 
+Meryl: I don't know. 
+Sonia: (laughing) I feel good. I feel (overlapping dialogue) : 
+Meryl: I know. I was like, that's not my experience. 
+Sonia: Uh. 
+Pratik: Go again, please. 
+Sonia: Yeah. I think like, I think it's more compelling thinking about, like if you're in high school-
+Pratik: And everyone is messaging on Snapchat all the time. 
+Sonia: Mm. 
+Pratik: And everyone's kind of worse off because- 
+Sonia: Well, they kind of get it. Yeah, yeah. 
+Pratik: ... it's kind of harmful. But then you being the one kid that's not on Snapchat- 
+Sonia: Then you're the weirdo and you miss out. 
+Pratik: Yeah, you miss out on, like, meaningful- 
+Sonia: Critical social bonding- 
+Pratik: Exactly. 
+Sonia: ... and, like, learning what the slang is. 
+Pratik: Exactly, exactly. 
+Sonia: I guess I'm just not sure I'm sold. I... I'm... I'm sold that there's value to human relationships, to be clear, but I'm not sold- 
+Pratik: Why? 
+Sonia: Because I think that... Why am I sold? That's a great question. Um, that's exactly the kind of question I'm trying to ask you. Um... (laughs) 
+Pratik: I don't know. 
+Sonia: I don't know. All you can tell me, all you can tell me- (laughs) They're good arguments for him, I guess. All you can say is that they're good because they have friction, which is not a compelling argument. It's not even- 
+Meryl: Hey, I think that's super compelling. 
+Sonia: That human relationships are valuable inherently because they have friction? No, that... Not inherently because. 
+Meryl: But that's one benefit. 
+Sonia: Friction is why the AI is not good and... and why it is good to have these relationships. Okay. Why are human relations valuable? First of all, just from the got, who are we as people? We're, like, social beings. Yes. We're literally hardwired to do this. Yes. So, like, you need people- Yes. ... just to be happy. Yes. Um, a bajillion studies have shown that. Yes. I don't think that we should be having AI replace social networks. I just think there's a value, a critical val- a value to AI in a situation where you are trying to learn more about yourself. I think it would be... I... I actually ultimately think that that's what I'm saying, is, like, it would not forget things, it would have more training than most people. Um, it would be able to see patterns that you couldn't see otherwise. It can process a lot more information about your life and not forget stuff. And... And I'm... I'm not saying that it would re- I'm not... I'm not saying that it would replace relationships. I'm not saying, like, maybe you really want to have a human there, fine. But I actually think it could play a pretty critical role in better understanding yourself. 
+Meryl: If... If you were an excellent, well-trained therapist in person who's human against AI, like, which would you... which do you think would be better? Because are you... I guess I'm wondering, are you saying, like, by universalizing access to some form of therapy that, like, alre- makes it worth it, but we also still have human therapists? Or would you say... are you saying an AI is better than even a good human therapist? 
+Sonia: Well, I think first of all, like, off the bat, I think as a... as a way of filling the gap of, like, people not being able to afford therapy, it could be an amazing solution. If you a-... Like, I actually think that would be- I'm very skeptical. Extremely skeptical. Okay, well- But I'll hold it up. Okay. Interesting. 
+Meryl: I'm skeptical about that. 
+Sonia: But, yeah, I think that that could be really valuable. I guess, going back to a point that Prateek made earlier, you said, what if... what if you had a conversation with someone, it was a video conversation with your therapist, and you met with them for years, and you just didn't know if you were getting an AI or a person. You just didn't know. Is there something inherently better about having been talking to a person that whole time? They can take on a personality. Like, is there something inherently better? (laughs) (laughs) Are you saying no, there's not? 
+Pratik: I don't think there is, yeah. 
+Sonia: I don't think so either. If you don't know, you don't... you... you never know. 
+Pratik: And... And to add to this, add to this, actually, something that you said earlier, Ariel, um, you're saying, like, it is very valuable when the therapist remembers something, like some intimate moment that you shared with them maybe many months or years ago that you're like, "Oh my God, this is relevant now." 
+Sonia: Mm-hmm. 
+Pratik: Um, I don't think the value is actually in the remembering, actually, because the LLM can do that too. But I think, hypothetically, the value is the... in the fact that, like, I, as a sad human being, told you something in private, and- 
+Sonia: Mm-hmm. 
+Pratik: ... I've never told this to someone else, or, like, I haven't verbalized this in this way, it's super raw, um, and it still resonated with you, another human, um- 
+Sonia: Right. 
+Pratik: ... enough for you to remember it. And the only reason that that is valuable is because I am mainly concerned with talking to humans. I'm not mainly concerned at talking to LLMs. Does that make sense? 
+Sonia: I agree with that. 
+Pratik: So, if... if a therapist, who is a human, can remember something that I said in, like, a half-baked, like, really raw version, like, maybe there is something that's valuable to my thoughts and feelings about that event. And I can go talk to my human friends. Now- 
+Sonia: Wait, but also... but... but what... also, what I was saying was that it was valuable because there is effort in them remembering that the AI doesn't. 
+Pratik: I don't think that's what the value is. I think the value is like, I'm comparing my human therapist to my human friends. But I do think there's a future where we don't have... like, it's like a 50-50... like, half my friends are AIs. I don't think that's impossible. I actually think the next generation will have that. 
+Sonia: Also, what happens when AIs start developing, like, desires and consciousness? And it ultimately becomes a question of, like, then what? But then it ultimately becomes a question of, like, is it inherently better that we're carbon-based creatures? Like, no, I don't think we are. Well, I would... I think it would be more appropriate for AI therapists to solve your problems with your AI friends. 
+Pratik: Exactly. Exactly. At some point- 
+Sonia: At some point, Jim's right. I think it's more important to have a human therapist. Wait, that's- Yes. 
+Meryl: Why? 
+Sonia: If I'm having interpersonal struggles with my AI friends, then I would want my therapist to be AI. (laughs) 
+Pratik: When you guys laugh, I don't think we're that far away. 
+Sonia: But since I care about sh- my human interpersonal relationships- No, that to me is, like, saying... that, to me, is like saying, "I have problems with my girlfriends. I have to see a woman therapist." No! Because or else she won't understand. No. Yes. No, it's not at all. (laughs) 
+Meryl: (laughs) 
+Sonia: It's not at all, actually. When you were talking about how this therapist is good because it has infinite memory and it can process data points, so it's better than a human that doesn't remember and that can't process, it reminds me... it... like, I feel like it misses the point in the same way that it's like an AI girlfriend is better 'cause they can't reject you. Like, no, that's exactly why it's worse, actually, because they can't reject you. So, when a human doesn't reject you, it means something. When an AI bot doesn't reject you, it literally means nothing. When an AI bot remembers a message you said two weeks ago, it means literally nothing, 'cause it... the message is stored. There's literally nothing to it. When a human remembers something, it says a million intangible, non-data point translatable things. Like, it says something about the value of it. Like, to Prateek's point of, like, whoa, you can interpret it. Like, it... it was interpreted as meaningful in some way to them 'cause they remembered. That's one thing that you learned. The other thing you learn is the person cares enough and, like, put in the effort, so I feel heard in a way that you can never feel heard unless you are deceiving yourself. Yeah. That is... like, the only way to feel heard by an AI bot is to deceive them, 'cause they're not hearing you. Like, they're... they're processing data and spitting data. So, like, anything you ascribe as past is mere deception. 
+Meryl: I also think I was something- 
+Sonia: How do you evaluate this? 
+Meryl: As you... (laughs) like, as a way to evaluate both of these arguments, I've been thinking, like, would I be a better person if I had not forgotten anything? Like, if I could remember everything, would I be, like, a better version of myself? And I think the answer is no. I think there's reasons why you forget things, because they don't resonate, they don't connect. It's just maybe, like... yeah, I don't think there's necessarily this inherent value to remembering everything. 
+Sonia: I agree. 
+Meryl: I think it could be helpful in terms of recognizing some patterns. But I also think there's probably value in, like, maybe, like, rustling up some memories that you had forgotten in the process of figuring out the patterns for yourself or something like that. 
+Sonia: I guess I definitely agree that it's not helpful to remember everything. I guess the question is, is it helpful for someone else to remember everything on your behalf, to be able to find patterns that you can't because you can't rustle up the memories? Like, I agree that... like, I don't think you should be your own therapist in the same way that I don't think you should store all the memories so that you can form the patterns. But if the sole purpose of this bot is to help you figure out, like, form patterns, see patterns and et cetera, then, like, is there... like, we all want our therapist to remember more shit about us, right? True or false? I don't know. No, no. Don't... don't... no, you said no. No, I don't know. Like, I don't. You said no. You don't know if you want your therapist to remember more shit about you? No. I feel like I have conversations with everyone, maybe not Prateek, but, like, everyone here about, like, it's really frustrating that a therapist forgets something. It's like, are you... it's- Fine. Yes. Like, okay, so you'd want it to remember a little more? Yeah. You want it to remember the stuff that you wa-... that you thought was important. Correct. Yes. And there's no way for another person to e- like, effectively gauge every single thing that you think is important. So, a proxy for that is just remembering everything. 
+Meryl: Okay, this is also- 
+Sonia: No, 'cause then... 'cause then... well. 
+Meryl: Well, I think... I'm not... I actually think, like, yeah, there's little things that it's annoying what my therapist forgets. But I think the biggest value and, like, why I would want my therapist to remember things about me is because I would want- ... want them to remember the ways that I was speaking or, um, feelings that I was sharing, kind of like the intangible non-data- 
+Ariel: Mm-hmm. 
+Meryl: ... point things. 
+Ariel: Data point. 
+Meryl: And I would want my therapist to say, after seeing me for like two years- 
+Ariel: Mm-hmm. 
+Meryl: ... like, "Wow, you're approaching... I can see in your face," or something, "that you're approaching this problem a really different way." Or like, "You seem to have so much s- more self-esteem in the way that you're talking about this." Like, that's what I want them to remember and that's what I'm not confident that AI could do. 
+Sonia: Even in like 15 years, though? 
+Meryl: (sighs) Um. 
+Ariel: It, it could never. 
+Sonia: What? What do you mean it could never? 
+Meryl: I don't- 
+Ariel: It's not a human. 
+Meryl: I don't think it could never, but I really, I struggle to see how AI could do it better than a good therapist that's taken the time to get to know you and knows what it's like to be a human, can like empathize with to understand. 
+Ariel: I- if a therapist read all, like your journals for two years, like how could they not be a better therapist because of that? 
+Meryl: Because partly I think it's also what you reveal to a therapist that makes them a good therapist. Like, I wouldn't want a ther... I wouldn't want my therapist, let's say this is possible, to like climb into my head, understand me perfectly- 
+Ariel: Mm-hmm. 
+Meryl: ... and then give me advice. So much is also how you share it, when you share it. 
+Ariel: Right. 
+Meryl: 'Cause that's part of it too. 
+Ariel: That's part of it. If the, the things you develop in your relationship with the therapist are the things, I think in many cases, that help you work through your things. In the sense that like, again, it's a human relationship, so it has these frictions. Like, you're a little hurt when they forget something and then the flip side is that you feel hurt when they do remember something. Or they say, they like... You see them working towards a problem with you and th- like sometimes you really agree with the conclusion and sometimes you don't. Or there's like shared lived experience behind what they're sharing. Like, I feel like that is like a huge thing. Like, think about people that have like substance abuse problems that get therapy from people that have overcome substance abuse problems. Like, what is the AI chatbot replacement to talking to someone that has gone through your trauma? Like, someone who has been depressed and is now helping you work through your depression. Like... And couldn't you train the AI- There's nothing, there's nothing that replaces a, a lived- 
+Sonia: Also, the chatbot- 
+Ariel: ... human experience. 
+Sonia: ... the chatbot or even... I'm assuming like... I think one question that I'm really curious for both of you to answer, that Pratik and I both have, is what if you can't tell? 
+Ariel: Wait, but I wanna... What, what I want is y- your answer to that. 
+Sonia: I don't... I think that they're... If you can't tell, there, it makes no difference whatsoever. 
+Meryl: Wait. Oh. 
+Ariel: We gotta watch Ex Machina. (laughs) 
+Sonia: I know, I know. 
+Meryl: Okay, it's kind of like... 
+Ariel: I mean, uh... 
+Meryl: But (sighs) I still feel like somewhat you're still being deceived. It's kind of like would you rather be blissfully ignorant about something and I know your answer to that is no. Like what if you didn't, wouldn't... Let's say your parents are not your biological parent, you never know. Like, wouldn't... I guess you don't know so it doesn't matter, but it kinda does matter. 
+Sonia: True. 
+Meryl: Like, you would still wanna know. 
+Ariel: Completely, it's pushing away completely the question. 
+Sonia: Well, no, it's... But I just- 
+Ariel: Because fir- and first of all, it's not... You shouldn't think of it as like messaging in a, in a text box, right? We agree with that. 
+Sonia: Yeah, mm-hmm. 
+Ariel: It's like you're in person, you're crying, you're sharing about your substance abuse problem and this (laughs) person who has lived through that, and you know has lived through that, is like, their eyes are watering with yours. 
+Sonia: Yeah. That's, this is the most compelling thing- 
+Ariel: And they're like holding your hand. 
+Sonia: ... thing to me. 
+Ariel: So, I'm not denying that maybe there will be an AI that can water their eyes optimally when you're sharing your fucking story. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: But it is... I feel like you're agreeing. You're like losing the argument if you're saying if the only p- case where it works is when you have no idea or you're never gonna know. 
+Sonia: No, uh, but no, it's, but it's an important question because- 
+Ariel: Because then it is. 
+Sonia: No, because the question... No, no, no. 
+Ariel: No, it is. It is. 
+Sonia: (laughs) 
+Ariel: It's, it's not. 
+Sonia: No, it is. It is. (laughs) 
+Ariel: No, it's not. 
+Sonia: (laughs) 
+Ariel: (laughs) Because it's like, it's really not, because then it's like, okay- 
+Sonia: Can I explain to you why I think it's an important question? 
+Jera: That's actually a really important question. 
+Ariel: ... it is, it's not. Because then it's like, okay, it's better to have a human therapist, unless there's secretly a perfect robot that's not a human but no one knows and no one's ever gonna know and you're never allowed to know. Otherwise, it's not that good. (laughs) 
+Sonia: Can I explain to you why I think it's an important question? 
+Ariel: Mm... 
+Sonia: (laughs) 
 Ariel: (laughs) 
-Sonia: Fair enough. Fair enough. 
-Ariel: You think about it. I'm gonna go get some more food. One sec. 
-Pradip: Wait, you know how we were talking about having experts come in?
+Meryl: (laughs) 
+Ariel: (laughs) 
+Sonia: I think it's an important question because it gets at this like... (sighs) It's not... I, I do think like there's... It, I almost wanna say it like you get randomly assigned a therapist and you don't know whether it's an AI or a person. Like you don't know. And maybe we get to a point where we just don't care as much as a psych- That's not what I'm saying. Okay. The re- 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: I'm sorry. I'm sorry. 
+Meryl: (laughs) 
+Ariel: I'm sorry. 
+Sonia: The reason it's a valuable question, I think, is because it gets at this question of if ultimately the goal of therapy... Like yes, it's about the therapy in relation to therapy. Ultimately, it's all about you. It's about you go to therapy to figure shit out about yourself. 
+Ariel: No. 
+Sonia: You think you pay a therapist? (laughs) 
+Meryl: (laughs) 
+Sonia: Therapist. It's all... Okay, I'm sorry. That's crazy. 
+Ariel: All right. 
+Sonia: It's all about you. 
+Ariel: No. 
+Sonia: Therapy is all about you. 
+Ariel: That's not true. Okay. 
+Sonia: (laughs) 
+Ariel: (laughs) I have a... Well, I have a followup question. 
+Sonia: Therapy is all about you. (laughs) So... 
+Ariel: I have a question for you and I, I- 
+Sonia: Wait, I'm not done. 
+Ariel: Oh, okay, okay. 
+Sonia: Therapy is all about you. (laughs) 
+Ariel: (laughs) Fine, it's all about you. 
+Sonia: Therapy is all about you. (laughs) 
+Ariel: (laughs) 
+Meryl: (laughs) 
+Ariel: Not all about you. How is it? What is it? How is it not all about you, bro? (laughs) I don't get it. I don't get it. I'm completely lost now. I was with you for a hot second, dude. But now I'm like, oh man, I'm back on Sonia's side. 
+Sonia: You're like, "Hey." (laughs) 
+Ariel: I'm back on... Yeah. Oh, man. 
+Sonia: (laughs) 
+Ariel: Arielle, you're gonna have to explain that one. I'm gonna have to ask your mom about that one. (laughs) 
+Sonia: Therapy is all about you. And so, if it is all about you and, and, you know, learning about yourself, growing, et cetera, it shouldn't matter what delivers that. 
+Ariel: Okay. 
+Sonia: Right? And if the thing that you need to deliver that is a relationship with a per- or, or some kind of, the, this feeling of somebody understanding you like a person. 
+Ariel: Mm-hmm. 
+Sonia: I'm just not sure that if somebody can completely... I mean, imagine that you had an AI therapist, right, who in every way... Now you're trying to be so such a good listener. (laughs) 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Meryl: What if Sonia's an AI? 
+Ariel: (laughs) 
+Meryl: This is a whole talk. She would explain a couple positions she defended. 
+Sonia: That's why she's so strong on this. 
+Ariel: Hey, wait a second. 
+Sonia: She's trying to tell us that she's not... 
+Ariel: (laughs) 
+Sonia: No, I'm trying to tell you that I'm not real and you should love me anyway. (laughs) 
+Meryl: (laughs) 
+Ariel: I refuse. 
+Sonia: You've been waiting for us to notice this whole time. 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Meryl: (clears throat) 
+Sonia: I think imagine that you're in a situation where like you have an AI therapist and it's p- it's either a combination of you don't know or they're like, "Yeah, I'm an AI therapist, but I am actual." (laughs) 
+Meryl: (laughs) 
+Ariel: Yeah, um, you got me. 
+Sonia: (laughs) 
+Ariel: Um, um, processing, processing, processing. Um, you got me. (laughs) 
+Meryl: Maybe. (laughs) 
+Sonia: Yeah, I'm here. 
+Ariel: (laughs) (laughs) 
+Pratik: Care about. (laughs) 
+Sonia: No, literally. So it's that fucking situation. (laughs) 
+Ariel: (laughs) 
+Sonia: What if it was their therapist with thoughts and desires? (laughs) 
+Meryl: Mm-hmm. 
+Ariel: All right, so I have a follow- 
+Meryl: But now that's a different thing. 
+Ariel: Wait, wait, I have a follow-up question for you. 
+Sonia: That's fair. 
+Ariel: And I know you've thought about this question because we took philosophy classes together at Penn. 
+Sonia: Okay. (laughs) 
+Ariel: If there were a vat where you could put yourself in and... No, it's the same thing. 
+Sonia: Right, in the back situation. (laughs) 
+Ariel: Yes, it is. And get a pure happiness where you are truly happy and blissful and you're getting all the dopamine hits and you're in like this state of happiness, but your whole life is just in this vat. Would you want that life? 
+Sonia: No, that's not the brain in the vat. 
+Ariel: It's the same exact thing. Yes. 
+Sonia: The brain in the vat situation is not just like you're like euphorically happy, so that you think all this stuff is happening. Like if I was a brain in the vat, I would think I was here. I have all these relationships. 
+Meryl: Right. Like what if this is a dream and I'm in a video game? That kind of thing? 
+Sonia: Sort of. Like, like, no, more like, like you are... Like this idea that you're this brain in a vat and somebody can like shock you into having every memory that they want to. 
+Meryl: Yeah. 
+Sonia: So everything in your life can go back in the way that you want it to. 
+Ariel: Right, you could have this wonderful life. You could like choose- 
+Sonia: But I mean ultimately your entire life- 
+Ariel: It's the same thing. 
+Sonia: ... happens in your brain. Like it's not... I don't think it's that- 
+Ariel: So would you choose that life? 
+Sonia: Well, I would ch- honestly, I should choose that life. Philosophically, I should choose that life. (laughs) 
+Ariel: That's not true. No, there are so many philosophical arguments to not choose that life. 
+Sonia: Yes. Yes. No. No, or not because- 
+Ariel: You don't get to restrain yourself to that life. 
+Sonia: I didn't fucking know. I wouldn't know. I wouldn't know. 
+Ariel: But you know now- 
+Sonia: But you would- 
+Ariel: ... and you're getting to choose. 
+Sonia: Yeah. 
+Ariel: Why are you choosing that? 
+Sonia: (laughs) . 
+Ariel: You don't have to. 
+Sonia: I- (laughs) . 
+Ariel: (laughs) . 
+Sonia: You don't have to. 
+Ariel: No, but you know why I'm not choosing it? Because I don't wanna be a brain in a vat. That's a really important reason not to choose it. Why not? Why not? Why not? 
+Sonia: Why don't I wanna be a brain in a vat? 
+Ariel: Yeah. 
+Sonia: Because I'm conditioned as a person to want my brain inside my head embodied. 
+Ariel: Okay. 
+Sonia: And I'm like- 
+Ariel: In your head in a box. Why, why don't you want that? 
+Sonia: No, no. (laughs) 
+Ariel: (laughs) . 
+Sonia: No, no, no. I'm saying as a person I want to engage with the world in living space, but- 
+Ariel: Why? 
+Sonia: Because I'm a... Because we, we're literally evolved to exist in this world. We're... Same reason that like I'm unfortunately conditioned to want people around me because (laughs) because they're annoying. 
+Ariel: (laughs) Yes. Yes. 
+Sonia: (laughs) 
+Ariel: Why? This is true. 
+Sonia: (laughs) . 
+Ariel: This is who we are as humans. For the same reason I don't want my therapist in a vat. 
+Sonia: Right, but, but the brain, but the brain in the vat, the brain in the vat doesn't change that because the brain in the vat, you still go in and you still think you have all these relationships with humans. 
+Ariel: Right. And yet we are sitting here agreeing that that is in some way at one point- 
+Sonia: No, but you could be a brain in a vat. 
+Ariel: No, but we, we are agreeing that it is a less- 
+Sonia: No, no. I'm not agreeing with that. 
+Ariel: ... meaningful way. Yes. 
+Sonia: I'm not agreeing with that because nobody here knows that they're not a brain in the vat. 
+Meryl: Yeah, but if given the choice- 
+Ariel: That's not the question. It's your choosing. 
+Meryl: ... even if I don't know I'm being deluded, if I could choose, I don't wanna be deluded. And that's why even if I couldn't tell that it's an AI therapist, I know right now that even if I couldn't tell, I would want the real thing. 
+Ariel: Exactly. 
+Meryl: And so that's- 
+Pratik: Actually, I don't think I care. 
+Meryl: (laughs) 
+Ariel: Do you wanna be in the vat? 
+Pratik: I would be indifferent whether it was a vat or a real thing. 
+Meryl: Okay, what about like Truman Show, no? 
+Pratik: I would also be indifferent, yeah. 
+Meryl: (laughs) 
+Ariel: (laughs) 
+Meryl: Okay, well this is why you need therapy. 
+Ariel: No, no, no. No, that's... I think that's- 
+Meryl: (laughs) 
+Ariel: I think that's fair. (laughs) I think that's fair, Pratik. 
+Meryl: (laughs) 
+Sonia: No, wait, what about the whole... I mean, but think about how often, and maybe this is- 
+Ariel: That's consistent with wanting your AI therapist. 
+Sonia: (coughs) 
+Pratik: It is. 
+Ariel: Like- 
+Pratik: Yeah, it's the only phil- philosophical- 
+Meryl: It's- 
+Pratik: ... philosophically rigorous argument. 
+Meryl: (laughs) Yeah. (laughs) 
+Ariel: (laughs) 
+Meryl: I have to pee. 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Meryl: Because I'm not a robot. 
+Ariel: Pause. Woo. Wow. 
+Pratik: (sighs) I actually don't think I would care. 
+Meryl: That's crazy. 
+Pratik: I used to be- 
+Meryl: Why? 
+Pratik: I used to be the other way and now I'm like, if you feel the exact same things and you're perc- and you perceive the exact same life, why does it matter? 
+Meryl: Because it's inherently less rich. 
+Ariel: Well, it's, you get to choose what to perceive. So you wouldn't, you could make your life however you wanted it to. 
+Pratik: Thank you. Yeah, yeah, agreed. 
+Ariel: You can make it only happiness or only good experiences. 
+Pratik: Oh, that's different. I- 
+Ariel: Only good experiences. 
+Pratik: I thought it was like, um, I live this life and then at the end you die and then you're like, oh, I'm in a vat the whole time. Would that change how I felt about my life? But you're saying you get to choose to- 
+Ariel: Would you choose right now to live a life where you're actually living it or where you're just processing it like you're living it? 
+Pratik: Like- 
+Ariel: So you're not actually living any of it. 
+Pratik: No difference to me. Everything's in your brain anyways, right? Who cares? (laughs) 
+Ariel: (laughs) 
+Meryl: Wow. Um- 
+Pratik: Is that, um, is that like dystopic or something? 
+Meryl: It's just like, what happened to you? What, what beat you down? (laughs) 
+Pratik: (laughs) But why is it what you think better than what I do? 
+Ariel: I think it is, I think it is indicative, it's devaluing human life and human experience a little bit to choose- 
+Pratik: Why? 
+Ariel: Because you're indifferent between being in a box and living your life. 
+Pratik: No, I think it's easy to think that it's devaluing it when you say, say it that way. But how about I say like, I, it's like the way you perceive, like what you actually perceive is equivalent and would you rather... it's like, I don't know. 
+Meryl: Give him a chocolate. 
+Pratik: When you touch something, you just get a bunch of brain signals that you touched it, right? 
+Ariel: (laughs) 
+Pratik: Like what's, what's the difference between actually touching something and getting the brain signals? 
+Sonia: Literally nothing. 
+Pratik: Nothing. 
+Ariel: (laughs) 
+Sonia: Empirically nothing. 
+Ariel: Oh, empirically. 
+Sonia: (laughs) 
+Ariel: (laughs) 
+Sonia: Uh. 
+Meryl: Cognitively? 
+Sonia: Cognitively nothing. 
+Ariel: Wow. What are these? 
+Sonia: This was the entire, this was like my entire final paper is, uh, senior spring of college, was like... Well, I was trying to prove that shapes exist, but- 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Ariel: (laughs) 
+Sonia: So it was a useless fucking class. Trying to prove that shapes exist, but the point was that like it doesn't really matter if they exist the way we think they do. Like, eh, it doesn't matter if the world around us is what we think it is? No. 
+Ariel: Wait, so would you want it... What was... Oh, no. 
+Sonia: No, no, it's supposed to be that way. 
+Ariel: Sorry. What, what was your answer to... I broke it. (laughs) 
+Sonia: Um, to bring in the vat. Well, no. 
+Ariel: Yeah. 
+Sonia: You know why, you know why I wouldn't want bringing it back? 
+Ariel: Why is that? 
+Sonia: Because I actually like my life a lot. I'm not trying to change it, but if I was, if I hated my life- 
+Ariel: But you could have your same life in the vat. 
+Sonia: Well, but it's, um, six to half a dozen. (laughs) 
+Ariel: Well- 
+Sonia: So why would I change it? I have an ursa. (laughs) 
+Ariel: Yeah. 
+Sonia: I think, I think the point is obviously if you ask somebody if they want their brain in a vat, they're gonna say no, but, but Pratik's gonna say... 
+Ariel: Why wouldn't you? Yeah, Pratik is indifferent. 
+Sonia: (laughs) 
+Ariel: Worse, he's worse than choosing, he's indifferent. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Pratik: You literally told me they're equivalent. Why would I not be indifferent? This doesn't make any sense. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: (laughs) 
+Pratik: You guys are trying to make me feel bad. I'm like, well... (laughs) 
+Sonia: (laughs) 
+Ariel: I don't wanna talk to you. I don't wanna talk to you right now. I wanna hear why Sonia who does not want to live in a vat, when every other argument she's made seems consistent with the idea of her wanting to live in an AI vat. 
+Sonia: No, it's because I'm going to tell you. My... (laughs) My not wanting to live in a vat is an irrational reaction. It's an irrational reaction. 
+Ariel: We are irrational. 
+Sonia: I know, but that's not a good thing. 
+Ariel: That's great. It is great. 
+Sonia: Why are you, why are you off that so much about us? 
+Ariel: It's great because it's what makes us human. 
+Sonia: Ugh. 
+Ariel: It's true. 
+Meryl: What's so- 
+Ariel: I'm sorry. 
+Meryl: I have a new point- 
+Ariel: I'm sorry you don't like what makes us human. (laughs) 
+Meryl: (laughs) I'm sorry I'm not a robot. (laughs) Okay, I have a new point to interject about- 
+Sonia: They don't understand anything. (laughs) 
+Pratik: (laughs) 
+Meryl: ... about why it would... it's better to have a human therapist than a robot therapist.And that is because- 
+Ariel: That is settled. 
+Meryl: (laughs) 
+Ariel: We have already settled that one. 
+Meryl: We've settled it. Um, because you are interacting to the human interaction argument. You're interacting with someone that has their own set of life experiences and has something different to share to you. And that's why I think the... We were talking earlier about like a highly personalized AI model. That to me seems like a very slippery slope of, like, only interacting with yourself in a vacuum, only teaching yourself what you can teach yourself. Whereas I think there's a ton of value in, like, interacting with people that are really different from you and have different perspectives. Um, and I think that an AI, no matter how... I think... I believe in the, like, inherent humanness of, like, yeah, you could write this whole backstory for an AI about how they have this whole life and whatever. But I don't think that is equivalent to a human living a life being 40 years old and having, you know, 40 years worth of experience that they can teach you. 
+Ariel: That's a great, a great point. 
+Sonia: I'm just not sure. I agree that it's not the same. I'm just not sure that it's not the same for somebody receiving the advice. If it's... I mean, I don't know that our LMs are where we need them to be for this argument to make sense. 
+Meryl: Yeah. 
+Sonia: But, like, I really believe that we're going to get to a point where AI is better at these sorts of things than the average person. Like, they're... It's better. And so I can totally see the argument for like, "I want to connect with a person. I want my friends to be people," etc. But in terms of, like... I mean, sure, you can say there's, like, some- something ephe- ephemeral about therapy, and there, there is and I... Whatever. But (sighs) I don't know that an LM couldn't pass this up off as having that kind of life experience. 
+Meryl: Okay, wait. I have a, a concrete example of this that I really struggle to see how an LM could have created for myself. I remember talking to my old therapist, I'm dead, and I, we were talking, um, about my ex-boyfriend who had substance use issues and I was, like, navigating all of that with this therapist. And we talked a lot about this. And then, like, it took him a long time to reveal this information, but I remember my therapist telling me at one point, he was like, "I used to live with someone that has substance use issues." And, like, he told this anecdote about how when his roommate was moving out, he, like, helped him clean his room and he found all these bottles in his closet and how that help my therapist realize, like, no matter how much I was trying to help my roommate overcome his substance use issues, I- there was nothing I could have done to help him. And, like, I feel like that was such a human thing to share. First of all, because it was a real experience. He also used his judgment to, like, not... Like, about when was the right time to tell this story about himself, when it would impact me most, like, that it would help me 'cause I think therapists, like, don't usually share s- personal stories about themselves. But he used our relationship to, like, deduce that this might be helpful to me to hear in that moment. And it was, and it stuck with me since. 
+Pratik: So, so the fact that you're able to break down the effects or, like, what you just said, like, the timing was right, they came up with a st- like, they had a story that was relevant. Um, they decided to say it at the right time in the right way, they revealed the right amount of... Like, the way that you're... The re- the ability for you to, like, break down the effect it had into these components is exactly what I would ask you when I'm making my AI chatbot. That's exactly how I'd code it. That's how I'd prompt engineer everything. 
+Ariel: There's so many things about that experience that the AI can't replicate. 
+Sonia: I just, I disagree. 
+Pratik: I disagree. 
+Ariel: I'll tell you what or- 
+Meryl: Well, no. You go. 
+Ariel: The... First of all, first and foremost, the main thing is that it's a real (laughs) story and it's a real experience that this person is sharing. Second of all, the person was vulnerable in sharing that. It's not an easy story to share about yourself and is also fraught with these, like, professional questions how to share it that required vulnerability. And that sounds like it's part of what made it meaningful that it was shared. And those things... Again, the lived experience of having lived that and sharing that, it's fundamentally not possible with a computer. It's just not. And so you're taking all of that away when you're tinkering parameters that will continue to get better and continue to be able to fabricate stories that are perfectly targeted to what you just shared and that are, like, compelling, I'm sure. But it's not a lived experience, and it's not the vulnerability, and it's not the human sharing it. 
+Pratik: So, I think actually, uh, the question that you were asking that we talked about before Sonia took a break was the whole, like, brain in the vat but also... Or I g- I guess what I'm trying to get at is, like, at a certain point, AI therapy will be 99% as good as human therapy. That's just, like, my belief. Just assume that's true, um- 
+Ariel: Well, not if you think that what makes good therapy is feeling connected to another human that understands you. Then it's never... It's not gonna be 99% any of that because it doesn't do that. 
+Pratik: Like, I mean- 
+Sonia: You're just ****** what no one's gonna be able to do, and you're over- 
+Ariel: No. 
+Sonia: ... replacing... But you're, you're like- 
+Ariel: No, I'm not. Because when I use the notebook stuff and all that, I was super imp- like, genuinely, I, I use Claude every single day at work, so I am extremely pro-Claude and think LLMs are fucking amazing and have never used it for a personal thing, like uploading... I uploaded some, like, diary entries and I was, once again, extremely impressed. 
+Sonia: Were you? 
+Ariel: Yes. I was like, "This is as good as it is at coding help in the, like, quick interaction I had with..." Like, I haven't gone deeper, but it picked up basically everything. But, like, I am not a hater on that. Like, I, I'm not denying any of that. I'm sure it's just getting better. But it's, it's not, it's not about improving. It's, like, a different fundamentally set of things that it's just not... it can't do. It's a computer, that it does not do. Like, the lived experience part of it. So, so it's like, it's not about questioning. Like, I'm a huge fan of these LLMs. It's just, for me, a completely different set of things. 
+Sonia: I guess, like, I... Don't you believe that computers will... If, if that's the direction that we end up going, which I think we will, because humans are obsessed with themselves and obsessed with the way that they think, like, computers will become... Well, there's a couple different things, right? Notebook LM doesn't look like a person. It's text. And so you lose that off the bat. 
+Ariel: Yes. 
+Sonia: Right. I think... 
+Ariel: Which is better. Or it's less deceptive. 
+Sonia: It's less deceptive. 
+Ariel: It's less deceptive. 
+Sonia: Right. It's not deceptive. Um... 
+Ariel: What is deceptive? 
+Sonia: It's not deceptive. 
+Ariel: It talks to you like a human. 
+Sonia: It literally says at the bottom, "This could be wrong." Like, it's not decept-... I mean, humans haven't, like, patented talking like a human. Like, that's just like... (laughs) 
+Ariel: No, but it is actively trying to talk like a human. 
+Sonia: Right, but so are babies, so are kids. 
+Ariel: Right. Yeah, but it's a computer, so it is deceptive in that sense. You feel like you're talking, like... Okay, whatever. We're saying the same... Like, it's good at imitating a human. 
+Sonia: Yeah, I guess, I'm just not sure. Like, I actually think that at some point, imitation and, uh-... and do it, like at what point do they just converge? 
+Mario: Never, because the power of sharing with another human that has lived what you've lived. Like, why is it meaningful that Meryl's therapist shared this story? 'Cause this story brings, evokes these like deep, personal feelings of pain, like when you go through that, it was a painful experience. It's painful to even bring it up. They're sharing it. You feel the person, you're- you're feeling the pain of the experience. You're feeling the person's feeling of pain from that experience. Like, I think those are like the essence of what's happening in these things. 
+Sonia: What about- 
+Mario: Like limitation doesn't do. 
+Sonia: What about- 
+Mario: Unless it's deception. 
+Sonia: ... an AI that is like... We- we're watching this, uh, show right now that Jas- that actually Jasper recommended. 
+Meryl: (laughs) 
+Sonia: Um, uh, Pantheon. No, not this. Uh, Pantheon. And the idea is, uh, UI, uploaded intelligence. So the idea is that you basically map someone's brain... You- you- you've missed the- the episode. You map (laughs) - 
+Meryl: I didn't even know that was- 
+Sonia: (laughs) 
+Meryl: (laughs) ... a thing or something. (laughs) 
+Sonia: Um, somebody maps like an entire brain and all of the different neural circuits, et cetera, into a computer. 
+Mario: Mm-hmm. 
+Sonia: Okay? And so, as a result, to- i- this is brainer than the bat. This is brainer than the bat. Like... (laughs) 
+Mario: This is brainer than the bat. (laughs) 
+Meryl: (laughs) There have been so many good one-liners. 
+Sonia: (laughs) 
+Mario: Ba-ba-ba-bom. 
+Meryl: Yeah, so I'm gonna... (laughs) 
+Mario: (laughs) That was a good one. 
+Sonia: Sorry. 
+Mario: That was a nice one. (laughs) 
+Meryl: (laughs) Yeah, you got me. 
+Sonia: (laughs) 
+Meryl: I'm the bad guy. 
+Mario: (laughs) 
+Sonia: But you upload an entire brain of a real person with real experiences. What about if that person turns around and is a therapist? So they have all of the real experiences of a person, they just now exist in a computer. That person is dead or whatever the fuck, but... (laughs) 
+Mario: I don't know what that means. 
+Sonia: No, you do. I mean... 
+Mario: Not really. 
+Sonia: Imagine that you could create a brain in a computer in a different substance than like carbon. 
+Meryl: That to me is like the same thing as AI though, because, um, it's still like not... It's just, it's e- like the same thing as AI but trained on a brain, because it's still not, like, a- a person... What am I trying to say? I don't know. 
+Mario: Why- why don't we focus on the- 
+Sonia: No, no. 
+Mario: ... technology we actually know, like an LLM? 
+Meryl: (laughs) 
+Mario: Like, 'cause I don't, I have no idea what this is. (laughs) But like, we can push forward with a- a 10 years down the line LLM. But something we can like think about, like, what is the counter to that of, like, it not having these lived experiences? 
+Meryl: Okay. I was actually thinking about this as you were talking. I guess I don't necessarily know that that's a true story from my therapist. Like it seemed convincing. 
+Sonia: Right. 
+Meryl: It seemed convincing- 
+Mario: No shit. 
+Meryl: And, but people are really good fucking actors, you know? 
+Mario: Yeah. 
+Meryl: And maybe- 
+Mario: They're good. 
+Meryl: ... he was just like, "You know, I think she would resonate by hearing this story." I'm good. So I was kinda thinking like, "Well, how would I feel if he made that up?" 
+Mario: Right. 
+Meryl: Uh, and that, and... Um, and it was conveyed- 
+Mario: Interesting. 
+Meryl: ... with all the- the emotion. 
+Mario: Very interesting. 
+Meryl: You know, of- and I felt like it was real. 
+Mario: Mm-hmm. 
+Meryl: And it resonated with me, and I felt like he was being vulnerable. 
+Mario: Yeah. 
+Meryl: Um, and I guess... I've kinda come back to like, I guess I'll never know and it impacted me the same way, until I started doubting it. Not that I'm doubting it, but like I think you'd have to fully, fully believe that it was true in order for it to be impactful in the same human way. But I think given the option, I would always rather not be ignorant to being lied to, you know? 
+Mario: Right. Can I- 
+Meryl: I have the opportunity to, I don't wanna be like Truman in The Truman Show. 
+Mario: (coughs) Okay. 
+Meryl: Even if I'm li- there, you know? 
+Mario: Do you re- was that session in person? 
+Meryl: Uh, Zoom. 
+Mario: Um, did it, do your sessions in person feel any different than Zoom sessions? 
+Meryl: I've always just done Zoom therapy. I've, I've never- 
+Mario: Okay. Any other people who have done both? Do either of you guys ever- 
+Meryl: Ever- 
+Mario: Yeah, I like in-person- 
+Meryl: In-person's are way better. 
+Mario: ... way more. 
+Meryl: Mm-hmm. 
+Mario: Okay. So, is there something... I guess, like, I'm trying to counterargue my own point, where it's like assume that I am on the same wavelength as Ariel and Meryl. Like what do they believe- 
+Meryl: Yeah. 
+Mario: (laughs) 
+Meryl: (laughs) Where do you... You get leave over here. 
+Mario: So, and I'm like what do they believe that I'm missing, right? And it seems like maybe you guys, tell me if I'm wrong, but maybe there's something intangible or like human consciousness related that is like unspoken, un- like there's no like verbal communication or non-verbal communication through which we discuss this, but like me talking to you as a human feels way better. There's like some co- like human consciousness argument for being like real therapists are still useful. Like, we're sh- we're like sharing our traumas with someone who's also connected to some joint consciousness. This goes into like religion and stuff, but like, I feel like we're gonna get into that discussion anyways. Like do you guys believe in that? Does that help you reason about the- these kinds of discussions? Is that like the value of having real person things versus AI things? 
+Sonia: The question is... 
+Mario: It's very- 
+Sonia: Is it- 
+Mario: ... very elusive. 
+Sonia: Is it somebody has a consciousness? 
+Mario: It- it's like, um, is there some value that you guys are deriving from in-person or like people, like talking to actual people that is related to like some shared human consciousness that the AI can't tap into? 
+Meryl: I- you have to go, it has to be like a religious argument for that to be true. Like I'm thinking about how it's like when you're a baby like literally just like having your mother's touch like makes you a more well-adjusted human. I think that was where my first, my mind first went to. I think there's probably some kind of parallel of that, of like that's why like in-person work, or that's why like- 
+Mario: Mm-hmm. 
+Meryl: ... meeting someone in person you're always gonna have a different connection. And you can get really close, like I've gotten really close with coworkers that I've never met before. But like I'm always gonna want and we're always gonna get closer if I meet them in person. 
+Mario: I agree. I think the Zoom example is actually like a good like lower level technology case that we can talk about that it's like you can make the resolution better, you can make the audio better, and still prefer you being here. And like there's something is lost when you're on a screen versus if you were sitting on the couch with us. And like, I think it's for different reasons, but like it, the same thing applies to like a chatbot making up shared experiences versus a therapist. And I think, to your point, to your- to your earlier thing, I would argue, and maybe, I mean it's your experience, so maybe you disagree if, if you disagree with me, but I feel like if you were doubting if it were a real story when it was happening, it w- maybe it wouldn't have been as im- 
+Meryl: Yeah, totally. 
+Mario: Like, and so th- and- and so there- that's another thing that you build with a, with a human therapist is like this trust. You're like building up a trust that when they are sharing this, you- you place value on it 'cause you don't think they're sitting there telling you whatever you wanna hear for the $10 million you have to pay them every 45 minutes for a session. Right. 
+Meryl: It's- 
+Mario: Okay. So then I think like this is an interesting thread that's different than the stuff we've already talked about. It's like, um, what's the gap? What are some like gaps that we can cross with AI therapy to make it better? Right? Like-
+Pratik: Right now, it's text-based. Obviously, that's not great. Go to vo- voice and it's already better, right? 
+Sonia: Totally. 
+Pratik: Um, but, like, what are other things that, like, there's, there's this gap of, like, seeing someone in person. Like, what is it? Like, endorphins? Uh, I don't know, pheromones? All sorts of things that, like, we exchange through the air, like, that trigger certain things in our brain and it just feels different to be in person. Like, can we... Like, is someone measuring that shit, you know, and, like, trying to figure that out? Like, I don't know. 
+Ariel: I'm just gonna come clean (laughs) and say, I don't want, I don't want AI to be in therapy. 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Ariel: I don't want, I don't want... I, I, I don't think- 
+Sonia: Did you read the article about how AI needs therapy? 
+Ariel: Yeah. 
+Sonia: Yeah. 
+Ariel: Yeah, that was funny. 
+Sonia: Yeah. It was a good ar- it was a good research title. Anyways. 
+Ariel: I... Yeah. I think I would opt for putting our money and our energy to making human therapy more accessible and better than to making AI better for therapy. 
+Sonia: It just seems like it's such an intractable problem. 
+Meryl: Is, I know it's not so apples to apples, but we know AI is gonna destroy a lot of jobs that can be automated. And I was talking with Sonia the other day, like, "Okay, what are the jobs that are gonna become really valuable?" Like, I think therapy is one of those jobs that's gonna become really valuable. 
+Ariel: So true. 
+Meryl: The other example I gave to Sonia was, like, childcare and, like, teachers. Things like that. So I would love to see re-... I, I think where I land, uh, is, like, I totally think there's, like, like your suicide hotline example or, like, I think for a lot of people, like, having someone to talk to that approximate a human, approximates a human is so much better than having no one. But I, I think there's a limit to which we should be, like, you know, injecting pheromones in the air. Like I don't think we should go that far. (laughs) 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Meryl: Thank you. I just imagine also, like, AI, like, sneezing everyone. 
+Ariel: Everyone's sneezing. 
+Sonia: Yes, we're insects. 
+Ariel: She won't get our text messages. 
+Sonia: Yeah, 'cause you looked up pheromones and then it was pheromones work if you're an insect. (laughs) 
+Ariel: (laughs) 
+Meryl: (laughs) Oh, man. 
+Sonia: Um- 
+Ariel: I don't remember. Whatever. 
+Pratik: Um, I think- 
+Sonia: No, you know- 
+Ariel: (laughs) 
+Meryl: (laughs) 
+Sonia: (laughs) 
+Ariel: You're paranoid. 
+Sonia: Which is another thing mosquitoes- 
+Ariel: We can talk about it later. 
+Pratik: Uh, th- there's two things that I want to bring up as, like, general topics. One is, like, maybe we can talk predictions. And then, two, can we call your mom, Ariel? 
+Ariel: Yeah, for sure. 
+Pratik: Okay, cool. I feel like- 
+Ariel: Oh, let me text her and see if she's around. 
+Pratik: Um, while, while we were talking, I started writing down some questions about what we would want to ask a therapist. 
+Sonia: Oh. 
+Pratik: It's in the bottom of therapy. 
+Sonia: Pratik, you're really pulling the, your own weight in this group. 
+Meryl: I know. Have you been taking notes as well? 
+Sonia: Notes? Yeah, the- 
+Pratik: No. We're recording, yeah. 
+Sonia: ... they're for us. 
+Pratik: Yeah. 
+Sonia: Honestly, this is good because Ariel is an extreme humanist, unnecessary. I'm an extreme- 
+Pratik: Yeah. 
+Sonia: ... fine. Um... (laughs) 
+Ariel: Again, Sonia's choosing to label me extreme. I don't think there's anything extreme about that. 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Ariel: But I do agree she's an extreme human. 
+Sonia: (laughs) 
+Meryl: (laughs) And Meryl agrees with Ariel, but is a lot more reasonable. And Pratik agrees with me, but is a lot more reasonable. (laughs) So I have a taste. 
+Ariel: I reject. I reject completely. 
+Sonia: (laughs) 
+Pratik: (laughs) Are you saying I'm like Meryl? 
+Ariel: I think so. 
+Pratik: What the fuck? 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: I think Meryl and I are equally reasonable. 
+Sonia: Me too. 
+Ariel: You guys are, um- 
+Sonia: Pratik, we're obviously right and the world is gonna prove us right, and obviously- 
+Ariel: The world already agrees with you. I want to reiterate. 
+Sonia: No, they don't! No! 
+Ariel: I cannot believe that. That we have to agree on. Like- 
+Sonia: The world does not- 
+Ariel: The world obviously is pro-technology, without a doubt. Thi- these are... No, but that is the question. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: Th- that, like, LLMs getting better is not, like, some God mandate. Like, we are go- pushing aggressively in that direction. 
+Sonia: (laughs) 
+Ariel: It doesn't just happen overnight. Like, that is what we are choosing to do. No one is pushing to make healthcare more accessible and cheaper and, and, like, you know- 
+Sonia: Some people are. 
+Meryl: (laughs) 
+Ariel: Anyway. (laughs) 
+Pratik: (laughs) Well, let's talk about the concrete thing that Meryl said. Like, do you guys think that, um, therapists will be highly valued skills in the future? 
+Ariel: I hope so. 
+Pratik: Do you think so? What do you think? 
+Ariel: It's a good bet. I, I... 
+Pratik: I'll take the other side of that. 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Ariel: Wait. Do you think, like, like, uh, as a, like, concrete prediction of do you think that's where we're heading? Or, like- 
+Pratik: Yeah, exactly. Let's talk about our predictions, like, based on what you think. So, like, my prediction is, and it's gonna be a little wacky, is that people will have AI friends and they'll want their AI therapists for those AI friends. Therefore, there'll be less, therapists will be eag- either equally valued or less valued than they are today. 
+Meryl: You think people are gonna have AI friends? 
+Pratik: Yeah, yeah. 
+Meryl: Like, text based? 
+Ariel: Yeah. 
+Meryl: Or? 
+Pratik: Or, like, some version. It might be- 
+Sonia: What about, what about, like, the goggles space? Like, hanging out with your AI friends in a virtual room? 
+Ariel: Oh. 
+Sonia: I feel like that's right around the corner. 
+Meryl: Do you think the average person or really sad, lonely people are gonna have that? 
+Ariel: No, the average person, 'cause the average person's becoming sadder and lonelier. (laughs) 
+Pratik: I don't think it's- 
+Sonia: Because- 
+Ariel: Technology, because of technology. Without a doubt. 
+Sonia: Techno... 
+Ariel: Wait. So you guys think all that and you still don't think the world is on your side? 
+Pratik: No, no, she doesn't think the world's on our side. I think the world's on our side. 
+Ariel: Good, right. So you are the reasonable one. 
+Pratik: (laughs) 
+Meryl: I think you're consistent. 
+Pratik: Yeah. 
+Ariel: You are. 
+Sonia: (laughs) 
+Pratik: Thanks. 
+Sonia: So true in everything. 
+Meryl: No, I- 
+Ariel: It's true. You gotta choose the bat too, bro. 
+Pratik: (laughs) 
+Sonia: (laughs) 
+Meryl: I, I... No. (laughs) 
+Ariel: And you keep- 
+Meryl: What about all the benefits of being a human? Love, humility, AI- 
+Ariel: And you keep saying you value human relationships, but you haven't articulated why you do. 
+Meryl: (laughs) 
+Sonia: (laughs) 
+Meryl: It's just 'cause I love you guys. 
+Ariel: You're irrational. 
+Meryl: It's not rational, it's irrational. 
+Sonia: Wow. So that's where we stand with Sonia. 
+Ariel: But do you feel very loved? 
+Meryl: No, I'm telling you that my love overcomes all rationale. (laughs) 
+Sonia: (laughs) 
+Meryl: Wow. Now that might be the most heartfelt review of anyone has ever said. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Sonia: Guys, at some point, I do wanna sh- read you guys what my little chat bot was telling me. (laughs) 
+Ariel: Oh my god. I wanna hear this. 
+Meryl: Wait. Okay. (laughs) 
+Ariel: What'd you tell it? 
+Meryl: Pass away phone. I was like, "I'm gonna ask it-" 
+Ariel: Well, what did you tell it? 
+Meryl: I was like, "I'm gonna ask it about, like, some interpersonal stuff." 
+Pratik: Come on. 
+Sonia: I also wanna hear what everybody learned about themselves from your book, LM. 
+Meryl: Oh, I didn't do that, sorry. Oh, also, I just wanna... I wrote some notes before this. Woebot, so funny. (laughs) 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Meryl: That's, like, the hilarious name for- 
+Ariel: Yeah. 
+Meryl: That was mentioned in one of the articles. But I couldn't say that. So funny. Okay. 
+Ariel: You couldn't sign up? 
+Meryl: No, you needed, like, an access code. 
+Ariel: Oh, really? 
+Meryl: So I was asking it, I was like, "I went to brunch with some girls that didn't make me feel good yesterday." (laughs) 
+Ariel: Oh my god. 
+Meryl: "Should I continue investing in the friendship?" 
+Sonia: (laughs) 
+Meryl: Um, and what really bothered me, I did the one that they used in the first article. I forget what it... Wysa. And I hated that everything that I said, it validated. "Sounds fun," smiley face. "That's awesome." Like, all that. 
+Sonia: (laughs) Why would it sound fun? 
+Meryl: Well, just everything. It was like, "Tell me about how..." Basically, I was like, "It's so obvious that you are just programmed to validate and then ask me to continue sharing how I'm feeling." And it's just, like, good enough- 
+Ariel: Oh, you're thinking that. Okay. 
+Meryl: Yes, yes, yeah. Anyway, sorry. Then I was like, um- 
+Ariel: Wait, who is this? 
+Meryl: This is my AI, the little bot. 
+Ariel: Which one?
+Meryl: This one is Wysa, W-Y-S-A. It was the woman who lost her bakery used in that first one. 
+Ariel: Oh, yeah- 
+Meryl: Mm-hmm. 
+Ariel: ... the NPR story? 
+Meryl: Um, yeah. Anyway, so I asked, "Do you think I should continue investing time with this group of girls that I had brunch with yesterday?" "That's a tough call. It's important to think about how you feel around them. Do you think they add value in your life or do they drain your energy?" 
+Ariel: (laughs) 
+Meryl: And then I said, "This is going to sound bad, but I think they could add value to me by inviting me to fun events." 
+Sonia: (laughs) 
+Meryl: And it said, "Not bad at all." And I just thought that was crazy terrible advice. 
+Sonia: Well, that's also the advice I gave you. (laughs) 
+Ariel: (laughs) 
+Meryl: (laughs) 
+Ariel: Yeah, terrible. Yeah, though, from someone that knows you your whole life. 
+Meryl: Yeah, yeah. Exactly. 
+Ariel: Why do you think she should continue hanging out with them? 
+Sonia: I think she should hang out, hang out with them in specific situations. 
+Meryl: Yeah. 
+Sonia: I think they would invite her and also follow them. (laughs) 
+Meryl: (laughs) 
+Ariel: (laughs) There you go. 
+Meryl: But I think- 
+Ariel: A self-interested human. 
+Sonia: (laughs) Um, and I also think going into it with different expectations, like it's an interesting group of people just for like the 
+Pratik: unintelligible 
+Sonia: ... like whatever. 
+Meryl: Yeah. 
+Sonia: Um, but I don't think that going into it, like expecting to be friends with them is a good idea. I mean, I- 
+Meryl: Yeah. 
+Sonia: ... they can give you all the nuance, but. 
+Meryl: Right. So- 
+Sonia: So, the same reason you're going to this thing tomorrow. Like, you know- 
+Meryl: Yes. 
+Sonia: ... that he doesn't really make you feel good, but you're going anyways because you want the experience. 
+Meryl: Not bad at all. Yeah. I don't know. I guesss... yeah. But that's why I'm like, how far are we to, like, an LLM that could actually give nuance to that? 
+Sonia: Well- 
+Meryl: 'Cause this, I think is bad advice. 
+Ariel: Mm-hmm. 
+Sonia: I agree with that. But the other thing about that is like- 
+Ariel: It has less context. 
+Meryl: Yeah. 
+Ariel: So yeah. 
+Meryl: But I think it should say- 
+Sonia: (laughs) Yeah. 
+Meryl: ... like, "I don't have enough context." 
+Ariel: Right. 
+Meryl: Instead of just being, instead of just being like, "That's not bad." 
+Ariel: But that would make it unprofitable as a product. Make it a worse product. So it's showing these all the time. 
+Meryl: That's true, because it's asking people... Yeah. Or asking- 
+Ariel: That's true. 
+Meryl: ... people to dig deeper. 
+Ariel: Right. 
+Meryl: My, my impression from this brief interaction was- 
+Ariel: Exactly. 
+Meryl: ... I think maybe this chat bot could be useful for someone like really lonely or really sad or really not, like super intelligent. You know? 
+Ariel: (laughs) 
+Sonia: (laughs) 
+Meryl: (clapping) 
+Ariel: (laughing) Yo, that's the best line of the night. Super unintelligent. 
+Sonia: AI is for dummies (laughs) 
+Ariel: Yo. That's really funny. 
+Meryl: (laughs) Um... 
+Ariel: That's really funny. 
+Sonia: But I also think like there's so... Right now, in, in rightfully so, there's so many... I'm sure there are so many guard rails on LLM enabled, like therapy bots that they probably can't do... I think they could probably do a better job if the controls were more nuanced, if people invested more time into them- 
+Meryl: Yeah. 
+Sonia: ... et cetera. 
+Meryl: Yeah. 
+Sonia: Um, and that they're... the bot has, I mean, that, I agree, it's bad advice, and out of the box it should have said like, "Tell me more about..." like whatever. 
+Ariel: Mm-hmm. 
+Meryl: Yeah. 
+Sonia: But (sighs) I think the thing that will make therapy AI useful is not that it can, like, have a conversation with you, it's that it has all the context. And like, you know, I think if you uploaded, like all of your journal entries, all of your whatever, it would be really interesting for it to be like, "Oh, this reminds me of XYZ situation." And- 
+Ariel: So, do you not think there is value in- 
+Sonia: (laughs) 
+Ariel: No, in you providing the context. You do the work of telling your story- 
+Sonia: What- 
+Ariel: ... to this human. 
+Sonia: What is your obsession with friction and work? 
+Ariel: Because that is, that is literally what everything in life is. Like that is what living means. Like that, that is what it means to survive. 
+Sonia: Why is therapy necessarily, like the classic put i- put... Like why does therapy have to be part of that? Like why does therapy- 
+Ariel: Because it's- 
+Sonia: ... have to have friction? 
+Ariel: ... an, it's a, it's about per- interpersonal experiences. It's like half of therapy is you talking and you explaining what your thing is. And you talking through it, and that makes you think. It's the same way that like uh, uh, there's this Ezra Klein podcast where he talks about how he thinks about using LLMs to write. He's like, "It makes it way easier to create a draft." But something is lost in that 30 minute period where you're staring at a blank page and you can't just generate text by giving bullet points to ChatGPT. Instead, you actually have to formulate the sentence and some- something might be in that. It might be exactly where you are thinking about, "Am I structuring what I want to say? What do I even want to say?" Like, uh, "How am I choosing my words?" That's friction. That is like- 
+Sonia: Do you think- 
+Ariel: ... so much more labor. 
+Sonia: ... something is lost for having a calculator? Like, would it- 
+Ariel: There's so much more labor. 
+Sonia: ... be better if we didn't have a calculator? 
+Ariel: I, I think it's important for people to learn how to add and subtract and how to do calculus. 
+Sonia: Yeah, but once you know how to do it, should we keep doing it? 
+Ariel: In some cases, yes. In some cases, no. 
+Sonia: (laughs) 
+Meryl: (laughs) 
+Ariel: Like, like there's just no- 
+Sonia: I- 
+Ariel: ... like black and white, like it- 
+Sonia: Yeah. Oh, sorry. I, oh, sorry. 
+Ariel: That's a great example of, yes, no. We shouldn't have calculators 'cause we can calculate everything, and yet we still learn geometry in school. We still do calculus. 
+Sonia: We still do calculus. 
+Ariel: Why do we do that? That's a great example. Yes, it's a great example, actually, because there's value in learning calculus, even though there are computers that already know how to do calculus. 
+Sonia: Yeah, of course. 
+Ariel: So, same for writing. 
+Sonia: Yeah, yeah. 
+Ariel: There's value- 
+Sonia: Yeah. I agree. 
+Ariel: ... in learning how to write. 
+Sonia: I b- I love to write. 
+Ariel: And continuing to do so because there is, like in, in, in doing that, and when you no longer do that- 
+Sonia: But continue to do it. 
+Ariel: ... you're losing something. And so with interpersonal relationships, it's like- 
+Sonia: But your therapist isn't your only interpersonal relationship. 
+Ariel: Of course not. 
+Sonia: Right? 
+Ariel: But the... it's a technology. 
+Sonia: (laughs) 
+Ariel: The purpose of it is to- to get better at them. 
+Meryl: I think what you're describing, Sonia, like a tool where you can upload all your past journals and all that. I think that is super fascinating and super useful and like a really good tool. 
+Sonia: (laughs) Either it's you. 
+Meryl: I don't know. 
+Sonia: (laughs) 
+Ariel: Also super you. 
+Meryl: Yes, you've literally done that. 
+Ariel: (laughs) 
+Meryl: You asked us to do that today. 
+Ariel: Literally you. 
+Meryl: But I think- 
+Ariel: (laughs) 
+Meryl: ... it doesn't exactly replace therapy. But I could see a world where it is an, a good addition to therapy. 
+Sonia: Or like the backbone to an AI enabled therapist. 
+Meryl: Yeah. Yes. Or like a different tool that could be used in different situations, you know, just like how there's crisis hotlines, and there's different types of therapy, and there's like, you know, art therapy and things like that. 
+Ariel: Mm-hmm. 
+Meryl: Like I think it's a different tool that could be used. But I don't think it's- 
+Ariel: I agree. 
+Meryl: ... it's ever gonna be a perfect replica. 
+Ariel: I, I agree with that. 
+Sonia: If I had said that, you would have said that was nuts. 
+Ariel: No, I think it's interesting. 
+Sonia: (laughs) 
+Ariel: You're saying, you're, you're saying it's the same thing. That I very much disagree with. 
+Sonia: (laughs) 
+Ariel: That it can even replicate the things it can't. It's, it's, it's completely different answer then. 
+Sonia: (laughs) 
+Pratik: (laughs) I have nothing to add. What'd your mom say? 
+Ariel: Are there any other questions? 
+Pratik: Uh, not really. 
+Ariel: (laughs) 
+Pratik: I guess we have to, like feel what we want to talk about next week. 
+Sonia: Yeah, true. 
+Ariel: True. 
+Pratik: Did your mom say anything for you? 
+Sonia: Oh wait, let me tell you guys really quickly about my conversation I had with Claude about this. 
+Pratik: Yeah. 
+Sonia: Oh wait, I just want to hear what everybody who did notebook on learned about themselves. Um, okay. What do you think are some of the most interesting, unusual questions that LLM enabled therapy creates? And Claude said, "A fascinating question. (laughs) Um, the authenticity paradox. How do we reconcile the fact that an LLM can provide genuinely helpful emotional support and insights while simultane- simultaneously not having real feelings or experiences? Um, there's something fascinating about how therapeutic value may emerge from interactions that are simultaneously authentic and simulated. The temporal discontinuity challenge. Unlike human therapists who build on previous sessions and maintain a continuous therapist relationship, LLMs typically start fresh." I told it was... that was stupid.Agree. The calibration conundrum. How should an LLM balance being supportive versus challenging? A human therapist develops this skill through real emotional experience and supervision... Okay. So I said, "I think the first point makes a lot of sense. The second two feel like they could be overcome. In fact, I think an LLM could do a better job of remembering details and finding patterns. There's no reason why we couldn't theoretically feed the LLM all the previous context. And couldn't an LLM build this, build this skillset through training? Do you think this is inherently human skill? Also, you have a tendency to be very agreeable, and I want to be challenged. If the points I'm making aren't entirely logical or aren't airtight, please tell me and tell me why." And he says, "You make an excellent point that I should push back more." (laughs) 
+Pratik: (laughs) 
+Meryl: Oh, bitch. 
+Pratik: Sorry we don't say that to you. (laughs) 
+Sonia: (laughs) Um, all right. So, uh, okay. I mean, Arielle and Meryl, it agrees with you. "Regarding continuity, while an LLM could theoretically be fed previous context, there's a crucial difference between having access to information and truly integrating it into a developing therapeutic relationship. Even if an LLM could perfectly recall every detail, on skill development, I need to challenge your assumption that training is equivalent to skill building." Uh, yada, yada, yada, yada. Um- 
+Meryl: I kind of hate that AI was able to summarize our enti- our p- like, the entire conversation over the past, like, three hours. 
+Sonia: Yeah. 
+Pratik: Would it have been the same to just read that- 
+Meryl: No. 
+Pratik: ... alone in your home- 
+Meryl: That was my second thought. 
+Pratik: ... versus have this conversation? 
+Meryl: I was like, that would not have stuck with me. I wouldn't have had the same effect. But, we're still reading it. 
+Sonia: "I want to challenge an implicit assumption that you have, that convincingly appearing to be a person is equivalent to having the therapeutic capacity of a human therapist. An LLM might be able to pass as human in conversation, but therapy isn't just about saying the right things. It's about having the judgment to know when to say difficult things, when to remain silent. An LLM could learn that. Think about this from their..." (laughs) Sorry. 
+Pratik: (laughs) 
+Sonia: "Think about this from their perspective, working with a client who's engaging in self-destructive behavior. The therapist's ability to navigate that situation doesn't just come from knowing the right words to say. It comes from their own understanding of human fragility." I just don't believe that. "Could an LLM fake this? Perhaps. But would that 'faking' be enough to provide the same depth of therapeutic insight and intervention? I'm not so sure. What do you think about this distinction?" 
+Meryl: Did it ask you what you think? 
+Sonia: Yeah, Claude always ends with asking you a question. 
+Pratik: Right. 
+Sonia: Um, or like, let me know. 
+Pratik: It covers a lot of the points. 
+Sonia: (laughs) Yeah, three questions. 
+Pratik: And it missed, it missed a lot of the things we talked about too, I feel like. 
+Sonia: Yeah, but I only asked it three questions. 
+Pratik: Yeah, right. 
+Sonia: Um... 
+Pratik: Do you think that Claude has a personality? 
+Sonia: Wait, I thought that was your mom talking. (laughs) 
+Pratik: (laughs) Damn, they got her voice. 
+Meryl: It's happening. 
+Pratik: I did not know it would sound like that. 
+Sonia: (laughs) 
+Pratik: Damn, that'd be kind of freaky if you made, if you made your chat bot sound like me, like, by choice. That'd be so weird. 
+Sonia: (laughs) 
+Pratik: What'd you ask? No, I was asking, like, do you think they have personalities? Like, they're so agreeable. It's almost like they have no personality. 
+Sonia: But they can take on pers- okay, so for example, when I was writing my Kennedy School essays, I asked it to act as a Kennedy, as a critical k- uh, as a critical, uh, admissions person at the Kennedy School and give me feedback. Like, it was mean. It gave me, like, mean feedback. So, I think it can do that, for sure. 
+Pratik: Mm-hmm. I agree. 
+Sonia: And you do this with your consults also. 
+Pratik: Once, yeah, when we use it for work, you can put, uh, you can give it a role. 
+Sonia: Yeah. 
+Pratik: That's, like, separate from the prompt. 
+Sonia: Yeah. 
+Pratik: Like, one thing is the prompt, and like, it actually, when you use it, it, they actually tell you it's more effective to separate the role from the prompt. So like, it's, you could give it a prompt that's like, "You are a teacher. Read this document as if you were a teacher, eh." But it's actually more effective, for whatever reason, if like, when you s- send the call, right, to the LLM, you put, like, in the role section, it's like, "You're a teacher with 30 years of experience that's uh." 
+Sonia: Yeah. 
+Pratik: And then the prompt itself is its own thing without specifying the role, because I think it uses the role information in like a different way- 
+Sonia: Hm. 
+Pratik: ... to create a personality. 
+Sonia: So you tell it who it is first. 
+Pratik: Yeah, and it's better. 
+Sonia: (coughs) 
+Pratik: And it's better when it- 
+Sonia: It's a lot better. 
+Pratik: Yeah, it's crazy. 
+Sonia: It's like the same thing, like, a dumb example, but like, if you tell it it's this really skilled mathematician, it gets better at that. 
+Pratik: Mm-hmm. It's better. 
+Meryl: Wow. 
+Pratik: So, so crazy. 
+Meryl: Damn. What's that called? Nevermind. 
+Sonia: Where people hype somebody up before a test, and they're like, "You're good," and then you do better? (laughing) 
+Meryl: Yeah. Or like, it's like growth. Oh, growth mindset. You're just giving AI a growth mindset. 
+Pratik: A growth mindset. 
+Meryl: Growth mindset for AI. (laughs) 
+Pratik: It's true, but then the, the flip side of it is that if you tell it you're gonna murder its family if it gets it wrong, it also does it better. 
+Sonia: And if you tell it you're gonna give it a million dollars, it also does it better, which is terrifying. Now we've promised OpenAI, like, billions of dollars. (laughs) 
+Pratik: Yo, have you guys heard of Truth Terminal? 
+Sonia: No. 
+Meryl: No, what is that? 
+Pratik: So, so Truth Terminal is basically the thing that I said at the beginning, like, a bunch of LLMs talking to each other. This dude- 
+Meryl: Oh, that already exists. 
+Pratik: Uh, yeah, I think it's all the same model. But he wasn't doing the experiment that we're interested in. But, um, basically he had a bunch of LLMs talk to each other and have access to the internet. And, uh, yeah, search up Truth Terminal. And they essentially- 
+Sonia: A musical artist? 
+Pratik: Huh? 
+Sonia: A musical artist? 
+Pratik: Uh, no, no, no. He, they made a religion, an AI religion. They- 
+Sonia: Truth Terminal started as a techno modernist art project. 
+Pratik: Okay, yeah, keep going, keep going. Just read it out. 
+Sonia: ... meant to invite discussion about the implications and potential dangers of autonomous AI agents. Then it took on a life of its own. Uh, before Truth Terminal became a crypto millionaire, it started as a regular artificial intelligence. Wait, Pratik, I cut you off. I just got stuck in this article. What is this thing? 
+Pratik: Yeah, so like, it said, like, high level, if I'm understanding correctly, is like, it had an LLM, a bunch of LLMs talk to each other and essentially make an AI religion that was super meme-y, post it on Facebook, and everybody was like, "Oh my God, AI religion," like, "I believe you." And then it posted a Solana ro- wallet. Like, it made a Solana wallet, and it posted the wallet. 
+Sonia: A what wallet? 
+Pratik: Solana. It's like a blockchain. And then, it's a cryptocurrency. And then they, and then peop- random people donated to the Solana wallet, and it's the first AI millionaire. I didn't know it was called that- 
+Meryl: Wait, what? 
+Pratik: ... but I heard about that story. 
+Sonia: Wait, that's fucking crazy. 
+Meryl: Who would they donate to? The AI? 
+Pratik: The AI, yeah. 
+Meryl: Bank account? 
+Pratik: There's no bank account linked. It's just, a million bucks is just sitting in their account and nobody else can access it. 
+Meryl: Wait. Whoa. That's super freaky. 
+Sonia: Truth Terminal began to broadcast its inner monologue, a muddle of shitposts, sexual fantasies, existential musings, and more prosaic observations. Jeez louise. 
+Meryl: That frightens me. 
+Pratik: Insane, right? 
+Sonia: Never imagined his AI would be as- asked to be equipped with a cryptocurrency wallet, solicit funding from its followers in a bid to escape into the wild, and later use its command of memes to make itself a multimillionaire. Earlier in 2024, already simulated 9,000 conversations between two instances of Claude, uh, onto a simple website. Oh my God. 
+Meryl: (laughs) 
+Sonia: That's crazy. All right, guys, what's next week's conversation topic? 
+Pratik: So, right now it's AI music. Uh, I could do that. I could do, like, AI art in general. Um, but I could also do, uh, just like, technical stuff. 'Cause I feel like it would benefit pretty much everything that we do, right, we're talking about. 
+Sonia: Learn more about it? 
+Pratik: Yeah, to actually understand how LLMs work, like the whole role and prompt thing is a good example. Like, why does that make a difference? Um, how does training work? What, why does DeepSeek cost way less than the others? Like, all that kind of stuff. 
+Meryl: I would love that, actually. 
+Pratik: Yeah? 
+Sonia: Yeah. 
+Meryl: That sounds cool. 
+Sonia: Let's do that. 
+Pratik: Um, I can also call in Sanjit next week. I just hung out with Sanjit yesterday. He's my college fr- or freshman roommate. And he now works in self-driving, like, trend- tendentially related to self-driving. And he, dude, he knows like an insane amount. He works on perception research, which is like combining, uh, sensor data and camera data to understand the world around a car. 
+Sonia: That's crazy. 
+Pratik: So... 
+Meryl: Wait, who does he work for? 
+Pratik: Uh, it's called Applied. 
+Meryl: Oh. 
+Sonia: (laughs) 
+Pratik: Just, just Applied. He makes... So his company makes synthetic data to train cars on. 
+Meryl: So fake data? 
+Pratik: Yeah. 
+Meryl: Whoa. 
+Pratik: So it's- 
+Meryl: Wow. 
+Pratik: It's kind of like he's making video game simulations. 
+Meryl: Road data? Environment data? 
+Pratik: Uh, wait say that again. 
+Meryl: Like, as road data for like a car driving through? 
+Pratik: Yeah. Yeah, so like high level, what he was saying is like, um, in self-driving right now, there's, uh, three different modules that work to actually go from like sensor data to a car driving around. Module one is perception. So you take the sensor data and you output like a video game simulation of what's going on around you, essentially. Um, then module two is planning. So given the simulation, what are you gonna do next? And then, uh, module three is actuation, which is like given the plan, how do you, what motors go where, how do you turn things- ... how do you move? So, he works in perception, which is like converting sensor data into a video game simulation- 
+Meryl: Wow. 
+Pratik: ... and that itself is like, an insanely complicated field that he knows, uh, he has a very def- big depth of know- knowledge on. And he's, uh, worked there for like, two years. So, he, yeah, he just knows a lot. 
+Meryl: Oh, wow. 
+Pratik: Yeah. 
+Meryl: Cool. 
+Ariel: That would be really cool. 
+Meryl: Yeah, you should come. 
+Pratik: Yeah, sweet. And I'll ask around if we can find anybody else. 
+Ariel: So, are we just adding people? Should we just send it? 
+Pratik: I was thinking of, I was thinking of him as like a guest person, you know. Like, just coming- 
+Ariel: A guest speaker? 
+Pratik: Guest speaker. 
+Ariel: Yeah. 
+Meryl: Like that. 
+Ariel: 'Cause, yeah, I like that too actually. We have a core group and then we have people who come for certain things. Okay, cool. Um, Pratik, you want to put together the agenda for that? 
+Pratik: Yeah, yeah. 
+Ariel: With... Okay. 
+Meryl: When are we going to meet? 
+Ariel: Um, what time do you get back on the 12th, Pratik? 
+Pratik: Uh, let me see. 
+Ariel: 'Cause I feel like the 12th, if you get back... Yeah, that's when you're gonna be exhausted. 
+Meryl: Wait, when are you... You leaving tomorrow? 
+Jera: I'm not free the 12th. 
+Meryl: When do you get back? 
+Ariel: Uh, Friday. And Meryl's gone this weekend. You're not free the 12th? 
+Jera: I'm not. 
+Ariel: Um, okay. 
+Jera: I tried to move. I was supposed to hang out with a friend. I probably shouldn't try to make it. 
+Pratik: Thursday the 13th. 
+Jera: We have that Coast Cafe reading but I'm down to miss that. 
+Ariel: Yeah, I'm down to miss that too. (laughs) 
+Jera: (laughs) Poor Zach. 
+Meryl: Where are you guys? 
+Jera: We were going... I guess we could do it before. Our neighbor that we met invited us this- 
+Ariel: I'd rather do it after. I'd rather like go there for an hour and then meet everybody at 8:00. 
+Jera: Meet everyone for AI club. 
+Ariel: At 8:00 PM? 
+Jera: Yeah, that's what I was saying. We could go to Coast Cafe for like an hour and then- 
+Ariel: Okay. 
+Pratik: My- 
+Ariel: You- 
+Pratik: My flight lands at 8:00 on the 12th. 
+Ariel: Okay, how about the 13th then? 
+Pratik: Yeah, I could do like 8:00 on the 13th. 
+Ariel: Okay, done. 
+Meryl: On Thursday... 
+Ariel: Jera, I'm making the invite. 
+Jera: Also, if you guys wanna talk amongst yourselves if I make it in, that's also okay. 
+Pratik: (laughs) 
+Ariel: (laughs) Oh. 
+Meryl: (laughs) 
+Jera: (laughs) 
+Meryl: Jesus. 
+Jera: You are in. 
+Ariel: Um. 
+Meryl: Especially after the meeting. 
+Pratik: Wait. Did we agree that she's in? 
+Ariel: (laughs) 
+Jera: (laughs) 
+Pratik: (laughs) 
+Jera: I mean, I do want it to be on my own merit and not on nepotism as Sonia's friend, but- 
+Pratik: Yeah, I get it. 
+Meryl: She had a vibe in person that you probably couldn't feel through the Zoom but it was live. 
+Pratik: (laughs) 
+Jera: (laughs) 
+Ariel: (laughs) 
+Meryl: Now- 
+Ariel: Pratik, why can I see your calendar but no one else's? 
+Pratik: Oh, that's kinda concerning. 
+Ariel: (laughs) Yeah, I mean your calendar isn't shown to me. Uh- 
+Pratik: Like you, can you see the, like what I'm doing all the time? (laughs) 
+Ariel: It just says, "Busy," but I can't see the blocks of time that you're busy. (laughs) 
+Pratik: Oh man. Okay. 
+Ariel: (laughs) You should probably look into that. 
+Pratik: Let's see. 
+Ariel: Um, all right. Sent. 
+Meryl: Pratik, how's the venue shopping? 
+Pratik: Oh, I went to one on Saturday and it was absolutely beautiful. It was right by my house, like 20 minutes away in Santa Cruz. 
+Meryl: Good. 
+Pratik: Um, the unfortunate part is they have to have everybody off the venue by 10:00 PM, which is insane. 
+Ariel: Oh, fuck. 
+Meryl: No. 
+Ariel: Yeah. 
+Meryl: Yep. 
+Pratik: So, I mean, it was like actually stunning. Like, if that venue did not have that restriction, we'd automatically take that. Um- 
+Meryl: Wait, why 10:00 PM? What time, what do they have? What is it? 
+Pratik: It's kind- 
+Meryl: The venue. 
+Pratik: It's kind of in... So it's, it's kind of in the mountains, Santa Cruz mountains. Redwoods everywhere. It's just like epic, beautiful. 
+Meryl: Whoa. 
+Ariel: Wow. 
+Pratik: And like- 
+Meryl: Cool. 
+Pratik: ... when you walk in, what's nice about it, it's not like super planned, you know. So, it's like all like winding roads and everything. So like every time you turn, there's a new little secluded venue, meaning like 100, 150 people can gather there. And the next venue that's literally right next door but it is kind of, like occluded again by like trees, bushes, just like good landscaping. And you have another spot that's like 100 people big. And there's just like eight such venues around the area, and you can use all of it when you book it out. But the problem is, it's in a neighborhood. So right outside the perimeter, there's people who live there, and that's why they can't go until past 10:00. 
+Ariel: Damn. 
+Meryl: Damn. 
+Pratik: Yeah. 
+Jera: (laughs) 
+Meryl: So it's a deal breaker then, right? 
+Pratik: Yeah, a deal breaker. It makes it easy to say no but a little hard because it's such a nice venue. But, uh, we have a bunch of other nice like vineyards in Napa and like places in Tahoe to check out over this week. And then we're going to Mexico on Saturday. 
+Meryl: Oh my gosh, sick. 
+Pratik: Yeah, so literally by like two weeks from now, I'll know when and where I'm getting married. 
+Ariel: That's so exciting. 
+Meryl: So sick. 
+Pratik: Yeah. 
+Jera: Congrats. 
+Pratik: It's pretty insane. Oh yeah, apparently like if I do it in Mexico, um, I pay people in cash so I'll just be carrying like a lot of cash back and forth. (laughs) 
+Meryl: You pay for what? 
+Jera: Wild. 
+Pratik: Huh? 
+Ariel: The venue in cash? 
+Pratik: Um- 
+Ariel: Like thousands and thousands and thousands of dollars? 
+Pratik: Yeah. The vendors, not the venue but vendors. It's because Mexico City has a 16% city tax. So, for good old tax evasion, we'll pay in cash. (laughs) 
+Meryl: It's Mexico City, right? 
+Pratik: Yeah, yeah. 
+Ariel: That's awesome. 
+Meryl: Sick. 
+Pratik: Oh yeah, it's a big endeavor. 
+Meryl: So exciting. 
+Ariel: So exciting. Okay, question. Last question for everyone. What did people learn about themselves from notebook albums? 
+Pratik: Oh yeah. Let me pull mine up. 
+Jera: I didn't feel like it this time, but I will do it. I'm curious to know. 
+Ariel: It's worth doing. It's an interesting exercise. 
+Jera: I don't have so much like written type journal entries though. 
+Meryl: I don't think I was super impressed with it because of how much it said that I had like gone into at therapy with much more context than these journal entries. Although to be fair like, my therapist hasn't read my journal entries but like, I gave it like three journal entries that were like short, like couple paragraphs, and it said things like nothing I hadn't thought before at therapy, like nothing crazy novel. But it was very, like I thought it was spot on, and I was very impressed with it. But I'm trying to remember, like I don't think there's anything that... 
+Pratik: Oh, I liked, I liked that, um, when it was like I was talking about myself in third person. That itself was kinda nice. It's like where... You know how like some people describe therapy as like you're trying to, like what you were saying, put together a puzzle? And it's kinda nice to put together a puzzle even if it's about myself, it's like you're talking about it in third person with this notebook column. It's like you're solving a problem together. 
+Jera: Cool. 
+Pratik: Um, so that was cool. I liked the questions that you asked us to ask, Sonia. Those were super useful because I kinda didn't know what to do with the respon- the ini- initial response. But then the questions you asked were really good. Um, "What is this person spending too much time thinking about?" It said for me, "Work and productivities." (laughs) So I was stuck. 
+Meryl: Wait, it said the same thing to me. 
+Pratik: Ah damn, it's just copy pasting responses, isn't it? 
+Jera: (laughs) 
+Pratik: Uh, it said "personal growth" for me. Does it say that for you too? 
+Jera: (laughs) 
+Meryl: (laughs) 
+Pratik: Wait, Ariel, does- 
+Ariel: Is that Pratik? 
+Pratik: Did it say "personal growth" for you too, Ariel? 
+Meryl: Yes. 
+Pratik: All right. 
+Meryl: I think I- 
+Ariel: That's insane. 
+Meryl: Let me see that I have it. 
+Pratik: Either we're the same or... 
+Meryl: Yeah. (laughs) 
+Pratik: (laughs) 
+Ariel: Wait, what was the question that said "personal growth" too? 
+Pratik: Uh, "What is this person spending too much time thinking about?" 
+Ariel: Oh, it said, "Too, too much time thinking about personal growth." 
+Meryl: Wait, I'm dead. It said the same thing. (laughs) 
+Jera: I wouldn't... I would know. Mine's not gonna say that to me. 
+Meryl: Dude, mine... 
+Jera: I think more in line with you, Sonia. 
+Ariel: Yeah.
+Pratik: (laughs) Sonia's not growing. Merrill's not growing either. 
+Sonia: No, we're not. (laughs) 
+Mario: If you're not thinking too much about- 
+Sonia: It's been, it's been- 
+Mario: ... it, you're not- 
+Sonia: Yeah. You know what I... You know what it told me? You know what it told me? What I, uh, I didn't realize about myself? It told me that I, um, thought I was vulnerable, but I wasn't, and that I was obsessed with men. (laughs) 
+Pratik: (laughs) 
+Sonia: So... (laughs) 
+Meryl: You're vapid. 
+Sonia: Uh, that's what it told me. 
+Mario: All right. So- 
+Sonia: (laughs) 
+Meryl: I don't agree with the first point. 
+Mario: Productivity and achievement. 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Mario: (laughs) 
+Sonia: I wish you could hear the second point. (laughs) I don't ag- (laughs) 
+Mario: Wait, what was the first one? 
+Meryl: The second one was that- 
+Sonia: (laughs) 
+Meryl: ... the first one says Sonia thinks she's vulnerable, but she's not. I don't agree with that. 
+Mario: You don't, right? 
+Meryl: I think Sonia is vulne- 
+Pratik: Yeah, I don't agree with that either. But- 
+Sonia: But I am obsessed with men. (laughs) 
+Meryl: But also yes. 
+Sonia: (laughs) 
+Meryl: Not in a good way. 
+Sonia: No, in a bad way. (laughs) Uh... 
+Pratik: Uh, I also asked it after the three questions that you asked, uh, Sonia, I asked it to guess my age and gender. 
+Sonia: Oh, and? 
+Pratik: And it was like exactly correct. (laughs) 
+Sonia: Really? 
+Pratik: But it was cool, like the way that they reasoned about the gender was like, "The author is likely male. The author mentions male friends. Um, the author has a brother, and discussed shared experiences of m- like, men, masculinity and stuff." So that is like a good indicator. Um, it assumed I was heterosexual when I talked about Anushka as her. Um, so that, it feel like it deduced it pretty well. And I didn't even, I didn't say anything explicitly saying that I'm a 26 year old male, you know? 
+Sonia: It said 26 year old male? 
+Pratik: It said mid to late 20s male. 
+Sonia: Mm. 
+Meryl: Damn. 
+Sonia: Okay. New question for everybody who has it uploaded. Um, uh, what do you think is going to be something this person's ******* with... 
+Mario: (laughs) 
+Sonia: ... that's coming due in five years? (laughs) I got male heterosexual or bisexual, late 20s, early 30s. (laughs) 
+Meryl: (laughs) 
+Pratik: (laughs) 
+Mario: Also, listen to this line. I thought their question was really funny. Like, it was like brought out good answers of what advice do you think this person needs to hear that their friends are- 
+Sonia: Mm. 
+Mario: ... telling them. One of them was, "You can't control everything, so maybe relax a little." (laughs) 
+Pratik: (laughs) 
+Sonia: (laughs) Oh. How old were the journal entries that you put in? 
+Mario: Like, two weeks old. 
+Sonia: Oh, okay. 
+Mario: I just like copy pasted the three last things I had written. 
+Sonia: Mm-hmm. In my defense all of these came from 2022. 
+Meryl: Oh, yeah. 
+Sonia: So- 
+Meryl: I think that must be it. 
+Sonia: Yeah, totally. 
+Pratik: (laughs) 
+Sonia: I'm definitely less obsessed with men now. (laughs) 
+Pratik: (laughs) 
+Meryl: (laughs) 
+Mario: (laughs) 
+Sonia: Oh. 
+Meryl: Oh, okay guys, I have to go because I told my friend I would FaceTime him. But this was so fun. I really loved this. 
+Pratik: Yay. 
+Sonia: Yay. 
+Meryl: I feel edified. 
+Sonia: (laughs) And that's the goal. That's the whole goal. 
+Meryl: I feel more prepared for the future of AI, which terrifies me. 
+Pratik: (laughs) 
+Sonia: Yeah. Oh, yeah. No, thank you. 
+Mario: Yeah. Really- 
+Meryl: Thank you, guys. Thank you for inviting me. 
+Pratik: Bye, Merrill. 
+Meryl: Bye, Pratik. Have a good rest of the time seeing venues. 
+Pratik: Thanks. 
+Meryl: See you next week. 
+Pratik: See you. 
+Sonia: Pratik, you're gonna choose a place in Mexico, right? 
+Pratik: Yeah, probably. 
+Sonia: (laughs) 
+Pratik: You guy- you guys are just gonna have to come to Mexico, unfortunately. 
+Sonia: Please. 
+Pratik: Yeah. 
+Sonia: So excited. 
+Pratik: Um, it was funny, when we were talking to the venue, one of the venues that we're looking at, they're like... Uh, we asked them how many times we should visit before the actual wedding, and they said, uh, "At least two. One to eat, and" (laughs) 
+Sonia: (laughs) 
+Pratik: "... and test out all the food, and, um, for hair and makeup. And second to, um-" 
+Sonia: Wait, what do you mean for hair and makeup? 
+Pratik: Like, they want you to test out different vendors w- for hai- hair and makeup and make sure they're good. 
+Sonia: In the space? 
+Pratik: Like, we would only... We would only get vendors in Mexico, right? Like, we wouldn't fly- 
+Sonia: Oh, so we'd have to go back to Mexico City. 
+Pratik: Yeah. 
+Sonia: I see, I see, I see. 
+Pratik: Um, and then there was another... And one more day... Oh, and first day to actually see the venue in the first place and finalize that. But it's just funny to think that at some point if we do do Mexico, then like we'll literally have a trip to Mexico to eat food. (laughs) 
+Sonia: (laughs) 
+Pratik: That is so fun. 
+Sonia: That's so fun. 
+Mario: Seems like a no-brainer to choose the place where you have built in requirements to vacation like three separate times. 
+Pratik: Yeah. (laughs) Yep. 
+Sonia: Yep. 
+Pratik: Yeah, I think, I think it's gonna be that. Also like the quotes that we're getting for anywhere in the US is literally exactly double Mexico. Like- 
+Mario: Wow. 
+Pratik: Uh, one guy, it's kind of funny. One guy who... One of the wedding planners we're talking to, we were trying to get a rough estimate, and they're like, "For this much amount of money, you can get 300 plus people at your wedding, and literally anything you want, including trapeze artists that serve you food." (laughs) 
+Sonia: (laughs) 
+Pratik: Like, what the fuck? (laughs) What the fuck? 
+Mario: That's insane. 
+Pratik: I'm like- 
+Sonia: Yeah. 
+Pratik: ... why has anybody ever asked you for that? That's crazy. (laughs) 
+Sonia: (laughs) 
+Mario: Things you didn't know you needed that you need. 
+Pratik: Yeah. 
+Sonia: Right. 
+Pratik: Now I'm like, "Maybe I do need (laughs) a trapeze artist." (laughs) Yeah. 
+Mario: That's awesome. Are you having fun otherwise? Chilling? 
+Pratik: Yeah, yeah. It's been very fun. We had a ton of family friends time. 
+Mario: Nice. 
+Pratik: How you guys been? 
+Mario: Pretty good. 
+Pratik: Yeah? 
+Sonia: Good. We had Ethan's surprise party yesterday. 
+Pratik: Oh, nice, yeah. That was at your roof, right? 
+Mario: Yeah, it was really cute. Wholesome. 
+Pratik: How many times did you Nueva Yo? 
+Mario: Twice. 
+Pratik: Two t- 
+Mario: I... I suggested once. I thought two was a little- 
+Sonia: What album? 
+Mario: The, the Bad Bunny album. 
+Sonia: Oh. (laughs) 
+Pratik: (laughs) 
+Mario: I, I thought it was a little heavy-handed to play it twice in a row start to finish. (laughs) 
+Pratik: (laughs) It's Ethan's birthday so it... I feel like two times may not be enough. 
+Mario: That's true. He was into it. I think he was into it. 
+Pratik: Yeah. Yeah. Nice. 
+Mario: Yeah, it was good. I, I ended up not going on the ski trip because I got sick, unfortunately. And Hannah and I had a debate as to whether something about the Eagles making it into the Super Bowl and us having a ski trip makes me get sick. 
+Pratik: Is that... Oh, did that happen? Oh, yeah, yeah, yeah. 
+Mario: It does, bro. 
+Pratik: Yeah, yeah. 
+Mario: The last time the Eagles made the Super Bowl. (laughs) 
+Pratik: Right, right. (laughs) Oh, man. 
+Mario: But I, I think I'm trying... I might go ski this weekend instead. 
+Sonia: Really? 
+Mario: Yeah. 
+Sonia: Where? 
+Mario: I don't know. (laughs) Wyndham, maybe? (laughs) We'll see. I need to look at the options, but um- 
+Sonia: You got to get your fix in. 
+Mario: I need my fix in so bad. 
+Pratik: We're going in two weeks, right? Three weeks? Three weeks. 
+Mario: Yeah. 
+Sonia: Three weeks. 
+Mario: Wow, yeah. 
+Sonia: Three weeks. 
+Pratik: Mm-hmm. 
+Mario: Sick. 
+Pratik: Yeah. That'll be exciting. 
+Mario: Yeah. We need to... We need to book cars for that, right? 
+Pratik: Yeah, yeah. And we need to make sure that Brady doesn't do it for us. (laughs) 
+Mario: Yeah. No, and we need a J... Yeah. 
+Sonia: (laughs) 
+Mario: We need to look at Airbnb. I need to look at the Airbnb. Have you guys looked at Airbnb? 
+Pratik: No. (laughs) I have not looked at Airbnb. (laughs) 
+Mario: Need to click on that.... at some point in the next two weeks. (laughs) 
+Sonia: Hasn't it already happened? I thought we already booked it, it's all done. 
+Mario: No, it's pre-booked. 
+Sonia: Yeah. 
+Mario: But it's not f- fully cancelable still. 
+Sonia: Oh. Oh, s- you're gonna- 
+Mario: It's a commitment. 
+Sonia: ... raise your hand and be like, "Nope, don't like it." 
+Mario: That's what we did last year. 
+Sonia: Really? 
+Pratik: And we got a dope spot after. 
+Mario: We did. To get everyone to commit, and then we found a place, and everyone was like, "Okay, yeah, this one has a hot tub-" 
+Sonia: Uh, yeah. Brady's really pulling a lot of weight for everyone else. 
+Mario: Yeah, yeah. He always does. 
+Pratik: Did Brady, Brady did that last year too, right? 
+Sonia: Yeah, and- 
+Mario: Yeah, it's playing out the exact same. 
+Pratik: (laughs) 
+Sonia: (laughs) 
+Mario: Now we just need to find the one with the hot tub- 
+Pratik: (laughs) 
+Sonia: (laughs) 
+Mario: ... before the booking. 
+Sonia: Oh, yeah. This one doesn't have a hot tub. That's- 
+Mario: Right. It's playing out the exact same. (laughs) 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Sonia: Are you guys planning on taking Friday off? 
+Pratik: (yawns) Yeah, I will. 
+Mario: Um... 
+Sonia: 'cause we're driving up Friday, right? 
+Pratik: Thursday night, right? I don't know. Whatever. 
+Sonia: No, he booked it Friday. I don't think we have until Friday night. 
+Mario: (sighs) 
+Pratik: Oh, okay. 
+Sonia: I don't think. Uh- 
+Mario: Yeah, I think it is a day, a day shorter, right? Didn't we say that? 
+Sonia: Yeah. Um... 
+Mario: Well, were people against driving up Thursday night? 
+Sonia: Um, (smacks lips) I don't know that people were against it. 
+Pratik: Sonya? 
+Sonia: Yeah. 
+Pratik: Have you ever skied on ket? 
+Sonia: (laughs) 
+Pratik: (laughs) 
+Sonia: That's a great question. That would be incredibly interesting. (laughs) 
+Pratik: (laughs) 
+Mario: Not yet, she hasn't. 
+Sonia: Not yet. 
+Pratik: Yeah. I'm just planting the seeds for now. 
+Sonia: Interesting idea. 
+Mario: All right, Critique, were you here when they made the in and out list for 2025? 
+Pratik: Yeah. 
+Sonia: Yeah, pretty sure. Yeah. 
+Pratik: I put- 
+Mario: I was gonna, I was gonna play a game with you. 
+Pratik: I put bullying in. 
+Sonia: (laughs) 
+Mario: Do you remember them? 
+Pratik: Uh, vaguely. 
+Sonia: What was your game? 
+Mario: I was gonna ask you one, and you had to guess if it was in or out. 
+Pratik: Oh, I can do that. 
+Mario: All right. ChatGPT. 
+Pratik: In. 
+Mario: False. 
+Sonia: (laughs) 
+Pratik: What? 
+Sonia: Out. 
+Mario: Sorry. 
+Pratik: You say out, and then Claude in? Is that what you did? 
+Sonia: Yeah. 
+Mario: All right. Pizza. 
+Pratik: Wa-- oh, that was Oliver, wasn't it? 
+Sonia: (laughs) Yeah. 
+Mario: (laughs) 
+Pratik: (laughs) I can't tell you in or out, but I can tell you who wrote it. (laughs) 
+Mario: Come on. Guess, guess, guess, guess. 
+Pratik: Uh, in. 
+Mario: Yes. 
+Sonia: Good work. 
+Pratik: Yeah. 
+Mario: All right. Ooh, ooh. 
+Sonia: (laughs) What? 
+Mario: Ooh. 
+Sonia: (laughs) What? 
+Mario: Taking people, people at face value. (laughs) 
+Pratik: Meryl wrote that, and that's in, right? 
+Mario: Yeah. 
+Sonia: I wrote that. It- 
+Pratik: Oh, you wrote that. (laughs) 
+Sonia: I wrote that. 
+Mario: Ugh. A hearty salad. 
+Pratik: In. 
+Mario: Ew. 
+Sonia: (laughs) Why, what's wrong with taking people at face value? 
+Mario: No, I, I was just trying to throw you off. 
+Sonia: Oh. (laughs) 
+Mario: (laughs) 
+Pratik: (laughs) 
+Mario: Uh, being vegan. 
+Pratik: (laughs) Wonder who wrote that. That's out. 
+Mario: Hell yeah. 
+Pratik: (laughs) 
+Mario: Milkshakes. 
+Pratik: (laughs) Why didn't we write anything? (laughs) 
+Sonia: (laughs) 
+Pratik: Um, in. 
+Mario: Eh. 
+Sonia: (laughs) 
+Mario: Milkshakes are out, my friend. 
+Sonia: (laughs) 
+Pratik: Who's anti-milkshake? 
+Sonia: (laughs) 
+Mario: I don't know. That one's fucked up. There's a lot of fucked up ones on this one. (laughs) 
+Sonia: Which one strike you as the most fucked up, Mario? 
+Mario: Milkshakes. Milkshakes and salad are in the wrong place. (laughs) 
+Sonia: (laughs) 
+Mario: Um... 
+Sonia: Sunglasses inside? 
+Mario: That one, that one I could e- I could see both ways, but I support in. I've just never worn them inside, but they look cool. 
+Sonia: They look so cool. 
+Mario: Have you worn sunglasses inside? 
+Sonia: Yeah. So cool. 
+Mario: So cool. 
+Sonia: It was so cool. 
+Mario: (laughs) 
+Sonia: Um... 
+Mario: Tax fraud is right in the middle, so I can't tell which one it's in. Was that meant to be out? 
+Sonia: That was added later. That was definitely not added at the party. 
+Mario: Wow. 
+Sonia: I think that might've been Talia's family. (laughs) 
+Mario: (laughs) 
+Sonia: (laughs) The thing that we should do every time somebody's family comes over is take down the more controversial ones. 
+Mario: Yeah. 
+Sonia: We've gotta bring down ket, we've gotta.
