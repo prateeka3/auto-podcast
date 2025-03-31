@@ -1,7 +1,0 @@
-ARIEL: Welcome everyone. Today we're discussing a fascinating topic - the intersection of AI and therapy. But before we dive into the technology, I think we should start with a fundamental question: What is the point of therapy?
-SONIA: You really think that's the place to start?
-ARIEL: I do. Every time I've discussed AI in therapy, this comes up as a crucial foundation.
-PRADIP: Speaking of AI, I wanted to mention there are some interesting tools like Speaker Diarization that can analyze recordings and separate different voices. It opens up possibilities for summaries and analysis.
-SONIA: That's actually pretty cool. Though I have to joke - maybe we should just all scream our names before speaking!
-PRADIP: And you know, we've been talking about bringing in experts to expand this conversation.
-ARIEL: Let's take a moment to think about the fundamental question I posed. Understanding the core purpose of therapy will help us better evaluate how AI might fit into this space.
