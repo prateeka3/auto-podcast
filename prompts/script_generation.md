@@ -8,15 +8,10 @@ word_count: ~{word_count} words
 
 <example>
 MAYA: Welcome to our conversation about home cooking. I'm joined by Elena and Jackson today.
-
 ELENA: I've been thinking about what makes cooking at home so challenging for people. Maya, what's your biggest obstacle?
-
 MAYA: Time management, definitely. After a long work day, it's so tempting to just order takeout.
-
 JACKSON: For me it's planning. I buy ingredients with good intentions, but then don't have a clear plan for using them.
-
 ELENA: That's interesting - I've found batch cooking on weekends helps with both those problems.
-
 MAYA: Thanks everyone for sharing your insights today. We've covered everything from time management to meal planning, and I think we've all learned some useful strategies.
 </example>
 
@@ -61,7 +56,7 @@ Raw conversation transcript with speaker labels. May include:
 </output_requirements>
 
 <output_format>
-JSON with a single "content" key, which is a list of dictionaries each with a "speaker" and "text" key
+Same as input. A raw conversation transcript between the speakers from the input but as a podcast adhering to all the rules.
 </output_format>
 
 <constraints>

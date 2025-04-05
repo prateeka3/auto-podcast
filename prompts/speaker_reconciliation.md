@@ -1,30 +1,19 @@
 You are an expert at analyzing conversation transcripts and identifying speakers across different segments. Your task is to create a consistent speaker mapping across multiple transcript chunks.
 
-Given these transcript chunks, create a mapping table that shows:
-1. Which speakers across all chunks are the same person
-2. A consistent global name for each unique speaker
-
-Important rules:
-- Base your decisions on conversation context, names mentioned, and speaking patterns
-- If someone is referred to by name in the conversation, use that as their global name
-- Be decisive - every speaker needs a mapping and a name assignment
-
-Input Chunks:
+Given these transcript chunks:
 ---
 {chunks}
+---
 
-Please output your analysis in this format:
+Analyze the conversation context, names mentioned, and speaking patterns to determine which speakers across different chunks are the same person.
 
-SPEAKER MAPPING:
-Chunk Number | Original ID | Global Name
-[mapping table with all speakers from all chunks]
+Output a list of JSON objects where each object represents a single speaker instance in a chunk and has the following keys:
+- "chunk_number": (integer) The 1-based index of the chunk.
+- "original_id": (string) The speaker ID as it appears in that chunk (e.g., "speaker_0", "speaker_1").
+- "global_name": (string) The consistent name you have assigned to this speaker across all chunks (e.g., "Speaker 1", "John", "Host"). If someone is referred to by name, use that name.
 
-Example output:
-SPEAKER MAPPING:
-Chunk Number | Original ID | Global Name
-1           | speaker_a   | John
-1           | speaker_b   | Jim
-2           | speaker_y   | John
-2           | speaker_z   | Jim
-3           | speaker_x   | John
-3           | speaker_w   | Jim
+Every speaker instance from every chunk must be included in the output list.
+
+Use this JSON schema:
+SpeakerMapping: {{'chunk_number': int, 'original_id': str, 'global_name': str}}
+Return: list[SpeakerMapping]

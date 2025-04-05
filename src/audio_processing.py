@@ -1,6 +1,7 @@
 import os
 from pydub import AudioSegment
 
+# Moved from helpers/audio_helpers.py
 def validate_audio_filepath(filepath: str) -> str:
     """
     Validate if a filepath has a supported audio format extension
@@ -27,37 +28,7 @@ def validate_audio_filepath(filepath: str) -> str:
                         
     return file_format
 
-def cut_audio_segment(input_filepath: str, length_seconds: float, output_suffix: str = "_shortened") -> str:
-    """
-    Cut an audio file to a specified length and export it, auto-detecting formats from file extensions
-    
-    Args:
-        input_filepath: Path to input audio file
-        length_seconds: Length to cut audio to in seconds 
-
-    Returns:
-        str: Path to the shortened output audio file
-        
-    Raises:
-        ValueError: If input or output file extensions are not recognized audio formats
-    """
-    # Validate input filepath and get format
-    file_format = validate_audio_filepath(input_filepath)
-    
-    # Generate output filepath with suffix
-    output_filepath = input_filepath.rsplit('.', 1)[0] + output_suffix + '.' + file_format
-    
-    # Load the audio file with detected format
-    audio = AudioSegment.from_file(input_filepath, format=file_format)
-    
-    # Cut to specified length (convert seconds to milliseconds)
-    shortened_audio = audio[:int(length_seconds*1000)]
-    
-    # Export shortened version with detected format
-    shortened_audio.export(output_filepath, format=file_format)
-
-    return output_filepath
-
+# Moved from helpers/audio_helpers.py
 def process_large_audio(
     audio: AudioSegment,
     process_chunk_fn: callable,
@@ -92,11 +63,11 @@ def process_large_audio(
                 end_ms = min((i + 1) * max_length_ms, len(audio))
                 segment = audio[start_ms:end_ms]
                 
-                # Save segment to temp file if needed
                 temp_filepath = None
                 if input_filepath:
-                    temp_filepath = f"{input_filepath}_temp_{i}.mp3"
-                    segment.export(temp_filepath, format="mp3")
+                    base, ext = os.path.splitext(input_filepath)
+                    temp_filepath = f"{base}_temp_{i}{ext}" # Use original extension
+                    segment.export(temp_filepath, format=ext.lstrip('.'))
                 
                 try:
                     # Process segment
@@ -108,10 +79,13 @@ def process_large_audio(
                         os.remove(temp_filepath)
         else:
             # Process entire file if under limit
+            print(f"{progress_prefix} entire file...")
             result = process_chunk_fn(audio, input_filepath)
             results.append(result)
             
     except Exception as e:
+        if temp_filepath and os.path.exists(temp_filepath):
+             os.remove(temp_filepath)
         raise e
     
     return results

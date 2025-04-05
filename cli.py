@@ -3,21 +3,23 @@ from datetime import datetime
 import getpass
 import time
 from typer import Option, Typer, Argument
-from elevenlabs import ElevenLabs
-from client import clean_audio, clone_voice, estimate_cost, transcribe_audio, generate_script, get_available_voices, get_elevenlabs_client
 import os
-import io
 import re
 from pydub import AudioSegment
+import io
 
-from common import AudioAIFunction
-from helpers.audio_helpers import validate_audio_filepath
-from helpers.helpers import display_available_voices
+from src.config import AudioAIFunction
+from src.utils import display_available_voices, estimate_cost
+from src.audio_processing import validate_audio_filepath
+from src.voice_management import VoiceManager
+from client import clean_audio, transcribe_audio
+from src.script_generation import generate_script
+from src.audio_generation import write_podcast_audio
+
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 os.environ["PATH"] = "/usr/local/bin:" + os.environ["PATH"]
-
-if not os.environ.get("ANTHROPIC_API_KEY"):
-    os.environ["ANTHROPIC_API_KEY"] = getpass.getpass("Enter API key for Anthropic: ")
 
 app = Typer(
     no_args_is_help=True,
@@ -33,401 +35,228 @@ def main():
 
 @app.command(no_args_is_help=True,)
 def clean(
-    input_file: str = Argument(
-        ...,  # ... means required argument
-        help="Path to the input audio file to be cleaned"
-    )
+    input_file: str = Argument(..., help="Path to the input audio file to be cleaned")
 ):
-    """
-    Clean background noise from an audio file.
-    
-    The cleaned audio file will be saved in the same directory as the input file
-    with a '_clean' suffix added to the filename.
-    """
+    """Clean background noise from an audio file."""
     try:
         output_file = clean_audio(input_file)
         print(f"Successfully cleaned audio. Output saved to: {output_file}")
-    except ValueError as e:
-        print(f"Error: {e}")
+    except Exception as e:
+        print(f"Error cleaning audio: {e}")
 
 @app.command(no_args_is_help=True,)
 def transcribe(
-    input_file: str = Argument(
-        ...,  # ... means required argument
-        help="Path to the input audio file to transcribe"
-    ),
-    speakers: int = Argument(
-        4,  # default value
-        help="Number of expected speakers in the audio"
-    ),
-    force: bool = Argument(
-        False,  # default value
-        help="Skip confirmation prompt"
-    )
+    input_file: str = Argument(..., help="Path to the input audio file to transcribe"),
+    speakers: int = Argument(4, help="Number of expected speakers"),
+    force: bool = Option(False, "--force", help="Skip confirmation prompt")
 ):
-    """
-    Transcribe an audio file with speaker diarization.
-    
-    The transcript will identify different speakers and include timestamps.
-    Requires an audio file with clear speech.
-    """
+    """Transcribe an audio file with speaker diarization."""
     try:
-        transcribe_audio(input_file, speakers_expected=speakers, force=force)
-    except ValueError as e:
-        print(f"Error: {e}")
+        output_path, _ = transcribe_audio(input_file, speakers_expected=speakers, force=force, return_raw_transcription=True)
+        if output_path:
+            print(f"Successfully transcribed audio. Output saved to: {output_path}")
+        else:
+             print("Transcription failed or was cancelled.")
+    except Exception as e:
+        print(f"Error transcribing audio: {e}")
 
 @app.command(no_args_is_help=True,)
 def script(
-    transcription_file: str = Argument(
-        ...,  # required argument
-        help="Path to the transcription file"
-    ),
-    length: int = Argument(
-        10,  # default 10 minutes
-        help="Target length of the script in minutes"
-    ),
-    audience: str = Argument(
-        "general",  # default value
-        help="Target audience (e.g., general, technical, academic)"
-    ),
-    type: str = Argument(
-        "discussion",  # default value
-        help="Type of podcast (e.g., discussion, interview, debate)"
-    )
+    transcription_file: str = Argument(..., help="Path to the transcription file"),
+    length: int = Argument(10, help="Target length of the script in minutes"),
+    audience: str = Argument("general", help="Target audience"),
+    type: str = Argument("discussion", help="Type of podcast")
 ):
-    """
-    Generate a podcast script from a transcription file.
-    
-    Converts a raw transcription into a structured, concise script
-    optimized for the specified length and audience.
-    """
-    script_path = generate_script(
-        transcription_file,
-        length_minutes=length,
-        audience=audience,
-        type=type
-    )
-    print(f"Successfully generated script. Output saved to: {script_path}")
-
-def write_podcast_audio(script_path: str, speaker_voice_ids: dict, output_path: str = f"./audio/podcast_{datetime.now().strftime('%Y%m%d_%H%M%S')}.mp3"):
-    """
-    Write the podcast audio to a file using the singleton client.
-    """
-    client = get_elevenlabs_client()
-    # Initialize audio segments list
-    silence = AudioSegment.silent(duration=500)  # 0.5s silence
-    audio_segments = [silence]
-
-    # Process each line in the script
-    with open(script_path, 'r') as f:
-        # Count total lines for progress tracking
-        all_lines = f.readlines()
-        f.seek(0)  # Reset file pointer to beginning
-        total_lines = len([line for line in all_lines if line.strip()])  # Count non-empty lines
-        processed_lines = 0
-        start_time = datetime.now()
-        
-        for line in f:
-            # Update progress tracking
-            if line.strip():  # Only count non-empty lines
-                processed_lines += 1
-                if processed_lines > 1:  # After we have some data to estimate
-                    elapsed_time = (datetime.now() - start_time).total_seconds()
-                    time_per_line = elapsed_time / processed_lines
-                    remaining_lines = total_lines - processed_lines
-                    estimated_time_remaining = remaining_lines * time_per_line
-                    print(f"Progress: {processed_lines}/{total_lines} lines ({processed_lines/total_lines*100:.1f}%) - Est. remaining time: {estimated_time_remaining:.1f} seconds", end="\r")
-            line = line.strip()
-            if not line:  # Skip empty lines
-                continue
-            
-            # Split the speaker name from the line
-            match = re.match(r'^([^:]+):\s*(.*)', line)
-            if not match:
-                print(f"Skipping improperly formatted line: {line}")
-                continue
-            
-            speaker, text = match.groups()
-            
-            # Get the voice ID for this speaker
-            if speaker.lower() not in speaker_voice_ids:
-                print(f"Warning: No voice ID for speaker {speaker.lower()}, skipping line")
-                continue
-            
-            voice_id = speaker_voice_ids[speaker.lower()]
-            
-            # Generate audio for this line
-            try:
-                audio_bytes = client.text_to_speech.convert(
-                    text=text,
-                    voice_id=voice_id,
-                    model_id="eleven_multilingual_v2",
-                    output_format="mp3_44100_128",
-                )
-                audio_bytes = b''.join(audio_bytes) # convert from generator to bytes
-                
-                # Convert bytes to AudioSegment
-                audio_segment = AudioSegment.from_file(io.BytesIO(audio_bytes), format="mp3")
-                
-                # Add silence to end
-                processed_segment = audio_segment + silence
-                
-                # Add to our list
-                audio_segments.append(processed_segment)
-                
-            except Exception as e:
-                print(f"Error generating audio for line: {e}")
-    
-    # Combine all segments
-    if not audio_segments:
-        print("No audio segments were generated.")
-        return
-    
-    print("\nCombining audio segments...")
-    final_audio = audio_segments[0]
-    for segment in audio_segments[1:]:
-        final_audio += segment
-    
-    # Export the final audio
-    final_audio.export(output_path, format="mp3")
-    print(f"\nPodcast audio saved to: {output_path}")
-    return output_path
-
-def delete_generated_voices(speaker_voice_ids: dict):
-    """Delete generated voices using the singleton client."""
-    client = get_elevenlabs_client()
-    print("Deleting generated voices...")
-    deleted_count = 0
-    for voice_id in speaker_voice_ids.values():
-        try:
-            client.voices.delete(voice_id)
-            deleted_count += 1
-        except Exception as e:
-            print(f"Warning: Could not delete voice {voice_id}: {e}")
-    print(f"Deleted {deleted_count} voices.")
+    """Generate a podcast script from a transcription file."""
+    try:
+        script_path = generate_script(
+            transcription_file,
+            length_minutes=length,
+            audience=audience,
+            type=type
+        )
+        print(f"Successfully generated script. Output saved to: {script_path}")
+    except Exception as e:
+        print(f"Error generating script: {e}")
 
 @app.command()
 def list_voices():
-    """
-    List available voices.
-    """
-    voices = get_available_voices()
-
-    display_available_voices(voices)
+    """List available voices."""
+    try:
+        vm = VoiceManager()
+        voices = vm.get_available_voices()
+        display_available_voices(voices)
+    except Exception as e:
+        print(f"Error listing voices: {e}")
 
 @app.command(no_args_is_help=True)
 def generate_podcast_audio(
-    script_file: str = Argument(
-        ...,  # required argument
-        help="Path to the script file to generate podcast from"
-    )
+    script_file: str = Argument(..., help="Path to the script file")
 ):
-    """
-    Generate a podcast from a script file.
-    
-    Converts a structured script into an audio podcast using voice cloning technology.
-    """
+    """Generate a podcast from a script file using available or selected voices."""
     try:
-        # Read the script file
         with open(script_file, 'r') as f:
             script_content = f.read()
-        
-        # Parse the script to identify speakers
         speakers = set()
         for line in script_content.split('\n'):
             if ':' in line:
                 speaker = line.split(':', 1)[0].strip()
                 speakers.add(speaker)
         
-        print(f"Identified speakers in script: {', '.join(speakers)}")
+        if not speakers:
+            print("Error: No speakers found in the script.")
+            return
+            
+        print(f"Identified speakers in script: {list(speakers)}")
 
-        
-        # display
-        available_voices = get_available_voices()
+        vm = VoiceManager()
+        available_voices = vm.get_available_voices()
         display_available_voices(available_voices)
 
-        # Map speakers to voice IDs
-        print("Match speakers to available voices:")
+        print("\nMatch speakers to available voices:")
         speaker_voice_ids = {}
-        
         for speaker in speakers:
-            # Check if there's an exact match in available voices
-            exact_match = None
-            for voice in available_voices:
-                if voice.name.lower() == speaker.lower():
-                    exact_match = voice
-                    break
+            speaker_lower = speaker.lower()
+            exact_match = next((v for v in available_voices if v.name.lower() == speaker_lower), None)
             
             if exact_match:
-                # Ask for confirmation if there's an exact match
-                confirm = input(f"Found voice '{exact_match.name}' for speaker '{speaker}'. Use this voice? (y/n): ")
-                if confirm.lower() in ['y', 'yes']:
-                    speaker_voice_ids[speaker.lower()] = exact_match.voice_id
+                confirm = input(f"Found voice '{exact_match.name}' for speaker '{speaker}'. Use this voice? (y/n): ").lower()
+                if confirm in ['y', 'yes']:
+                    speaker_voice_ids[speaker_lower] = exact_match.voice_id
                     continue
             
-            # If no exact match or user declined the match, ask for manual selection
             while True:
-                voice_name = input(f"Please enter the name of an existing voice to use for speaker '{speaker}': ")
-                selected_voice = None
-                
-                for voice in available_voices:
-                    if voice.name.lower() == voice_name.lower():
-                        selected_voice = voice
-                        break
-                
+                voice_name = input(f"Enter existing voice name for speaker '{speaker}': ").lower()
+                selected_voice = next((v for v in available_voices if v.name.lower() == voice_name), None)
                 if selected_voice:
-                    speaker_voice_ids[speaker.lower()] = selected_voice.voice_id
+                    speaker_voice_ids[speaker_lower] = selected_voice.voice_id
                     break
                 else:
-                    print(f"Voice '{voice_name}' not found. Please try again.")
-
+                    print(f"Voice '{voice_name}' not found. Try again.")
         
-        print("\nGenerating audio for each line...")
-        write_podcast_audio(script_file, speaker_voice_ids)
-        
+        print("\nGenerating podcast audio...")
+        output_path = write_podcast_audio(script_file, speaker_voice_ids)
+        if output_path:
+            print(f"Successfully generated podcast audio: {output_path}")
+        else:
+            print("Failed to generate podcast audio.")
+            
     except Exception as e:
-        print(f"Error generating podcast: {e}")
+        print(f"Error generating podcast audio: {e}")
 
     
 @app.command(no_args_is_help=True,)
 def podcast_from_conversation(
-    input_file: str = Argument(
-        ...,
-        help="Path to the input conversation audio file"
-    ),
-    speakers: int = Argument(
-        4,
-        help="Number of expected speakers in the audio"
-    ),
-    length_minutes: int = Argument(
-        15,
-        help="Target length of the podcast in minutes"
-    ),
-    audience: str = Argument(
-        "general",
-        help="Target audience for the podcast"
-    ),
-    podcast_type: str = Argument(
-        "informative",
-        help="Type of podcast to generate"
-    ),
-    clean_audio: bool = Option(
-        False,
-        "--clean-audio",
-        help="Whether to clean the audio before processing"
-    )
+    input_file: str = Argument(..., help="Path to the input conversation audio file"),
+    speakers: int = Argument(4, help="Number of expected speakers"),
+    length_minutes: int = Argument(15, help="Target podcast length in minutes"),
+    audience: str = Argument("general", help="Target audience"),
+    podcast_type: str = Argument("informative", help="Podcast type"),
+    clean_audio_flag: bool = Option(False, "--clean-audio", help="Clean audio before processing")
 ):
-    """
-    Generate a podcast from a conversation audio file.
-    
-    This command combines all steps:
-    1. Transcribe the audio with speaker diarization
-    2. Optionally clean the audio
-    3. Generate a podcast script
-    4. Clone voices for each speaker
-    5. Generate the final podcast audio
-    """
-    
-    # Validate that the input file is an audio file
+    """Generate a podcast from a conversation audio file (full pipeline)."""
     validate_audio_filepath(input_file)
-    
-    # Load the audio file to get its length for cost estimation
     audio = AudioSegment.from_file(input_file)
     audio_length_ms = len(audio)
     
-    # Calculate estimated costs for each step
-    clean_cost = estimate_cost(audio_length_ms, AudioAIFunction.CLEAN) if clean_audio else 0
+    # Cost Estimation (using utils)
+    target_length = min(length_minutes, audio_length_ms / 60000)
+    clean_cost = estimate_cost(audio_length_ms, AudioAIFunction.CLEAN) if clean_audio_flag else 0
     transcribe_cost = estimate_cost(audio_length_ms, AudioAIFunction.SPEECH_TO_TEXT)
-    clone_sample_length_ms = min(10*60*1000, audio_length_ms/speakers)
+    clone_sample_length_ms = int(min(10 * 60 * 1000, audio_length_ms / speakers if speakers > 0 else audio_length_ms))
     voice_cloning_cost = speakers * estimate_cost(clone_sample_length_ms, AudioAIFunction.CLONE_VOICE)
-    length_minutes = min(length_minutes, audio_length_ms/1000/60)
-    tts_cost = estimate_cost(length_minutes * 60 * 1000, AudioAIFunction.TEXT_TO_SPEECH)
-    
+    tts_cost = estimate_cost(int(target_length * 60 * 1000), AudioAIFunction.TEXT_TO_SPEECH)
     total_cost = transcribe_cost + clean_cost + voice_cloning_cost + tts_cost
     
-    # Display cost estimate and ask for confirmation
     print("\n=== Cost Estimate ===")
-    print(f"Input audio length: {audio_length_ms/1000/60:.1f} minutes")
-    print(f"Target podcast length: {length_minutes:.1f} minutes\n")
+    print(f"Input audio: {audio_length_ms/60000:.1f} min, Target podcast: {target_length:.1f} min")
     print(f"Transcription: ${transcribe_cost:.2f}")
-    if clean_audio:
-        print(f"Audio cleaning: ${clean_cost:.2f}")
+    if clean_audio_flag: print(f"Audio cleaning: ${clean_cost:.2f}")
     print(f"Voice cloning ({speakers} speakers): ${voice_cloning_cost:.2f}")
     print(f"Text-to-speech: ${tts_cost:.2f}")
-    print(f"Total estimated cost: ${total_cost:.2f}")
+    print(f"Total estimated: ${total_cost:.2f}")
     
-    if input("\nProceed with podcast generation? [y/N]: ").lower() != 'y':
-        print("Podcast generation cancelled by user.")
+    if input("\nProceed? [y/N]: ").lower() != 'y':
+        print("Cancelled.")
         return
     
-    # Step 1: Clean audio if requested
-    processed_audio = input_file
-    if clean_audio:
+    # Step 1: Clean (Optional)
+    processed_audio_path = input_file
+    if clean_audio_flag:
         print("\n=== Cleaning Audio ===")
-        processed_audio = clean_audio(input_file)
-        print(f"Audio cleaned and saved to: {processed_audio}")
+        processed_audio_path = clean_audio(input_file) # Uses client function
+        print(f"Cleaned audio saved to: {processed_audio_path}")
     
-    # Step 2: Transcribe audio with diarization
+    # Step 2: Transcribe
     print("\n=== Transcribing Audio ===")
-    transcription_path, raw_transcription = transcribe_audio(input_file, speakers, force=True, return_raw_transcription=True)
+    transcription_path, raw_transcription = transcribe_audio(processed_audio_path, speakers, force=True, return_raw_transcription=True)
+    if not transcription_path or not raw_transcription:
+            raise Exception("Transcription failed.")
     print(f"Transcription saved to: {transcription_path}")
 
-    # Step 2.5: Wait for Anthropic rate limit to reset
-    time.sleep(60)
-
-    # Step 3: Generate podcast script
-    print("\n=== Generating Podcast Script ===")
+    
+    # Step 3: Generate Script
+    print("\n=== Generating Script ===")
     script_path = generate_script(
         transcription_path, 
-        length_minutes=length_minutes,
+        length_minutes=int(target_length), # Use calculated target length
         audience=audience,
         type=podcast_type
     )
-    print(f"Script generated and saved to: {script_path}")
+    print(f"Script saved to: {script_path}")
     
-    # Step 4: Extract speaker samples and clone voices
+    # Step 4: Clone Voices
     print("\n=== Cloning Voices ===")
-    # Extract audio samples for each speaker (max clone_sample_length_ms per speaker)
-    samples = defaultdict(list)
-    samples_length = defaultdict(int) # in milliseconds
-    current_speaker = None
-    current_segment = []
-    for word in raw_transcription:
-        if word.speaker_id != current_speaker:
-            if current_speaker and current_segment:
-                samples[current_speaker].append((current_segment[0].start*1000, current_segment[-1].end*1000))
-                samples_length[current_speaker] += current_segment[-1].end*1000 - current_segment[0].start*1000
-            current_speaker = word.speaker_id
-            current_segment = [word]
-        elif samples_length[current_speaker] < clone_sample_length_ms:
-            current_segment.append(word)
+    vm = VoiceManager()
+    
+    samples = vm.extract_samples_from_transcription(raw_transcription, clone_sample_length_ms)
     
     speaker_voice_ids = {}
-    for speaker in samples.keys():
-        # combine all samples into a single audio file per speaker under audio/voices/
+    sample_files_to_delete = []
+    for speaker_id, segments in samples.items():
+        if not segments: continue
         samples_audio = AudioSegment.empty()
-        for start, end in samples[speaker]:
-            fmt = validate_audio_filepath(input_file)
-            samples_audio += AudioSegment.from_file(input_file, format=fmt)[start:end]
-        voice_sample_file = f"audio/voices/{speaker}.mp3"
-        samples_audio.export(voice_sample_file, format="mp3")
-        
-        print(f"Cloning voice for {speaker}...")
-        # Clone the voice using ElevenLabs. record the voice_id
-        voice_id = clone_voice(voice_sample_file, speaker)
-        speaker_voice_ids[speaker.lower()] = voice_id
-        # Delete the voice sample file after cloning
         try:
-            os.remove(voice_sample_file)
-            print(f"Deleted voice sample file: {voice_sample_file}")
+            fmt = validate_audio_filepath(input_file) # Validate original file
+            source_audio = AudioSegment.from_file(input_file, format=fmt)
+            for start, end in segments:
+                samples_audio += source_audio[int(start):int(end)]
         except Exception as e:
-            print(f"Warning: Could not delete voice sample file {voice_sample_file}: {e}")
-    
-    # Step 5: Generate podcast audio
+            print(f"Warning: Error extracting samples for {speaker_id}: {e}")
+            continue
+                        
+        voice_sample_file = os.path.join(vm.sample_dir, f"{speaker_id}.mp3")
+        samples_audio.export(voice_sample_file, format="mp3", parameters=["-ac", "1"])
+        sample_files_to_delete.append(voice_sample_file)
+        
+        print(f"Cloning voice for {speaker_id}...")
+        try:
+            voice_id = vm.clone_voice(voice_sample_file, f"Podcast_{speaker_id}_{datetime.now().strftime('%Y%m%d')}")
+            speaker_voice_ids[speaker_id.lower()] = voice_id
+        except Exception as e:
+            print(f"Warning: Failed to clone voice for {speaker_id}: {e}")
+
+    # Clean up sample files
+    for f_path in sample_files_to_delete:
+        try:
+            os.remove(f_path)
+        except OSError as e:
+            print(f"Warning: Could not delete sample file {f_path}: {e}")
+
+    if not speaker_voice_ids:
+        raise Exception("Voice cloning failed for all speakers.")
+
+    # Step 5: Generate Podcast Audio
     print("\n=== Generating Podcast Audio ===")
-    write_podcast_audio(script_path, speaker_voice_ids)
-    print("Deleting generated voices...")
-    delete_generated_voices(speaker_voice_ids)
+    output_audio_path = write_podcast_audio(script_path, speaker_voice_ids)
+    
+    # Step 6: Clean up generated voices
+    vm.delete_generated_voices(speaker_voice_ids)
+
+    if output_audio_path:
+        print(f"\nPodcast successfully generated: {output_audio_path}")
+    else:
+        print("\nPodcast generation finished, but final audio export failed.")
 
 if __name__ == "__main__":
     app()
