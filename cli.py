@@ -4,7 +4,7 @@ import getpass
 import time
 from typer import Option, Typer, Argument
 from elevenlabs import ElevenLabs
-from client import clean_audio, clone_voice, estimate_cost, transcribe_audio, generate_script, get_available_voices
+from client import clean_audio, clone_voice, estimate_cost, transcribe_audio, generate_script, get_available_voices, get_elevenlabs_client
 import os
 import io
 import re
@@ -44,9 +44,8 @@ def clean(
     The cleaned audio file will be saved in the same directory as the input file
     with a '_clean' suffix added to the filename.
     """
-    client = ElevenLabs()
     try:
-        output_file = clean_audio(client, input_file)
+        output_file = clean_audio(input_file)
         print(f"Successfully cleaned audio. Output saved to: {output_file}")
     except ValueError as e:
         print(f"Error: {e}")
@@ -72,9 +71,8 @@ def transcribe(
     The transcript will identify different speakers and include timestamps.
     Requires an audio file with clear speech.
     """
-    client = ElevenLabs()
     try:
-        transcribe_audio(client, input_file, speakers_expected=speakers, force=force)
+        transcribe_audio(input_file, speakers_expected=speakers, force=force)
     except ValueError as e:
         print(f"Error: {e}")
 
@@ -111,10 +109,11 @@ def script(
     )
     print(f"Successfully generated script. Output saved to: {script_path}")
 
-def write_podcast_audio(client: ElevenLabs, script_path: str, speaker_voice_ids: dict, output_path: str = f"./audio/podcast_{datetime.now().strftime('%Y%m%d_%H%M%S')}.mp3"):
+def write_podcast_audio(script_path: str, speaker_voice_ids: dict, output_path: str = f"./audio/podcast_{datetime.now().strftime('%Y%m%d_%H%M%S')}.mp3"):
     """
-    Write the podcast audio to a file.
+    Write the podcast audio to a file using the singleton client.
     """
+    client = get_elevenlabs_client()
     # Initialize audio segments list
     silence = AudioSegment.silent(duration=500)  # 0.5s silence
     audio_segments = [silence]
@@ -194,17 +193,25 @@ def write_podcast_audio(client: ElevenLabs, script_path: str, speaker_voice_ids:
     print(f"\nPodcast audio saved to: {output_path}")
     return output_path
 
-def delete_generated_voices(client: ElevenLabs, speaker_voice_ids: dict):
+def delete_generated_voices(speaker_voice_ids: dict):
+    """Delete generated voices using the singleton client."""
+    client = get_elevenlabs_client()
+    print("Deleting generated voices...")
+    deleted_count = 0
     for voice_id in speaker_voice_ids.values():
-        client.voices.delete(voice_id)
+        try:
+            client.voices.delete(voice_id)
+            deleted_count += 1
+        except Exception as e:
+            print(f"Warning: Could not delete voice {voice_id}: {e}")
+    print(f"Deleted {deleted_count} voices.")
 
 @app.command()
 def list_voices():
     """
     List available voices.
     """
-    client = ElevenLabs()
-    voices = get_available_voices(client)
+    voices = get_available_voices()
 
     display_available_voices(voices)
 
@@ -221,9 +228,6 @@ def generate_podcast_audio(
     Converts a structured script into an audio podcast using voice cloning technology.
     """
     try:
-        # Initialize ElevenLabs client
-        client = ElevenLabs()
-        
         # Read the script file
         with open(script_file, 'r') as f:
             script_content = f.read()
@@ -239,7 +243,7 @@ def generate_podcast_audio(
 
         
         # display
-        available_voices = get_available_voices(client)
+        available_voices = get_available_voices()
         display_available_voices(available_voices)
 
         # Map speakers to voice IDs
@@ -279,7 +283,7 @@ def generate_podcast_audio(
 
         
         print("\nGenerating audio for each line...")
-        write_podcast_audio(client, script_file, speaker_voice_ids)
+        write_podcast_audio(script_file, speaker_voice_ids)
         
     except Exception as e:
         print(f"Error generating podcast: {e}")
@@ -323,7 +327,6 @@ def podcast_from_conversation(
     4. Clone voices for each speaker
     5. Generate the final podcast audio
     """
-    client = ElevenLabs()
     
     # Validate that the input file is an audio file
     validate_audio_filepath(input_file)
@@ -361,12 +364,12 @@ def podcast_from_conversation(
     processed_audio = input_file
     if clean_audio:
         print("\n=== Cleaning Audio ===")
-        processed_audio = clean_audio(client, input_file)
+        processed_audio = clean_audio(input_file)
         print(f"Audio cleaned and saved to: {processed_audio}")
     
     # Step 2: Transcribe audio with diarization
     print("\n=== Transcribing Audio ===")
-    transcription_path, raw_transcription = transcribe_audio(client, processed_audio, speakers, force=True, return_raw_transcription=True)
+    transcription_path, raw_transcription = transcribe_audio(input_file, speakers, force=True, return_raw_transcription=True)
     print(f"Transcription saved to: {transcription_path}")
 
     # Step 2.5: Wait for Anthropic rate limit to reset
@@ -411,7 +414,7 @@ def podcast_from_conversation(
         
         print(f"Cloning voice for {speaker}...")
         # Clone the voice using ElevenLabs. record the voice_id
-        voice_id = clone_voice(client, voice_sample_file, speaker)
+        voice_id = clone_voice(voice_sample_file, speaker)
         speaker_voice_ids[speaker.lower()] = voice_id
         # Delete the voice sample file after cloning
         try:
@@ -422,9 +425,9 @@ def podcast_from_conversation(
     
     # Step 5: Generate podcast audio
     print("\n=== Generating Podcast Audio ===")
-    write_podcast_audio(client, script_path, speaker_voice_ids)
+    write_podcast_audio(script_path, speaker_voice_ids)
     print("Deleting generated voices...")
-    delete_generated_voices(client, speaker_voice_ids)
+    delete_generated_voices(speaker_voice_ids)
 
 if __name__ == "__main__":
     app()

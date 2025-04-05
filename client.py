@@ -7,6 +7,7 @@ from elevenlabs import ElevenLabs
 from pydub import AudioSegment
 import requests
 import io
+import os
 
 
 from common import WORDS_PER_MINUTE, AudioAIFunction
@@ -19,21 +20,31 @@ class SpeakerLine(BaseModel):
 class SpeakerLines(BaseModel):
     content: List[SpeakerLine]
 
+class ElevenLabsClientSingleton:
+    _instance = None
+    _client = None
 
-def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
-    """
-    Given a filepath to an audio file, clean background noise using an ElevenLabs client
-    and output a new audio file in the same folder as the given file with a _clean suffix. 
-    
-    Args:
-        input_filepath: Path to input audio file
-        
-    Returns:
-        str: Path to the cleaned output audio file
-        
-    Raises:
-        ValueError: If input file extension is not a recognized audio format
-    """
+    def __new__(cls):
+        if cls._instance is None:
+            cls._instance = super(ElevenLabsClientSingleton, cls).__new__(cls)
+            # Initialize the actual client here
+            # Ensure ELEVEN_API_KEY is set in environment or handle appropriately
+            if not os.environ.get("ELEVEN_API_KEY"):
+                raise ValueError("ELEVEN_API_KEY environment variable not set.")
+            cls._client = ElevenLabs()
+        return cls._instance
+
+    @property
+    def client(self) -> ElevenLabs:
+        return self._client
+
+# Function to easily get the client instance
+def get_elevenlabs_client() -> ElevenLabs:
+    return ElevenLabsClientSingleton().client
+
+def clean_audio(input_filepath: str) -> str:
+    """Clean background noise using the singleton ElevenLabs client."""
+    client = get_elevenlabs_client() # Get client from singleton
     # Validate input filepath and get format
     input_format = validate_audio_filepath(input_filepath)
     
@@ -52,6 +63,7 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
 
     def process_chunk(chunk: AudioSegment, temp_path: str) -> bytes:
         """Process a single chunk for audio cleaning"""
+        # Access client within nested function if needed (it's in scope)
         url = "https://api.elevenlabs.io/v1/audio-isolation"
         files = {"audio": open(temp_path, 'rb')}
         headers = {"xi-api-key": client._client_wrapper._api_key}
@@ -83,7 +95,6 @@ def clean_audio(client: ElevenLabs, input_filepath: str) -> str:
     return output_filepath
 
 def transcribe_audio(
-    client: ElevenLabs,
     audio_path: str,
     speakers_expected: int,
     transcription_path: str = './transcription/raw_transcript.txt',
@@ -120,7 +131,7 @@ def transcribe_audio(
             
     def process_chunk(chunk: AudioSegment, temp_path: str) -> list:
         """Process a single chunk for transcription"""
-        transcription = client.speech_to_text.convert(
+        transcription = get_elevenlabs_client().speech_to_text.convert(
             model_id="scribe_v1",
             file=open(temp_path, "rb"),
             num_speakers=speakers_expected,
@@ -209,22 +220,23 @@ def generate_script(transcription_path: str, length_minutes: int, audience: str 
     return script_path
 
 
-def get_available_voices(client: ElevenLabs):
+def get_available_voices():
     """
-    Get available voices from ElevenLabs.
-    
+    Get available voices from ElevenLabs using the singleton client.
+
     Returns:
-        list: List of available voices
+        list: List of available voices (excluding premade)
     """
-    
+    client = get_elevenlabs_client() # Use singleton
     all_voices = client.voices.get_all().voices
     non_premade_voices = list(filter(lambda v: v.category != "premade", all_voices))
     return non_premade_voices
 
-def clone_voice(client: ElevenLabs, voice_sample_filepath: str, voice_name: str) -> str:
+def clone_voice(voice_sample_filepath: str, voice_name: str) -> str:
     """
-    Clone a voice using ElevenLabs.
+    Clone a voice using ElevenLabs using the singleton client.
     """
+    client = get_elevenlabs_client() # Use singleton
     with open(voice_sample_filepath, 'rb') as f:
         voice = client.voices.add(
             name=voice_name,
