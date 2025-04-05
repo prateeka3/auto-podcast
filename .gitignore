@@ -176,3 +176,4 @@ cython_debug/
 !/audio/voices/
 /audio/voices/*
 /transcription/*
+.vscode/*
